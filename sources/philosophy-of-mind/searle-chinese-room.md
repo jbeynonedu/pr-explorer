@@ -54,3 +54,6 @@ Cole, D., "The Chinese Room Argument", *Stanford Encyclopedia of Philosophy*, fi
 ## bender-koller-2020 (opposing view on LLMs, for balance)
 Bender, E. M. & Koller, A. (2020), "Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data", *Proceedings of ACL 2020*, pp. 5185–5198. https://aclanthology.org/2020.acl-main.463/ (abstract, via search result, 25 Nov 2026; same wording in PDF and anthology page).
 > "a system trained only on form has a priori no way to learn meaning"
+
+## sep-turing (dates only)
+Hodges, A., "Alan Turing", *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/turing/ (search result text, 25 Nov 2026): "Alan Turing (1912–1954) never described himself as a philosopher, but his 1950 paper "Computing Machinery and Intelligence" is one of the most frequently cited in modern philosophical literature."

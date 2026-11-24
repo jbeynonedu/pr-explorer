@@ -27,3 +27,7 @@ Supports: two speakers can say the same thing with different sentences, in the s
 
 ## John's decision
 Claim and proposition treated as near-synonyms (25 Nov 2026).
+
+## sep-moral-cognitivism (checking only)
+van Roojen, M., "Moral Cognitivism vs. Non-Cognitivism", *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/moral-cognitivism/ (search result text, 25 Nov 2026).
+Supports: non-cognitivists think moral statements have no substantial truth conditions; cognitivism holds that moral statements express beliefs and are apt for truth and falsity. Used to qualify Bland's example (4).
