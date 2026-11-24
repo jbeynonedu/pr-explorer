@@ -16,6 +16,7 @@
 - Claims are **true/false**; they may also be **plausible** or **credible** (syllabus terms). Arguments are not true or false.
 - Use "argument" in its technical sense only; for a disagreement say "debate" or "dispute".
 - Use the syllabus's own name for each item (e.g. "illicit appeal to popular opinion").
+- Sources (Bland, the syllabus, SEP) are credited in the entry's Sources list only. Entry text does not refer to Bland or *Reason* ("Bland's example", "Bland calls..."). The QCAA course may be mentioned only where needed to limit complexity, and avoided where possible; "at this level" or "not covered here" usually does the job.
 - Add rules to this list whenever John flags a misuse.
 
 ## 3. Notation and standard form
@@ -23,6 +24,7 @@
 - Never use →, ∧ or ¬ (forall x uses them); convert when adapting.
 - Give a dictionary of propositions before symbolising: `L = "I win the lotto."`
 - Standard form, as in Bland: numbered premises `1.`, `2.`, conclusion labelled `C.`, hidden premises labelled `(HP)`.
+- Every standard-form argument goes in an ` ```sf ` block, one line per premise, with the conclusion `C.` always on its own line (the preview renders it below a rule). Never write a standard-form argument as a Markdown list.
 - Symbolic line form: `P ⊃ Q, ~Q ∴ ~P`.
 
 ## 4. Naming

@@ -31,9 +31,11 @@ Line form: `P ⊃ Q, ~Q ∴ ~P`
 
 Dictionary: `O = "The oval is waterlogged."` `C = "Saturday's game is cancelled."`
 
-1. `O ⊃ C`
-2. `~C`
-C. `~O`
+```sf
+1. O ⊃ C
+2. ~C
+C. ~O
+```
 
 The argument is valid: if both premises are true, the conclusion must be true. It is [sound](sound) only if the premises are also true; the first is false if a waterlogged game would be moved to another ground.
 
@@ -54,8 +56,8 @@ A truth table tests whether an argument form is valid: if no row has all true pr
 
 ## Variations you will meet
 
-- **Negated parts.** The consequent may already be negative. Bland's example: "The car can't be out of fuel because if it were, the engine wouldn't start. The engine started just fine, so the car has fuel." With `F = "The car is out of fuel."` and `E = "The engine starts."`, this is `F ⊃ ~E, E ∴ ~F`. Asserting E denies the consequent `~E`, so it is still modus tollens.
-- **Exact wording.** The second premise must deny the same proposition as the consequent. In Bland's example, "If a person is compassionate, then they donate to charity. Maria does not give money to charity..." the argument only looks like modus tollens. "Donating to charity" and "giving money to charity" may not mean the same thing (Maria may volunteer her time), so the argument is not deductively valid. (Moving from "a person" to Maria is a generalised modus tollens, which Bland accepts for this course.) A dictionary of propositions helps you catch this.
+- **Negated parts.** The consequent may already be negative. For example: "The car can't be out of fuel because if it were, the engine wouldn't start. The engine started just fine, so the car has fuel." With `F = "The car is out of fuel."` and `E = "The engine starts."`, this is `F ⊃ ~E, E ∴ ~F`. Asserting E denies the consequent `~E`, so it is still modus tollens.
+- **Exact wording.** The second premise must deny the same proposition as the consequent. Consider: "If a person is compassionate, then they donate to charity. Maria does not give money to charity..." the argument only looks like modus tollens. "Donating to charity" and "giving money to charity" may not mean the same thing (Maria may volunteer her time), so the argument is not deductively valid. (Applying a premise about "a person" to Maria is a generalised modus tollens, which is accepted at this level.) A dictionary of propositions helps you catch this.
 
 ## Look-alike forms
 

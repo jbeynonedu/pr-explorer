@@ -27,11 +27,24 @@ def render(eid):
     def keep(m):
         mermaid.append(m.group(1)); return f'\n\nMERMAID{len(mermaid)-1}\n\n'
     body = re.sub(r'```mermaid\n(.*?)```', keep, body, flags=re.S)
+    sfs = []
+    def keep_sf(m):
+        sfs.append(m.group(1)); return f'\n\nSFBLOCK{len(sfs)-1}\n\n'
+    body = re.sub(r'```sf\n(.*?)```', keep_sf, body, flags=re.S)
     tt = re.search(r'<!-- interactive: truth-table; premises: (.*?); conclusion: (.*?) -->', body)
     body = re.sub(r'<!--.*?-->\n?', '', body)
     h = markdown.markdown(body, extensions=['tables'])
     for i, code in enumerate(mermaid):
         h = h.replace(f'<p>MERMAID{i}</p>', f'<div class="map"><pre class="mermaid">{html.escape(code)}</pre></div>')
+    for i, block in enumerate(sfs):
+        rows = []
+        for line in block.strip().splitlines():
+            m = re.match(r'(\d+\.|C\.|\(HP\d*\))\s+(.*)', line)
+            lab, txt = (m.group(1), m.group(2)) if m else ('', line)
+            txt = re.sub(r'`([^`]+)`', r'<code>\1</code>', html.escape(txt))
+            cls = ' class="c"' if lab == 'C.' else ''
+            rows.append(f'<div{cls}><span>{html.escape(lab)}</span><span>{txt}</span></div>')
+        h = h.replace(f'<p>SFBLOCK{i}</p>', '<div class="sf" role="group" aria-label="Standard form">' + ''.join(rows) + '</div>')
     if tt:  # replace the first static truth table with an interactive one
         h = re.sub(r'<table>.*?</table>', '<div class="tt" data-form="mt"></div>', h, count=1, flags=re.S)
     def link(m):

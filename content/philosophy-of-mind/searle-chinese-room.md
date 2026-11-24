@@ -13,8 +13,6 @@ sources: [searle-1980, searle-1990, sep-chinese-room, sep-turing, bender-koller-
 
 **The Chinese room is a thought experiment by John Searle (1932–2025). It argues that running a computer program can never, by itself, be enough for understanding.** A person could follow a program for answering questions in Chinese perfectly, and still not understand a word of Chinese.
 
-*Syllabus note:* schools study at least two of the four philosophy of mind arguments (Descartes, Jackson, Chalmers, Searle).
-
 ## Context
 
 Searle published the argument in "Minds, Brains, and Programs" (1980). He distinguished two views of [artificial intelligence (AI)](artificial-intelligence):
@@ -38,13 +36,15 @@ In other words: Searle is doing exactly what a computer does, manipulating symbo
 
 Dictionary: `S = "Strong AI is true."` `U = "Searle in the room understands Chinese."`
 
+```sf
 1. If strong AI is true, then any system that runs the right program for Chinese understands Chinese.
 2. Searle in the room runs the right program for Chinese.
-3. So, if strong AI is true, Searle in the room understands Chinese. `S ⊃ U` (from 1 and 2)
+3. So, if strong AI is true, Searle in the room understands Chinese. (from 1 and 2) `S ⊃ U`
 4. Searle in the room does not understand Chinese. `~U`
 C. Therefore, strong AI is false. `~S`
+```
 
-Step 3 applies the general claim in premise 1 to Searle (what Bland calls a generalised form). Steps 3, 4 and C then form [modus tollens](modus-tollens), so this version is deductively [valid](valid). (This reconstruction follows Cole's in the *Stanford Encyclopedia of Philosophy*.)
+Step 3 applies the general claim in premise 1 to Searle, a generalised step accepted at this level. Steps 3, 4 and C then form [modus tollens](modus-tollens), so this version is deductively [valid](valid). (This reconstruction follows Cole's in the *Stanford Encyclopedia of Philosophy*.)
 
 ### Version 2: syntax and semantics (1990)
 

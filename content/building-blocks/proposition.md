@@ -15,13 +15,13 @@ sources: [bland-reason-ch1, bland-reason-ch2-dictionary, sep-structured-proposit
 
 ## Truth value
 
-Being true or being false is a proposition's *truth value*. Classical logic, which Bland's *Reason* treats as the foundation of the course, follows two principles: *bivalence* (each proposition has exactly one truth value) and *non-contradiction* (no proposition is both true and false at once). Some modern systems, such as fuzzy logic, allow degrees of truth; this course does not use them.
+Being true or being false is a proposition's *truth value*. Classical logic, the standard system for analysing arguments, follows two principles: *bivalence* (each proposition has exactly one truth value) and *non-contradiction* (no proposition is both true and false at once). Some other systems, such as fuzzy logic, allow degrees of truth; they are not covered here.
 
-A proposition only has to be *capable* of truth or falsity. Its truth value may depend on when or where it is asserted. Bland's examples:
+A proposition only has to be *capable* of truth or falsity. Its truth value may depend on when or where it is asserted. For example:
 
 - "Today is Tuesday." True on some days and false on others.
 - "The Prime Minister of our country is Anthony Albanese." True or false depending on which country "our" refers to.
-- "Capital punishment should be abolished." People disagree about whether it is true. Bland treats [normative](descriptive-normative) statements (claims about what should be) like this as propositions. Note, though, that some moral philosophers (non-cognitivists) deny that moral statements are true or false in any substantial sense; see [descriptive and normative claims](descriptive-normative).
+- "Capital punishment should be abolished." People disagree about whether it is true. This entry treats [normative](descriptive-normative) statements (claims about what should be) like this as propositions. Note, though, that some moral philosophers (non-cognitivists) deny that moral statements are true or false in any substantial sense; see [descriptive and normative claims](descriptive-normative).
 
 ## What is not a proposition
 
@@ -34,10 +34,6 @@ Sentences that cannot be true or false do not express propositions:
 ## Sentences and propositions
 
 A proposition is what a declarative sentence says, not the words used to say it. Different sentences can express the same proposition: "Snow is white" and the German "Schnee ist weiss" say the same thing. When you put an argument into [standard form](standard-form), check whether differently worded premises really express the same proposition.
-
-## Proposition and claim
-
-The syllabus lists both terms but does not define the difference. The Explorer treats them as near-synonyms; see [claim](claim).
 
 ## Propositions in symbolic logic
 
