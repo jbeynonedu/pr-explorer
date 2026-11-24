@@ -32,6 +32,8 @@ def render(eid):
         sfs.append(m.group(1)); return f'\n\nSFBLOCK{len(sfs)-1}\n\n'
     body = re.sub(r'```sf\n(.*?)```', keep_sf, body, flags=re.S)
     tt = re.search(r'<!-- interactive: truth-table; premises: (.*?); conclusion: (.*?) -->', body)
+    if tt:
+        body = body.replace(tt.group(0), '\n\nTTMARK\n\n', 1)
     body = re.sub(r'<!--.*?-->\n?', '', body)
     h = markdown.markdown(body, extensions=['tables'])
     for i, code in enumerate(mermaid):
@@ -45,8 +47,8 @@ def render(eid):
             cls = ' class="c"' if lab == 'C.' else ''
             rows.append(f'<div{cls}><span>{html.escape(lab)}</span><span>{txt}</span></div>')
         h = h.replace(f'<p>SFBLOCK{i}</p>', '<div class="sf" role="group" aria-label="Standard form">' + ''.join(rows) + '</div>')
-    if tt:  # replace the first static truth table with an interactive one
-        h = re.sub(r'<table>.*?</table>', '<div class="tt" data-form="mt"></div>', h, count=1, flags=re.S)
+    if tt:  # replace the first static table after the marker with an interactive one
+        h = re.sub(r'<p>TTMARK</p>(.*?)<table>.*?</table>', lambda m: m.group(1) + '<div class="tt" data-form="mt"></div>', h, count=1, flags=re.S)
     def link(m):
         target, text = m.group(1), m.group(2)
         if target in ids:

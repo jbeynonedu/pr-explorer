@@ -12,9 +12,12 @@ The Philosophy & Reason Explorer: a free, public reference for every key term, m
 ## Licences
 Syllabus extracts © State of Queensland (QCAA) 2026, CC BY 4.0. Material adapted from Bland, *Reason*, is CC BY-NC 4.0; forall x: Calgary is CC BY 4.0. The Explorer is non-commercial.
 
-## Preview
+## Site
+`python3 scripts/build_site.py OUT.html` builds the whole Explorer as one self-contained page from `tracker.csv` and `content/` (template: `scripts/site_template.html`). Bubbles: Reason (sections 1–6) and Philosophy (sections 7–14) → sections → entries, in tracker order; Philosophy sections group `term` entries under "Key terms". Default is the review preview (checked, approved and live entries, with status tags). `--public` includes approved and live entries only: use it for GitHub Pages. Review preview: https://claude.ai/artifact/69doPgZ34TYgy5yASkWhYY (private to John). Rebuild and republish it whenever an entry reaches checked or approved.
+
+## Preview (single entries)
 `python3 scripts/build_preview.py .work/preview.html <id> ...` builds a single review page (interactive truth tables, Mermaid argument maps) from `content/`. Phase 0 exemplar preview: https://claude.ai/artifact/WuKi8KEsjgzTUge826Uys2 (private to John).
 
 ## Where the next chat picks up (25 Nov 2026)
-1. **Site shell (next chat):** move the bubble prototype (artifact https://claude.ai/artifact/69doPgZ34TYgy5yASkWhYY) into the repo as the site. Bubbles are built from `tracker.csv` (Philosophy / Reason → sections → entries); approved and checked entries open from `content/`; unwritten entries show as placeholder bubbles. Render `sf` blocks, interactive truth tables and Mermaid maps as `scripts/build_preview.py` does. Publish as the review preview; GitHub Pages at launch.
-2. **Then Phase 1, Section 1: Building blocks** (Proposition already approved).
+1. **Site shell: built.** Preview republished at the bubble prototype's link. John to look it over (layout, section blurbs in `build_site.py`, footer wording). GitHub Pages at launch: build with `--public` to `docs/index.html` and enable Pages from `/docs`.
+2. **Next: Phase 1, Section 1: Building blocks** (Proposition already approved). Start at the Briefed stage for the remaining eight entries.
