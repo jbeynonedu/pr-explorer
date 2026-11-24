@@ -39,7 +39,7 @@ The argument is valid: if both premises are true, the conclusion must be true. I
 
 ## Why it is valid
 
-A deductive argument is valid when no row of its truth table has all true premises and a false conclusion (1 = true, 0 = false).
+A truth table tests whether an argument form is valid: if no row has all true premises and a false conclusion, the form is valid (1 = true, 0 = false).
 
 <!-- interactive: truth-table; premises: P ⊃ Q, ~Q; conclusion: ~P -->
 
@@ -54,8 +54,8 @@ A deductive argument is valid when no row of its truth table has all true premis
 
 ## Variations you will meet
 
-- **Negated parts.** The consequent may already be negative. "If the car is out of fuel, then the engine does not start. The engine starts. Therefore, the car is not out of fuel." This is `F ⊃ ~E, E ∴ ~F`: asserting E denies the consequent `~E`, so it is still modus tollens.
-- **Exact wording.** The second premise must deny exactly the consequent. In Bland's example, "If a person is compassionate, then they donate to charity. Maria does not give money to charity..." the argument only looks like modus tollens. "Donating to charity" and "giving money to charity" may not mean the same thing (Maria may volunteer her time), so the argument is not deductively valid. A dictionary of propositions helps you catch this.
+- **Negated parts.** The consequent may already be negative. Bland's example: "The car can't be out of fuel because if it were, the engine wouldn't start. The engine started just fine, so the car has fuel." With `F = "The car is out of fuel."` and `E = "The engine starts."`, this is `F ⊃ ~E, E ∴ ~F`. Asserting E denies the consequent `~E`, so it is still modus tollens.
+- **Exact wording.** The second premise must deny the same proposition as the consequent. In Bland's example, "If a person is compassionate, then they donate to charity. Maria does not give money to charity..." the argument only looks like modus tollens. "Donating to charity" and "giving money to charity" may not mean the same thing (Maria may volunteer her time), so the argument is not deductively valid. (Moving from "a person" to Maria is a generalised modus tollens, which Bland accepts for this course.) A dictionary of propositions helps you catch this.
 
 ## Look-alike forms
 
@@ -70,11 +70,11 @@ Both formal fallacies fail in the same row: P false and Q true. For example, the
 
 ## Where it matters
 
-Karl Popper's account of falsification in science relies on this pattern: if a theory predicts an observation and the observation does not occur, the theory is false. See [Popper's demarcation problem](popper-demarcation).
+Karl Popper (1902–1994) built his account of science on a logical asymmetry: no number of observations can verify a universal law, but a single genuine counter-instance falsifies it. The falsifying step has the form of modus tollens: if the law is true, no counter-instance occurs; one occurs; so the law is false. Popper also held that, in practice, one conflicting observation is not enough to reject a theory. See [Popper's demarcation problem](popper-demarcation).
 
 ## Related concepts
 [Modus ponens](modus-ponens) · [Denying the antecedent](denying-the-antecedent) · [Affirming the consequent](affirming-the-consequent) · [Deductively valid and invalid](valid) · [Logical operators](logical-operators) · [Popper's demarcation problem](popper-demarcation)
 
 ## Sources
-- Bland, *Reason* (Revised Edition), ch. 2, pp. 26–27; ch. 3, pp. 50–51, 68–69; exercise answers, p. 121. CC BY-NC 4.0.
-- Thornton, S., "Karl Popper", *Stanford Encyclopedia of Philosophy*, §3.
+- Bland, *Reason* (Revised Edition), ch. 2, pp. 26–27, 31 (exercise i); ch. 3, pp. 50–51, 68–69; answers, p. 121. CC BY-NC 4.0.
+- Thornton, S., "Karl Popper", *Stanford Encyclopedia of Philosophy* (rev. 31 Jul 2026), §§1, 3–4. https://plato.stanford.edu/entries/popper/

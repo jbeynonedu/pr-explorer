@@ -25,3 +25,9 @@ Bland, exercise answers, p. 121, (i): F = "The car is out of fuel." E = "The eng
 ## popper-link (one line only, per John)
 Wikipedia "Falsifiability" (search snippet, 25 Nov 2026): falsification "uses the valid inference modus tollens". SEP "Karl Popper" (Thornton), §3: asymmetry between verification and falsification; "a single genuine counter-instance falsifies the corresponding universal law". SEP does not use the term "modus tollens". Popper (1902–1994) per SEP §1.
 Status: the claim that falsification has the form of modus tollens is supported by a tertiary source only. Flag: confirm against Popper, *The Logic of Scientific Discovery* §18 when the Philosophy of science section is sourced.
+
+## bland-reason-ch2-exercise
+Bland, ch. 2, Exercise, p. 31, (i): "The car can't be out of fuel because if it were, the engine wouldn't start. The engine started just fine, so the car has fuel." Answer p. 121 (i) as above. Maria passage p. 69 includes: "Maria may volunteer her time, for example, which may still be considered as donating to charity."
+
+## popper-link revised (25 Nov 2026, after check)
+Wikipedia dropped. Entry now states only what SEP "Karl Popper" (Thornton, rev. 31 Jul 2026) supports: §3 asymmetry between verification and falsification; "a single genuine counter-instance falsifies the corresponding universal law"; §4: "in practice a single conflicting or counter-instance is never sufficient methodologically for falsification" (as reported by checker; re-verify). The modus tollens form of the falsifying step is the entry's own logical analysis (verified by code). Popper dates 1902–1994 (SEP §1).

@@ -57,3 +57,12 @@ Bender, E. M. & Koller, A. (2020), "Climbing towards NLU: On Meaning, Form, and 
 
 ## sep-turing (dates only)
 Hodges, A., "Alan Turing", *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/turing/ (search result text, 25 Nov 2026): "Alan Turing (1912–1954) never described himself as a philosopher, but his 1950 paper "Computing Machinery and Intelligence" is one of the most frequently cited in modern philosophical literature."
+
+## Added after check (25 Nov 2026)
+- Searle 1990 axioms confirmed against a second copy (checker): https://mail.joelvelasco.net/teaching/hum9/scientificamerican0190-26.pdf, p. 27.
+- Searle (1932–2025) also confirmed by Daily Nous obituary, 28 Sep 2025 (checker).
+- Necessary vs sufficient: Searle 1980, p. 418: programs "certainly not sufficient conditions"; "not the slightest reason has been given to suppose that they are necessary conditions"; "I have not demonstrated that this claim is false".
+- Intentionality: SEP §1: "a technical term for a feature of mental and certain other things, namely being about something"; Searle 1980 abstract: instantiating a program "is never by itself a sufficient condition of intentionality".
+- Bender & Koller §9: grounding data might allow meaning to be learned (checker); §3.2 discusses Searle.
+- SEP §4.6 (Cole): "So we are not there yet" (checker).
+- Schank's program answered questions whose answers were not explicitly stated in the story (Searle 1980, p. 417).
