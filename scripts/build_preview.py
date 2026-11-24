@@ -1,0 +1,54 @@
+"""Build a single-page review preview of entries from content/*.md.
+
+Usage: python3 scripts/build_preview.py OUT.html id1 id2 ...
+Renders each entry's markdown, an interactive truth table where an
+`<!-- interactive: truth-table ... -->` marker appears, and Mermaid
+argument maps. Links to entries not yet written are shown as plain text.
+"""
+import html, json, re, sys, glob, csv
+import markdown, yaml
+
+ROOT = __file__.rsplit('/scripts/', 1)[0]
+out, ids = sys.argv[1], sys.argv[2:]
+tracker = {r['id']: r for r in csv.DictReader(open(f'{ROOT}/tracker.csv'))}
+files = {}
+for p in glob.glob(f'{ROOT}/content/*/*.md'):
+    fm, body = open(p).read().split('---', 2)[1:]
+    meta = yaml.safe_load(fm)
+    files[meta['id']] = (meta, body)
+
+BRANCH = {'building-blocks': 'r', 'symbolic-logic': 'r', 'deduction': 'r', 'informal-fallacies': 'r',
+          'induction': 'r'}
+
+def render(eid):
+    meta, body = files[eid]
+    body = re.sub(r'^# .*\n', '', body.strip(), count=1)
+    mermaid = []
+    def keep(m):
+        mermaid.append(m.group(1)); return f'\n\nMERMAID{len(mermaid)-1}\n\n'
+    body = re.sub(r'```mermaid\n(.*?)```', keep, body, flags=re.S)
+    tt = re.search(r'<!-- interactive: truth-table; premises: (.*?); conclusion: (.*?) -->', body)
+    body = re.sub(r'<!--.*?-->\n?', '', body)
+    h = markdown.markdown(body, extensions=['tables'])
+    for i, code in enumerate(mermaid):
+        h = h.replace(f'<p>MERMAID{i}</p>', f'<div class="map"><pre class="mermaid">{html.escape(code)}</pre></div>')
+    if tt:  # replace the first static truth table with an interactive one
+        h = re.sub(r'<table>.*?</table>', '<div class="tt" data-form="mt"></div>', h, count=1, flags=re.S)
+    def link(m):
+        target, text = m.group(1), m.group(2)
+        if target in ids:
+            return f'<a href="#{target}">{text}</a>'
+        status = tracker.get(target, {}).get('status', 'planned')
+        return f'<span class="xref" title="Entry not yet written ({status})">{text}</span>'
+    h = re.sub(r'<a href="([a-z0-9-]+)">(.*?)</a>', link, h)
+    h = h.replace('<table>', '<div class="scroll"><table>').replace('</table>', '</table></div>')
+    br = BRANCH.get(meta['section'], 'p')
+    tags = f'<span class="tag">{html.escape(meta["type"])}</span><span class="tag">Unit {", ".join(map(str, meta["units"]))}</span><span class="tag">{html.escape(meta["section"].replace("-", " "))}</span><span class="tag st">{html.escape(meta["status"])}</span>'
+    return (f'<article class="entry" id="{eid}" style="--c:var(--{br});--soft:var(--{br}-soft)">'
+            f'<div class="tags">{tags}</div><h2>{html.escape(meta["title"])}</h2>{h}</article>')
+
+nav = ''.join(f'<a href="#{i}">{html.escape(files[i][0]["title"])}</a>' for i in ids)
+arts = '\n'.join(render(i) for i in ids)
+page = open(f'{ROOT}/scripts/preview_template.html').read().replace('{{NAV}}', nav).replace('{{ENTRIES}}', arts)
+open(out, 'w').write(page)
+print('wrote', out, len(page))
