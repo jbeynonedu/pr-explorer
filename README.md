@@ -20,4 +20,4 @@ Syllabus extracts © State of Queensland (QCAA) 2026, CC BY 4.0. Material adapte
 
 ## Where the next chat picks up (25 Nov 2026)
 1. **Site shell: built.** Preview republished at the bubble prototype's link. John to look it over (layout, section blurbs in `build_site.py`, footer wording). GitHub Pages at launch: build with `--public` to `docs/index.html` and enable Pages from `/docs`.
-2. **Next: Phase 1, Section 1: Building blocks** (Proposition already approved). Start at the Briefed stage for the remaining eight entries.
+2. **Phase 1, Section 1: Building blocks.** Briefs written for the remaining eight entries (`briefs/`); scope awaiting John's decisions on the questions in each brief. Next: record his decisions in the briefs, then Sourced (fetch forall x: Calgary ch. 1 and the QCAA Cognitive verb framework; Bland extracts from the Project file).
