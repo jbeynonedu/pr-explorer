@@ -1,7 +1,7 @@
 id,title,type,units,section_no,section,status,phase0_exemplar,notes
 argument,Argument,term,1,1,Building blocks,not-started,,
 claim,Claim,term,1,1,Building blocks,not-started,,
-proposition,Proposition,term,1,1,Building blocks,drafted,yes,
+proposition,Proposition,term,1,1,Building blocks,checked,yes,
 premise,Premise,term,1,1,Building blocks,not-started,,
 conclusion,Conclusion,term,1,1,Building blocks,not-started,,
 hidden-premise,Hidden premise,term,1,1,Building blocks,not-started,,Syllabus: identify hidden premises
@@ -18,7 +18,7 @@ limits-of-deduction,Limitations of deduction,term,1,2,Deduction,not-started,,
 logical-operators,"Logical operators (~, &, ∨, ⊃)",term,1,3,Symbolic logic,not-started,,Includes operator truth tables
 translating-symbolising,Translating and symbolising propositions,term,1,3,Symbolic logic,not-started,,
 modus-ponens,Modus ponens,logic-form,1,3,Symbolic logic,not-started,,
-modus-tollens,Modus tollens,logic-form,1,3,Symbolic logic,drafted,yes,
+modus-tollens,Modus tollens,logic-form,1,3,Symbolic logic,checked,yes,
 hypothetical-syllogism,Hypothetical syllogism,logic-form,1,3,Symbolic logic,not-started,,
 disjunctive-syllogism,Disjunctive syllogism,logic-form,1,3,Symbolic logic,not-started,,
 constructive-dilemma,Constructive dilemma,logic-form,1,3,Symbolic logic,not-started,,
@@ -85,7 +85,7 @@ artificial-intelligence,Artificial intelligence (AI),term,2,9,Philosophy of mind
 descartes-dualism,Descartes's mind-body dualism,argument,2,9,Philosophy of mind,not-started,,
 jackson-qualia,Jackson's epiphenomenal qualia,argument,2,9,Philosophy of mind,not-started,,
 chalmers-zombie,Chalmers's philosophical zombie,argument,2,9,Philosophy of mind,not-started,,
-searle-chinese-room,Searle's Chinese room argument,argument,2,9,Philosophy of mind,drafted,yes,
+searle-chinese-room,Searle's Chinese room argument,argument,2,9,Philosophy of mind,checked,yes,
 morality,Morality,term,3,10,Moral philosophy,not-started,,
 ethics,Ethics,term,3,10,Moral philosophy,not-started,,
 happiness,Happiness,term,3,10,Moral philosophy,not-started,,

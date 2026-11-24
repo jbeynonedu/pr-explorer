@@ -4,7 +4,7 @@ title: Modus tollens
 type: logic-form
 units: [1]
 section: symbolic-logic
-status: drafted
+status: checked
 related: [modus-ponens, denying-the-antecedent, affirming-the-consequent, valid, logical-operators, popper-demarcation]
 sources: [bland-reason-ch2, bland-reason-ch3-truth-table, bland-reason-ch3-wording, bland-reason-answers, popper-link]
 ---
@@ -70,7 +70,7 @@ Both formal fallacies fail in the same row: P false and Q true. For example, the
 
 ## Where it matters
 
-Karl Popper (1902–1994) built his account of science on a logical asymmetry: no number of observations can verify a universal law, but a single genuine counter-instance falsifies it. The falsifying step has the form of modus tollens: if the law is true, no counter-instance occurs; one occurs; so the law is false. Popper also held that, in practice, one conflicting observation is not enough to reject a theory. See [Popper's demarcation problem](popper-demarcation).
+Karl Popper (1902–1994) built his account of science on a logical asymmetry: no number of observations can verify a universal law, but a single genuine counter-instance falsifies it. The falsifying step has the form of modus tollens: if the law is true, no counter-instance occurs; one occurs; so the law is false. Popper also held that, in practice, one conflicting observation is never methodologically sufficient for falsification, because deciding whether an apparent counter-instance is genuine can be problematic. See [Popper's demarcation problem](popper-demarcation).
 
 ## Related concepts
 [Modus ponens](modus-ponens) · [Denying the antecedent](denying-the-antecedent) · [Affirming the consequent](affirming-the-consequent) · [Deductively valid and invalid](valid) · [Logical operators](logical-operators) · [Popper's demarcation problem](popper-demarcation)

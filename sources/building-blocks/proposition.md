@@ -35,3 +35,6 @@ Supports: non-cognitivists think moral statements have no substantial truth cond
 ## bland-reason-ch2-compound
 Bland, ch. 2, p. 25: "This is a compound proposition, meaning it is a logical expression that connects two or more propositions using a logical connective."
 Bland, ch. 1, p. 9: classical logic is "the branch that we are focused on in this course".
+
+## Second check (25 Nov 2026)
+Bland p. 10 table also lists incomplete sentences and paradoxes (not used). Exclamation example now Bland p. 10 "Oh, what a beautiful morning!". Exercise 1.1 answers are on p. 116, not 12.

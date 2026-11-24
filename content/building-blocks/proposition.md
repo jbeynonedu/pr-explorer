@@ -4,7 +4,7 @@ title: Proposition
 type: term
 units: [1]
 section: building-blocks
-status: drafted
+status: checked
 related: [claim, premise, conclusion, argument, true-false, logical-operators, translating-symbolising, descriptive-normative]
 sources: [bland-reason-ch1, bland-reason-ch2-dictionary, sep-structured-propositions, sep-moral-cognitivism]
 ---
@@ -15,7 +15,7 @@ sources: [bland-reason-ch1, bland-reason-ch2-dictionary, sep-structured-proposit
 
 ## Truth value
 
-Being true or being false is a proposition's *truth value*. Classical logic, the logic this course focuses on, follows two principles: *bivalence* (each proposition has exactly one truth value) and *non-contradiction* (no proposition is both true and false at once). Some modern systems, such as fuzzy logic, allow degrees of truth; this course does not use them.
+Being true or being false is a proposition's *truth value*. Classical logic, which Bland's *Reason* treats as the foundation of the course, follows two principles: *bivalence* (each proposition has exactly one truth value) and *non-contradiction* (no proposition is both true and false at once). Some modern systems, such as fuzzy logic, allow degrees of truth; this course does not use them.
 
 A proposition only has to be *capable* of truth or falsity. Its truth value may depend on when or where it is asserted. Bland's examples:
 
@@ -29,7 +29,7 @@ Sentences that cannot be true or false do not express propositions:
 
 - questions: "Where is my phone?"
 - commands: "Please sit down."
-- exclamations: "Wow, that's amazing!"
+- exclamations: "Oh, what a beautiful morning!"
 
 ## Sentences and propositions
 
@@ -41,12 +41,12 @@ The syllabus lists both terms but does not define the difference. The Explorer t
 
 ## Propositions in symbolic logic
 
-A compound proposition connects two or more propositions with a [logical operator](logical-operators). Each simple proposition gets a letter in a *dictionary* (`L = "I win the lotto."` `W = "I am wealthy."`), so "If I win the lotto, then I am wealthy" becomes `L ⊃ W`. See [translating and symbolising propositions](translating-symbolising).
+A compound proposition connects two or more propositions with a [logical operator](logical-operators); negation (`~`) applies an operator to a single proposition. Each simple proposition gets a letter in a *dictionary* (`L = "I win the lotto."` `W = "I am wealthy."`), so "If I win the lotto, then I am wealthy" becomes `L ⊃ W`. See [translating and symbolising propositions](translating-symbolising).
 
 ## Related concepts
 [Argument](argument) · [Claim](claim) · [Premise](premise) · [Conclusion](conclusion) · [True and false](true-false) · [Logical operators](logical-operators) · [Descriptive and normative claims](descriptive-normative)
 
 ## Sources
-- Bland, *Reason* (Revised Edition), ch. 1, §1.1, pp. 9–10, 12; ch. 2, pp. 25, 27; ch. 3, §3.1, p. 36. CC BY-NC 4.0.
+- Bland, *Reason* (Revised Edition), ch. 1, §1.1, pp. 9–10; ch. 2, pp. 25, 27; ch. 3, §3.1, p. 36. CC BY-NC 4.0.
 - King, J. C., "Structured Propositions", *Stanford Encyclopedia of Philosophy* (rev. 10 Dec 2024).
 - van Roojen, M., "Moral Cognitivism vs. Non-Cognitivism", *Stanford Encyclopedia of Philosophy* (rev. 18 Dec 2023).

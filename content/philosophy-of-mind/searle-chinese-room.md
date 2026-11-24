@@ -4,7 +4,7 @@ title: Searle's Chinese room argument
 type: argument
 units: [2]
 section: philosophy-of-mind
-status: drafted
+status: checked
 related: [artificial-intelligence, mind, consciousness, physicalism, dualism, modus-tollens, necessary-sufficient, begging-the-question, jackson-qualia, chalmers-zombie, descartes-dualism]
 sources: [searle-1980, searle-1990, sep-chinese-room, sep-turing, bender-koller-2020]
 ---
@@ -22,7 +22,7 @@ Searle published the argument in "Minds, Brains, and Programs" (1980). He distin
 - **Weak AI:** computers are a powerful tool for studying the mind, for example for testing hypotheses about it.
 - **Strong AI:** "the appropriately programmed computer really is a mind" (Searle 1980, p. 417). On this view, a computer running the right program literally understands.
 
-Searle attacks only strong AI. His target is *intentionality*, the feature of mental states of being about something; understanding a story is his main example. His example was the work of Roger Schank's group at Yale, whose programs answered questions about simple stories. The argument also challenges the Turing test. Alan Turing (1912–1954) proposed in 1950 that if a computer can pass for a human in conversation, it should count as intelligent.
+Searle attacks only strong AI. The mental feature at issue is *intentionality*, the feature of mental states of being about something; understanding a story is his main example. His example was the work of Roger Schank's group at Yale, whose programs answered questions about simple stories. The argument also challenges the Turing test. Alan Turing (1912–1954) proposed in 1950 that if a computer can pass for a human in conversation, it should count as intelligent.
 
 ## The thought experiment
 
@@ -44,7 +44,7 @@ Dictionary: `S = "Strong AI is true."` `U = "Searle in the room understands Chin
 4. Searle in the room does not understand Chinese. `~U`
 C. Therefore, strong AI is false. `~S`
 
-Steps 3, 4 and C form [modus tollens](modus-tollens), so this version is deductively [valid](valid). (This reconstruction follows Cole's in the *Stanford Encyclopedia of Philosophy*.)
+Step 3 applies the general claim in premise 1 to Searle (what Bland calls a generalised form). Steps 3, 4 and C then form [modus tollens](modus-tollens), so this version is deductively [valid](valid). (This reconstruction follows Cole's in the *Stanford Encyclopedia of Philosophy*.)
 
 ### Version 2: syntax and semantics (1990)
 
@@ -83,10 +83,10 @@ flowchart TD
   CR["Chinese room: Searle runs the program but understands nothing"] -->|supports| A3
   SR["Systems reply"] -.->|objects to| CR
   IR["Intuition reply"] -.->|objects to| CR
-  RR["Robot reply"] -.->|objects to| A1
+  RR["Robot reply"] -.->|limits| CR
   BR["Brain simulator reply"] -.->|objects to| C
 ```
-*Text alternative:* Axioms 1, 2 and 3 together support the conclusion. The Chinese room supports Axiom 3. The systems reply and the intuition reply object to what the thought experiment shows. The robot reply denies that an embodied system is purely syntactic (Axiom 1). The brain simulator reply claims that a program of the right kind would be sufficient (the conclusion).
+*Text alternative:* Axioms 1, 2 and 3 together support the conclusion. The Chinese room supports Axiom 3. The systems reply and the intuition reply object to what the thought experiment shows. The robot reply accepts the room's verdict but denies that it extends to a program connected to the world. The brain simulator reply claims that a program of the right kind would be sufficient (the conclusion).
 
 ## Objections and replies
 
@@ -115,8 +115,8 @@ Searle answered the main objections in the 1980 paper.
 3. **Test each premise.**
    - Premise 1 (version 1): does strong AI really claim that *whoever runs* the program understands, or only that understanding is created somewhere? The virtual mind reply targets this.
    - Premise 4 (version 1): Searle says it is obvious that he understands nothing. The intuition reply questions whether this is reliable.
-   - Premise 2 (version 1): the robot and brain simulator replies accept that the room does not understand, but deny that it covers every relevant kind of system. Does the room generalise to *all* programs?
-   - Axioms 1 and 3 (version 2): is a program running in a body, connected to the world, still *purely* syntactic? And is Axiom 3 something the room shows, or something it assumes?
+   - Premise 2 (version 1): the brain simulator reply accepts that the room does not understand, but claims a different kind of program would. Does the room generalise to *all* programs?
+   - Axiom 3 (version 2): does it hold for symbols causally connected to the world, or only for syntax in isolation? The robot reply grants the second but not the first. Is Axiom 3 something the room shows, or something it assumes?
 4. **Separate what is claimed from what is not.** The argument concerns sufficiency. It leaves open whether some non-biological system could think, if it had the right causal powers.
 
 The Explorer does not give a verdict. Philosophers remain divided on whether the argument succeeds.
@@ -126,7 +126,7 @@ The Explorer does not give a verdict. Philosophers remain divided on whether the
 Searle's target was a program built around hand-written "scripts" for short stories. Large language models (LLMs) are instead trained on huge amounts of text. Does this make a difference to the argument?
 
 - **Doubts about understanding:** linguists Emily Bender and Alexander Koller argue that "a system trained only on form has a priori no way to learn meaning" (2020). This parallels Searle's Axiom 3 for systems trained on text alone. Unlike Searle, though, they allow that grounding in the world might supply meaning.
-- **Claims of understanding:** some, including David Cole in the *Stanford Encyclopedia*, argue that when systems match human experts across many tasks, denying that they understand anything becomes hard to defend. Others suggest LLMs understand in a partial sense. Cole also notes that current systems do not yet settle the question.
+- **Claims of understanding:** David Cole, in the *Stanford Encyclopedia*, suggests that if systems outperform human experts across many tasks, denying that they understand anything becomes hard to defend. Others suggest LLMs understand in a partial sense. Cole also notes that current chatbots contradict themselves about whether they understand, so they would not yet pass the Turing test.
 
 Each side has to say what understanding is, and that question is exactly what the Chinese room puts in dispute.
 
@@ -137,5 +137,5 @@ Each side has to say what understanding is, and that question is exactly what th
 - Searle, J. R. (1980), "Minds, brains, and programs", *Behavioral and Brain Sciences* 3(3): 417–457. Quotations from pp. 417–421.
 - Searle, J. R. (1990), "Is the Brain's Mind a Computer Program?", *Scientific American* 262, no. 1 (January): 26–31. Axioms on p. 27.
 - Cole, D., "The Chinese Room Argument", *Stanford Encyclopedia of Philosophy* (rev. 23 Oct 2024).
-- Hodges, A., "Alan Turing", *Stanford Encyclopedia of Philosophy*.
+- Hodges, A., "Alan Turing", *Stanford Encyclopedia of Philosophy* (dates only).
 - Bender, E. M. & Koller, A. (2020), "Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data", *Proceedings of ACL 2020*, pp. 5185–5198.
