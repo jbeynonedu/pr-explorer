@@ -1,0 +1,147 @@
+id,title,type,units,section_no,section,status,phase0_exemplar,notes
+argument,Argument,term,1,1,Building blocks,not-started,,
+claim,Claim,term,1,1,Building blocks,not-started,,
+proposition,Proposition,term,1,1,Building blocks,briefed,yes,
+premise,Premise,term,1,1,Building blocks,not-started,,
+conclusion,Conclusion,term,1,1,Building blocks,not-started,,
+hidden-premise,Hidden premise,term,1,1,Building blocks,not-started,,Syllabus: identify hidden premises
+standard-form,Standard form,term,1,1,Building blocks,not-started,,Syllabus: arrange premises and conclusions into standard argument form
+purposes-of-argument,"Purposes of argument (explain, justify, analyse, evaluate)",term,1,1,Building blocks,not-started,,May split into four terms
+descriptive-normative,Descriptive and normative claims,term,1,1,Building blocks,not-started,,Not a syllabus term; in plan; supports is-ought
+deduction,Deduction,term,1,2,Deduction,not-started,,
+deductive-vs-inductive,The distinction between deductive and inductive arguments,term,1,2,Deduction,not-started,,Syllabus Explain dot point
+valid,Deductively valid and invalid,term,1,2,Deduction,not-started,,
+sound,Sound and unsound,term,1,2,Deduction,not-started,,
+necessary-sufficient,Necessary and sufficient conditions,term,1,2,Deduction,not-started,,
+classifying-arguments,Classifying arguments,term,1,2,Deduction,not-started,,"Syllabus: classify arguments, e.g. inductive/deductive, argument type"
+limits-of-deduction,Limitations of deduction,term,1,2,Deduction,not-started,,
+logical-operators,"Logical operators (~, &, ∨, ⊃)",term,1,3,Symbolic logic,not-started,,Includes operator truth tables
+translating-symbolising,Translating and symbolising propositions,term,1,3,Symbolic logic,not-started,,
+modus-ponens,Modus ponens,logic-form,1,3,Symbolic logic,not-started,,
+modus-tollens,Modus tollens,logic-form,1,3,Symbolic logic,briefed,yes,
+hypothetical-syllogism,Hypothetical syllogism,logic-form,1,3,Symbolic logic,not-started,,
+disjunctive-syllogism,Disjunctive syllogism,logic-form,1,3,Symbolic logic,not-started,,
+constructive-dilemma,Constructive dilemma,logic-form,1,3,Symbolic logic,not-started,,
+affirming-the-consequent,Affirming the consequent,logic-form,1,3,Symbolic logic,not-started,,Formal fallacy
+denying-the-antecedent,Denying the antecedent,logic-form,1,3,Symbolic logic,not-started,,Formal fallacy
+ad-populum,Ad populum (illicit appeal to popular opinion/bandwagon fallacy),fallacy,1,4,Informal fallacies,not-started,,
+appeal-to-nature,Illicit appeal to nature,fallacy,1,4,Informal fallacies,not-started,,
+tu-quoque,Tu quoque (illicit appeal to hypocrisy),fallacy,1,4,Informal fallacies,not-started,,
+ad-hominem,Ad hominem (abusive and circumstantial),fallacy,1,4,Informal fallacies,not-started,,
+post-hoc,Post hoc ergo propter hoc (false cause),fallacy,1,4,Informal fallacies,not-started,,
+ad-verecundiam,Ad verecundiam (appeal to the wrong authority),fallacy,1,4,Informal fallacies,not-started,,
+slippery-slope,Slippery slope,fallacy,1,4,Informal fallacies,not-started,,
+faulty-analogy,Faulty analogy,fallacy,1,4,Informal fallacies,not-started,,
+ad-misericordiam,Ad misericordiam (illicit appeal to emotion),fallacy,1,4,Informal fallacies,not-started,,
+gamblers-fallacy,Gambler's fallacy,fallacy,1,4,Informal fallacies,not-started,,
+composition-division,Composition/division,fallacy,1,4,Informal fallacies,not-started,,
+begging-the-question,Begging the question,fallacy,1,4,Informal fallacies,not-started,,
+hasty-generalisation,Hasty generalisation,fallacy,1,4,Informal fallacies,not-started,,
+is-ought,Is-ought fallacy,fallacy,1,4,Informal fallacies,not-started,,
+induction,Induction,term,1,5,Induction,not-started,,
+analogy,Analogy,term,1;2,5,Induction,not-started,,Syllabus: use of analogy in induction (Unit 1) and in science (Unit 2)
+generalisation,Generalisation,term,1;2,5,Induction,not-started,,
+strong-weak,Inductively strong and weak,term,1,5,Induction,not-started,,
+problem-of-induction,Hume's problem of induction,argument,1;2,5,Induction,not-started,,Also Unit 2 Topic 2 dot point
+uniformity-of-nature,Uniformity of nature,term,1;2,5,Induction,not-started,,
+true-false,True and false,term,1,6,Claims and reason in the real world,not-started,,
+plausible,Plausible,term,1,6,Claims and reason in the real world,not-started,,
+credible,Credible,term,1,6,Claims and reason in the real world,not-started,,
+justification-persuasion,Justification and persuasion,term,1,6,Claims and reason in the real world,not-started,,
+cognitive-bias,Cognitive bias,term,1,6,Claims and reason in the real world,not-started,,
+confirmation-bias,Confirmation bias,term,1,6,Claims and reason in the real world,not-started,,
+misuse-of-argument,"Use and misuse of argument (political discourse, advertising, scientific debate)",term,1,6,Claims and reason in the real world,not-started,,
+religion,Religion,term,2,7,Philosophy of religion,not-started,,
+god,God,term,2,7,Philosophy of religion,not-started,,
+omnipotence,Omnipotence,term,2,7,Philosophy of religion,not-started,,
+omniscience,Omniscience,term,2,7,Philosophy of religion,not-started,,
+benevolence,Benevolence,term,2,7,Philosophy of religion,not-started,,
+good,Good,term,2;3,7,Philosophy of religion,not-started,,Also a Unit 3 term; one shared entry (confirm)
+evil,Evil,term,2;3,7,Philosophy of religion,not-started,,Also a Unit 3 term; one shared entry (confirm)
+ontological-argument,Ontological argument(s),argument,2,7,Philosophy of religion,not-started,,
+cosmological-argument,Cosmological argument(s),argument,2,7,Philosophy of religion,not-started,,
+teleological-argument,Teleological argument(s),argument,2,7,Philosophy of religion,not-started,,
+problem-of-evil,The problem of evil/suffering,argument,2,7,Philosophy of religion,not-started,,
+falsification,Falsification,term,2,8,Philosophy of science,not-started,,
+fallibility,Fallibility,term,2,8,Philosophy of science,not-started,,
+realism,Realism,term,2,8,Philosophy of science,not-started,,
+empiricism,Empiricism,term,2,8,Philosophy of science,not-started,,
+hypothesis,Hypothesis,term,2,8,Philosophy of science,not-started,,
+proof,Proof,term,2,8,Philosophy of science,not-started,,
+cause,Cause,term,2,8,Philosophy of science,not-started,,
+pseudoscience,Pseudoscience,term,2,8,Philosophy of science,not-started,,
+reasoning-in-science,"The use of analogy, generalisation and deduction in science",term,2,8,Philosophy of science,not-started,,
+induction-in-science,The problem of induction and scientific knowledge,argument,2,8,Philosophy of science,not-started,,Builds on problem-of-induction; avoid repetition
+popper-demarcation,Popper's demarcation problem,argument,2,8,Philosophy of science,not-started,,
+hypothetico-deductive,The hypothetico-deductive method,argument,2,8,Philosophy of science,not-started,,
+consciousness,Consciousness,term,2,9,Philosophy of mind,not-started,,
+mind,Mind,term,2,9,Philosophy of mind,not-started,,
+brain,Brain,term,2,9,Philosophy of mind,not-started,,
+free-will,Free will,term,2,9,Philosophy of mind,not-started,,
+dualism,Dualism,term,2,9,Philosophy of mind,not-started,,
+physicalism,Physicalism,term,2,9,Philosophy of mind,not-started,,
+determinism,Determinism,term,2,9,Philosophy of mind,not-started,,
+artificial-intelligence,Artificial intelligence (AI),term,2,9,Philosophy of mind,not-started,,
+descartes-dualism,Descartes's mind-body dualism,argument,2,9,Philosophy of mind,not-started,,
+jackson-qualia,Jackson's epiphenomenal qualia,argument,2,9,Philosophy of mind,not-started,,
+chalmers-zombie,Chalmers's philosophical zombie,argument,2,9,Philosophy of mind,not-started,,
+searle-chinese-room,Searle's Chinese room argument,argument,2,9,Philosophy of mind,briefed,yes,
+morality,Morality,term,3,10,Moral philosophy,not-started,,
+ethics,Ethics,term,3,10,Moral philosophy,not-started,,
+happiness,Happiness,term,3,10,Moral philosophy,not-started,,
+suffering,Suffering,term,3,10,Moral philosophy,not-started,,
+flourishing,Flourishing,term,3,10,Moral philosophy,not-started,,
+duty,Duty,term,3;4,10,Moral philosophy,not-started,,Also a Unit 4 term (rights; political); one shared entry (confirm)
+right,Right (moral rightness),term,3,10,Moral philosophy,not-started,,Distinct from 'rights' (Unit 4)
+virtue,Virtue,term,3,10,Moral philosophy,not-started,,
+value,Value,term,3,10,Moral philosophy,not-started,,
+absolutism,Absolutism,term,3,10,Moral philosophy,not-started,,
+relativism,Relativism,term,3,10,Moral philosophy,not-started,,
+utilitarianism,Utilitarianism,theory,3,10,Moral philosophy,not-started,,Split into sub-entries
+kantian-ethics,Kantian ethics,theory,3,10,Moral philosophy,not-started,,Split into sub-entries
+virtue-ethics,Virtue ethics,theory,3,10,Moral philosophy,not-started,,Split into sub-entries
+consequentialism,Consequentialism: core claims,theory,3,11,Consequentialism (school),not-started,,Builds on utilitarianism; avoid repetition
+hedonism-preference,Hedonistic and preference consequentialism,term,3,11,Consequentialism (school),not-started,,
+act-rule,Act and rule consequentialism,term,3,11,Consequentialism (school),not-started,,
+sidgwick,Henry Sidgwick,theory,3,11,Consequentialism (school),not-started,,
+singer,Peter Singer,theory,3,11,Consequentialism (school),not-started,,
+integrity-objection,The integrity objection,argument,3,11,Consequentialism (school),not-started,,
+demandingness-objection,The demandingness objection,argument,3,11,Consequentialism (school),not-started,,
+feminist-philosophy,Feminist philosophy: core claims,theory,3,12,Feminist philosophy (school),not-started,,
+liberal-feminism,Liberal feminism,theory,3,12,Feminist philosophy (school),not-started,,
+radical-feminism,Radical feminism,theory,3,12,Feminist philosophy (school),not-started,,
+care-ethics,Ethics of care,theory,3,12,Feminist philosophy (school),not-started,,
+social-contract-critique,Feminist critique of the social contract,argument,3;4,12,Feminist philosophy (school),not-started,,Links to section 13
+wollstonecraft,Mary Wollstonecraft,theory,3,12,Feminist philosophy (school),not-started,,
+de-beauvoir,Simone de Beauvoir,theory,3,12,Feminist philosophy (school),not-started,,
+okin,Susan Moller Okin,theory,3,12,Feminist philosophy (school),not-started,,Key thinker list to confirm with John
+human-nature,Human nature,term,4,13,Rights,not-started,,Also Unit 4 Topic 2 term
+moral-right,Moral right,term,4,13,Rights,not-started,,
+legal-right,Legal right,term,4,13,Rights,not-started,,
+positive-right,Positive right,term,4,13,Rights,not-started,,
+negative-right,Negative right,term,4,13,Rights,not-started,,
+obligation,Obligation,term,4,13,Rights,not-started,,Also Unit 4 Topic 2 term
+civil-disobedience,Civil disobedience,term,4,13,Rights,not-started,,
+authority,Authority,term,4,13,Rights,not-started,,Also Unit 4 Topic 2 term
+property,Property,term,4,13,Rights,not-started,,
+natural-rights,Natural rights/human rights,argument,4,13,Rights,not-started,,
+social-contract-hobbes,Social contract theory: Hobbes,argument,4,13,Rights,not-started,,
+social-contract-locke,Social contract theory: Locke,argument,4,13,Rights,not-started,,
+labour-theory-of-property,Locke's labour theory of property,argument,4,13,Rights,not-started,,
+harm-principle,Mill's harm principle,argument,4,13,Rights,not-started,,Syllabus dot point; missing from plan's section map
+veil-of-ignorance,Rawls's veil of ignorance,argument,4,13,Rights,not-started,,Syllabus dot point; missing from plan's section map
+non-human-rights,Non-human rights,term,4,13,Rights,not-started,,Syllabus issue (Generate questions); in plan
+fairness,Fairness,term,4,14,Political philosophy,not-started,,
+formal-equality,Formal equality,term,4,14,Political philosophy,not-started,,
+substantive-equality,Substantive equality,term,4,14,Political philosophy,not-started,,
+equity,Equity,term,4,14,Political philosophy,not-started,,
+justice,Justice,term,4,14,Political philosophy,not-started,,
+positive-freedom,Positive freedom,term,4,14,Political philosophy,not-started,,
+negative-freedom,Negative freedom,term,4,14,Political philosophy,not-started,,
+rights,Rights,term,4,14,Political philosophy,not-started,,
+distributive-justice,Distributive justice,term,4,14,Political philosophy,not-started,,
+democracy,Democracy,term,4,14,Political philosophy,not-started,,
+anarchism,"Anarchism (e.g. Bakunin, Rothbard)",theory,4,14,Political philosophy,not-started,,Split into sub-entries
+libertarianism,"Libertarianism (e.g. Locke, Nozick)",theory,4,14,Political philosophy,not-started,,Split into sub-entries
+social-liberalism,"Social liberalism (e.g. Rawls, Green)",theory,4,14,Political philosophy,not-started,,Split into sub-entries
+socialism,"Socialism (e.g. Marx, Owen)",theory,4,14,Political philosophy,not-started,,Split into sub-entries
