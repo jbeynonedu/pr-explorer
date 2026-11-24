@@ -4,7 +4,7 @@ title: Modus tollens
 type: logic-form
 units: [1]
 section: symbolic-logic
-status: checked
+status: approved
 related: [modus-ponens, denying-the-antecedent, affirming-the-consequent, valid, logical-operators, popper-demarcation]
 sources: [bland-reason-ch2, bland-reason-ch3-truth-table, bland-reason-ch3-wording, bland-reason-answers, popper-link]
 ---

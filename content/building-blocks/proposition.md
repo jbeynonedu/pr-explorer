@@ -4,7 +4,7 @@ title: Proposition
 type: term
 units: [1]
 section: building-blocks
-status: checked
+status: approved
 related: [claim, premise, conclusion, argument, true-false, logical-operators, translating-symbolising, descriptive-normative]
 sources: [bland-reason-ch1, bland-reason-ch2-dictionary, sep-structured-propositions, sep-moral-cognitivism]
 ---
