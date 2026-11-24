@@ -4,7 +4,7 @@ type: argument
 section: philosophy-of-mind
 units: [2]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Searle's Chinese room argument (Phase 0 exemplar, argument)
@@ -45,3 +45,6 @@ Argument map; optional illustration of the room. Text alternatives supplied.
 ## Questions for John
 1. Which version of the standard form do you teach, and which objections should be in?
 2. Include a short section on current large language models, framed neutrally, or keep to the classic debate?
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Both standard forms (the 1980 thought experiment and the later syntax/semantics version). Objections: the key ones only, at Claude's judgement (John has not taught it yet). Include a short, neutral paragraph on current AI (LLMs).

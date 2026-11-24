@@ -4,7 +4,7 @@ type: logic-form
 section: symbolic-logic
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Modus tollens (Phase 0 exemplar, logic form)
@@ -36,3 +36,6 @@ Interactive truth table (cobalt, Reason branch). Text alternative supplied.
 
 ## Questions for John
 1. Keep item 7 (Popper link) in the exemplar, or leave it to the Philosophy of science section?
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Item 7: a brief link to Popper only (one line, no quotation); the detail belongs to Philosophy of science. Bland's text stands in for unit material for all of Unit 1.

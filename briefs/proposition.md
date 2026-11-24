@@ -4,7 +4,7 @@ type: term
 section: building-blocks
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Proposition (Phase 0 exemplar, term)
@@ -37,3 +37,6 @@ None planned (term entries rarely need one).
 ## Questions for John
 1. Does your teaching distinguish *claim* from *proposition*, or treat them as near-synonyms (claim = a proposition someone asserts)?
 2. Include the sentence/proposition distinction (two sentences, one proposition)? It is standard but not in Bland ch. 1.
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Claim and proposition are treated as near-synonyms (say so in the entry). Include the sentence/proposition distinction. Bland's text stands in for unit material for all of Unit 1.
