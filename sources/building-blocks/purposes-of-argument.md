@@ -18,7 +18,7 @@ QCAA, *Philosophy & Reason 2025 v1.3*, January 2026. CC BY 4.0, © State of Quee
 > the difference between justification and persuasion, and the resulting difference in the quality of argument (p. 12)
 
 ## qcaa-cognitive-verb-framework — NOT YET FETCHED
-QCAA *Cognitive verb framework* (memo 045/25, 20 Oct 2025: replaces the 2018 Glossary of cognitive verbs from 31 Dec 2025). URL https://www.qcaa.qld.edu.au/downloads/senior/snr_syll_cog_verb_framework.pdf. The QCAA site refused the fetch tool (25 Nov 2026). Needed for **justify** and **explain**. Ask John to add the PDF to the Project.
+QCAA *Cognitive verb framework* (memo 045/25, 20 Oct 2025: replaces the 2018 Glossary of cognitive verbs from 31 Dec 2025). URL https://www.qcaa.qld.edu.au/downloads/senior/snr_syll_cog_verb_framework.pdf. The QCAA site refused the fetch tool (25 Nov 2026). Needed for **justify** and **explain**. Ask John to add the PDF to the Project. 25 Nov: John supplied `ac9_categories_cognitive_verbs.pdf` instead; that is the P–10 (AC v9) category list, with no definitions, so it does not fill this gap.
 
 ## vancleave-1-3
 Matthew Van Cleave, *Introduction to Logic and Critical Thinking*, 2nd edn, §1.3 "Arguments vs. Explanations". CC BY 4.0. Humanities LibreTexts: https://human.libretexts.org/Bookshelves/Philosophy/Logic_and_Reasoning/Introduction_to_Logic_and_Critical_Thinking_2e_(van_Cleave)/01:_Reconstructing_and_Analyzing_Arguments/1.03:_Arguments_vs._Explanations (fetched 25 Nov 2026; fetch tool returned short quotations only).

@@ -11,10 +11,11 @@ Bland's example (p. 15): `1. If it is the weekend, then the public pool will be 
 
 ## forallx-calgary-ch1
 P. D. Magnus, Tim Button, Robert Trueman, Richard Zach, *forall x: Calgary*, Fall 2025 edition, ch. 1 "Arguments". CC BY 4.0. Text copied from the LaTeX source, github.com/rzach/forallx-yyc, file `forallx-yyc-what.tex`, commit bb86fe9 (22 Oct 2026). HTML: https://forallx.openlogicproject.org/html/Ch1.html
+Page numbers from the Fall 2025 PDF supplied by John (`forallxyyc.pdf`, built 23 Oct 2026); text checked against it 25 Nov 2026.
 
-> As a guide, these words are often used to indicate an argument's conclusion: so, therefore, hence, thus, accordingly, consequently. For this reason, they are sometimes called conclusion indicator words. (ch. 1)
+> As a guide, these words are often used to indicate an argument's conclusion: so, therefore, hence, thus, accordingly, consequently. For this reason, they are sometimes called conclusion indicator words. (ch. 1, pp. 3–4)
 
-> Many arguments start with premises, and end with a conclusion, but not all of them. (ch. 1)
+> Many arguments start with premises, and end with a conclusion, but not all of them. (ch. 1, p. 3)
 
 Examples given: conclusion first ("The gardener did it. After all, it was either the butler or the gardener. And the butler didn't do it."), conclusion in the middle; one sentence containing a whole argument ("The butler has an alibi; so they cannot have done it.").
 

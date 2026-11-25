@@ -9,12 +9,13 @@ Note (John, 25 Nov): "factual" dropped in the entry. Bland's own later wording, 
 
 ## forallx-calgary-ch1
 P. D. Magnus, Tim Button, Robert Trueman, Richard Zach, *forall x: Calgary*, Fall 2025 edition, ch. 1 "Arguments". CC BY 4.0. Text copied from the LaTeX source, github.com/rzach/forallx-yyc, file `forallx-yyc-what.tex`, commit bb86fe9 (22 Oct 2026). HTML: https://forallx.openlogicproject.org/html/Ch1.html
+Page numbers from the Fall 2025 PDF supplied by John (`forallxyyc.pdf`, built 23 Oct 2026); text checked against it 25 Nov 2026.
 
-> We will say that an argument is any collection of premises, together with a conclusion. (ch. 1)
+> We will say that an argument is any collection of premises, together with a conclusion. (ch. 1, p. 3)
 
-> In everyday language, we sometimes use the word 'argument' to talk about belligerent shouting matches. [...] They are not arguments, in our sense; they are just disagreements. (ch. 1)
+> In everyday language, we sometimes use the word 'argument' to talk about belligerent shouting matches. [...] They are not arguments, in our sense; they are just disagreements. (ch. 1, p. 2)
 
-> If the premises are true and the argument is a good one, then you have a reason to accept the conclusion. (ch. 1, §1.1)
+> If the premises are true and the argument is a good one, then you have a reason to accept the conclusion. (ch. 1, §1.1, p. 4)
 
 Supports "a bad argument is still an argument": the definition counts any collection of premises with a conclusion; whether it is good is a further question (ch. 1 opening: logic is used in "sorting the good from the bad").
 

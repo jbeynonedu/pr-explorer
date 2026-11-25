@@ -27,13 +27,14 @@ QCAA, *Philosophy & Reason 2025 v1.3*, January 2026. CC BY 4.0, © State of Quee
 
 ## forallx-calgary-ch1
 P. D. Magnus, Tim Button, Robert Trueman, Richard Zach, *forall x: Calgary*, Fall 2025 edition, ch. 1 "Arguments". CC BY 4.0. Text copied from the LaTeX source, github.com/rzach/forallx-yyc, file `forallx-yyc-what.tex`, commit bb86fe9 (22 Oct 2026). HTML: https://forallx.openlogicproject.org/html/Ch1.html
+Page numbers from the Fall 2025 PDF supplied by John (`forallxyyc.pdf`, built 23 Oct 2026); text checked against it 25 Nov 2026.
 
-> Many arguments start with premises, and end with a conclusion, but not all of them. (ch. 1)
+> Many arguments start with premises, and end with a conclusion, but not all of them. (ch. 1, p. 3)
 
 Examples given: conclusion first ("The gardener did it. After all, it was either the butler or the gardener. And the butler didn't do it."), conclusion in the middle; one sentence containing a whole argument ("The butler has an alibi; so they cannot have done it.").
 
-> As a guide, these words are often used to indicate an argument's conclusion: so, therefore, hence, thus, accordingly, consequently. For this reason, they are sometimes called conclusion indicator words. (ch. 1)
+> As a guide, these words are often used to indicate an argument's conclusion: so, therefore, hence, thus, accordingly, consequently. For this reason, they are sometimes called conclusion indicator words. (ch. 1, pp. 3–4)
 
-> By contrast, these expressions are premise indicator words, as they often indicate that we are dealing with a premise, rather than a conclusion: since, because, given that. But in analysing an argument, there is no substitute for a good nose. (ch. 1)
+> By contrast, these expressions are premise indicator words, as they often indicate that we are dealing with a premise, rather than a conclusion: since, because, given that. But in analysing an argument, there is no substitute for a good nose. (ch. 1, p. 4)
 
 House conventions: STYLE_GUIDE.md §3.
