@@ -1,0 +1,33 @@
+# Source pack: deduction
+
+## bland-reason-ch1-deduction
+Greg Bland, *Reason: A Guide to Argument and Critical Reasoning*, Revised Edition, Oct 2026. CC BY-NC 4.0. Project file `Reason Revised Edition.pdf`; text copied from the Project file by script (whitespace normalised). Page numbers are the book's own ("Reason Page N" markers).
+
+> Deductive arguments are incredibly powerful when used correctly. Through a sequence of logical steps, a deductive argument aims to prove the truth of the conclusion beyond any doubt whatsoever. One important characteristic of a deductive argument that sets it apart from other argument types is that the premises of the argument must be linked through a logical process to support the conclusion. Each premise must contribute in some way. (p. 17)
+
+> It’s important to note that the validity of a deductive argument has nothing to do with the factual content that is presented in the argument. Validity is only concerned with the structure of the argument. (p. 18)
+
+> However, it’s not that simple. To build our store of knowledge in the real world, we need to rely heavily on inductive reasoning. In fact, the whole of science is based on the scientific method, which involves developing a hypothesis and then testing this hypothesis using repeated experimental observations. In contrast, the field of mathematics primarily involves deductive reasoning. (p. 21)
+
+> What we end up with is an argument so powerful that it proves Pythagoras’ Theorem for any right-angle triangle you could ever think of. (p. 23)
+
+> Although deductive logic traces back to the Greek philosopher Aristotle in his work Organon (p. 25)
+
+Note: Bland defines a deductive argument by its **aim** ("aims to prove", p. 17; "seeks to guarantee", p. 19). John's decision (25 Nov 2026): define by aim, with one sentence on the success-based view.
+
+## iep-shanahan-definitions
+Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*, https://iep.utm.edu/deductive-inductive-arguments/ . In copyright: short quotations only. Fetched 25 Nov 2026 via WebFetch, which returned excerpts of at most 125 characters; the page shows no date (2022 per Loyola Marymount Digital Commons record, digitalcommons.lmu.edu/phil_fac/290). **Re-verify each excerpt against the live page at Checked.**
+
+Excerpts (§2, §4):
+- Intention-based view (§2): "whereas a deductive argument is *intended* to provide logically conclusive support for its conclusion."
+- Problem (§2): "Because intentions and beliefs are not publicly accessible," classification may be "hard or even impossible."
+- Purport-based view (§4): "if an argument *purports* to definitely establish its conclusion, it is a deductive argument" (attributed to Black, 1967).
+- Problem (§4): "How does one know what an argument *really* purports?"
+
+## forallx-ch2-success-view
+P. D. Magnus, Tim Button, Robert Trueman, Richard Zach, *forall x: Calgary*, Fall 2025 edition. CC BY 4.0. Text copied by script from the LaTeX source, github.com/rzach/forallx-yyc, commit bb86fe9 (22 Oct 2026); LaTeX markup removed; **notation converted** to syllabus symbols (`⊃`, `&`). Locators are chapter/section in the LaTeX source (chapter numbers inferred from the order of files in `forallx-yyc-content.tex`; confirm against the PDF); PDF page numbers to be added from John's PDF (`forallxyyc.pdf`) at Checked.
+
+The success-based alternative: forall x sorts arguments only as valid or invalid, and counts inductive arguments as invalid.
+> The point of all this is that inductive arguments—even good inductive arguments—are not (deductively) valid. They are not watertight. Unlikely though it might be, it is possible for their conclusion to be false, even when all of their premises are true. In this book, we will set aside (entirely) the question of what makes for a good inductive argument. Our interest is simply in sorting the (deductively) valid arguments from the invalid ones. (ch. 2 §2.5 'Inductive arguments')
+
+**Terminology flag:** house style says inductive arguments are strong/weak, never valid/invalid. Use this only to describe the other view ("on another view..."), not in the Explorer's own voice.
