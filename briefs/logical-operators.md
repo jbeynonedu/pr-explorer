@@ -4,7 +4,7 @@ type: term
 section: symbolic-logic
 units: [1, 2, 3, 4]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Logical operators (~, &, ∨, ⊃) (term)
@@ -47,4 +47,5 @@ Four small truth tables (static; verified by code at Checked). Optional: one int
 3. **Units**: the operators are used in every unit. Set `units` to 1;2;3;4 (as for necessary and sufficient conditions)? Proposed: yes.
 
 ## Scope decision (John, 26 Nov 2026)
+Approved.
 Q1: yes, write both with the four operators; `≡` and `≢` in a note only. Q2: yes, include item 3. Q3: yes, units 1–4.

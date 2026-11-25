@@ -4,7 +4,7 @@ type: logic-form
 section: symbolic-logic
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Constructive dilemma (logic form)
@@ -41,4 +41,5 @@ Truth table: see Q1. **Build note:** the widget needs extending for four letters
 2. Item 6 introduces destructive dilemma, which students may not have met. Keep in the look-alike table? Proposed: yes, one row.
 
 ## Scope decision (John, 26 Nov 2026)
+Approved.
 Q1: (a), full interactive 16-row table, four rows marked, plus the shortcut sentence. Q2: yes, destructive dilemma as one row.

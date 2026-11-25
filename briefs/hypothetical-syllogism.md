@@ -4,7 +4,7 @@ type: logic-form
 section: symbolic-logic
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Hypothetical syllogism (logic form)
@@ -38,3 +38,7 @@ Interactive eight-row truth table. **Build note:** the widget in `site_template.
 
 ## Questions for John
 1. Item 7 (slippery slope link): keep as one line? Proposed: yes; the detail belongs to the slippery slope entry.
+
+## Scope decision (John, 26 Nov 2026)
+Approved.
+Q1: yes, keep the one-line slippery slope link.

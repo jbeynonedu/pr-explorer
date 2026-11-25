@@ -4,7 +4,7 @@ type: logic-form
 section: symbolic-logic
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Affirming the consequent (logic form)
@@ -41,4 +41,5 @@ Interactive truth table (`ac`).
 1. Item 7: the style guide asks fallacy entries for "when it is not fallacious". These two are typed as logic forms; include item 7 anyway? Proposed: yes, short.
 
 ## Scope decision (John, 26 Nov 2026)
+Approved.
 Q1: yes, include item 7, kept short.

@@ -4,7 +4,7 @@ type: logic-form
 section: symbolic-logic
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Denying the antecedent (logic form)
@@ -40,4 +40,5 @@ Interactive truth table (`da`).
 1. Same as affirming the consequent Q1 (include item 7). Proposed: yes.
 
 ## Scope decision (John, 26 Nov 2026)
+Approved.
 Q1: yes, include item 7, kept short.

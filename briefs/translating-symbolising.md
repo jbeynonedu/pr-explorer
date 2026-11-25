@@ -4,7 +4,7 @@ type: term
 section: symbolic-logic
 units: [1, 2, 3, 4]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Translating and symbolising propositions (term)
@@ -41,4 +41,5 @@ None needed beyond tables. Optional: a cue-word table.
 3. Include one example drawn from a philosophical text (e.g. a premise from a Unit 2 argument), so Unit 2–4 students see the skill in use? Proposed: yes, one short example, chosen from an argument that already has (or will have) its own entry.
 
 ## Scope decision (John, 26 Nov 2026)
+Approved.
 Q1: yes, units 1–4. Q2: not a rule; mention as best practice for clarity (item 2 revised). Q3: yes, one example from a Unit 2 argument.

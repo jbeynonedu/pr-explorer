@@ -4,7 +4,7 @@ type: logic-form
 section: symbolic-logic
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Modus ponens (logic form)
@@ -41,4 +41,5 @@ Interactive truth table (`mp`).
 1. Keep item 7 (Carroll's tortoise, 3–4 sentences, one short quotation)? It is a well-known philosophical puzzle but may sit above most Year 11 readers. Proposed: keep, kept short and clearly optional for the reader.
 
 ## Scope decision (John, 26 Nov 2026)
+Approved.
 Q1: yes, keep item 7, kept short.

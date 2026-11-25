@@ -4,7 +4,7 @@ type: logic-form
 section: symbolic-logic
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Disjunctive syllogism (logic form)
@@ -41,4 +41,5 @@ Interactive four-row truth table (needs `ds` added to the widget).
 1. The name "affirming a disjunct" for item 6: not one of the syllabus's two formal fallacies, but it is the standard name and the mistake students make with "or". Include by name? Proposed: yes, in the look-alike table only.
 
 ## Scope decision (John, 26 Nov 2026)
+Approved.
 Q1: yes, name affirming a disjunct in the look-alike table.
