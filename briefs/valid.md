@@ -4,7 +4,7 @@ type: term
 section: deduction
 units: [1]
 stage: briefed
-approved_scope: pending
+approved_scope: yes
 ---
 
 # Brief: Deductively valid and invalid (term)
@@ -37,3 +37,6 @@ Four-combinations table. Small truth table for the counterexample (verified by c
 
 ## Questions for John
 1. Include "invalid ≠ fallacious ≠ bad argument" (an invalid argument may still be inductively strong if it was really inductive)? Proposed: one sentence, linking to classifying arguments.
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Q1: one line that an invalid argument is not necessarily a bad argument.

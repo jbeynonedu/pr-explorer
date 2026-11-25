@@ -4,7 +4,7 @@ type: term
 section: deduction
 units: [1, 2, 3, 4]
 stage: briefed
-approved_scope: pending
+approved_scope: yes
 ---
 
 # Brief: Classifying arguments (term; method entry)
@@ -38,3 +38,6 @@ Decision flowchart (Mermaid): standard form → deductive or inductive? → name
 1. Keep this separate from `deductive-vs-inductive`, or merge? Proposed: separate: that entry explains the concept; this one is the procedure, and is the one Unit 2–4 students will use most.
 2. Categorical syllogisms (Bland §3.5) are not in the syllabus. Mention as a further deductive type? Proposed: one line, no detail.
 3. `units`: set to 1;2;3;4? Proposed: yes.
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Q1: kept separate from deductive-vs-inductive. Q2: one line on categorical syllogisms. Q3: units 1–4.

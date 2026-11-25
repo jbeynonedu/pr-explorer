@@ -4,7 +4,7 @@ type: term
 section: deduction
 units: [1, 2, 3, 4]
 stage: briefed
-approved_scope: pending
+approved_scope: yes
 ---
 
 # Brief: Necessary and sufficient conditions (term)
@@ -42,3 +42,6 @@ Euler diagram: the "sufficient" set inside the "necessary" set (e.g. squares ins
 1. **Notation for "necessary and sufficient"**: Bland uses the tribar `≡`, which is not one of the syllabus's four operators, and the style guide permits only `~ & ∨ ⊃`. Options: (a) write `(A ⊃ B) & (B ⊃ A)`; (b) use `≡` with a note that it is beyond the syllabus. Proposed: (a), with `≡` mentioned in a note.
 2. **Accuracy flag**: Bland's example "holding a current Australian passport is sufficient for becoming an Australian citizen" (p. 42) is not correct as worded (a passport is issued to someone who already is a citizen). Not used; worth raising with Bland via QPTN if you wish.
 3. Tracker lists this as Unit 1 only; the syllabus uses it in every later unit. Set `units` to 1;2;3;4? Proposed: yes.
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Q1: write `(A ⊃ B) & (B ⊃ A)`; `≡` mentioned in a note only. Q2: passport example not used. Q3: units 1–4.

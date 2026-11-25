@@ -4,7 +4,7 @@ type: term
 section: deduction
 units: [1]
 stage: briefed
-approved_scope: pending
+approved_scope: yes
 ---
 
 # Brief: Deduction (term)
@@ -41,3 +41,6 @@ None.
 
 ## Questions for John
 1. Definition by **aim** ("aims to guarantee", Bland p. 17) or by **success** ("the premises guarantee")? Bland defines by aim, which is why an invalid argument can still be deductive. Proposed: by aim, with one sentence noting the alternative.
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Q1: define by aim, with one sentence on the success-based alternative.

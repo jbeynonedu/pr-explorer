@@ -4,7 +4,7 @@ type: term
 section: deduction
 units: [1]
 stage: briefed
-approved_scope: pending
+approved_scope: yes
 ---
 
 # Brief: The distinction between deductive and inductive arguments (term; Explain entry)
@@ -38,3 +38,6 @@ Comparison table (Markdown). No diagram.
 ## Questions for John
 1. Include item 5 (the "general to specific" myth)? Students often bring it from junior science. Proposed: yes, if IEP or another fetched source supports it.
 2. Bland footnote 3 notes that "inductive argument" is defined differently in the literature. Mention briefly here, or leave it to the Induction entry? Proposed: leave it to Induction.
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Q1: include the "general to specific" correction, if a fetched source supports it. Q2: footnote-3 point left to the Induction entry (proposed default; not raised separately).

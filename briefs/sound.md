@@ -4,7 +4,7 @@ type: term
 section: deduction
 units: [1]
 stage: briefed
-approved_scope: pending
+approved_scope: yes
 ---
 
 # Brief: Sound and unsound (term)
@@ -37,3 +37,6 @@ Process diagram (Mermaid): Valid? → no: unsound; yes → all premises true? �
 ## Questions for John
 1. Bland's box (p. 67) says a premise that is plausible and well supported "can be accepted as true for the purposes of a soundness verdict". Present this as the working standard, with the strict definition stated first? Proposed: yes.
 2. Mention "cogent" as the inductive counterpart? It is not a syllabus term. Proposed: leave it out.
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Q1: strict definition first, then the working standard (plausible and well supported). Q2: mention "cogent" briefly as the inductive counterpart, without focusing on it.

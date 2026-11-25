@@ -4,7 +4,7 @@ type: term
 section: deduction
 units: [1]
 stage: briefed
-approved_scope: pending
+approved_scope: yes
 ---
 
 # Brief: Limitations of deduction (term; Explain entry)
@@ -39,3 +39,6 @@ None.
 ## Questions for John
 1. Items 4 and 5 go beyond Bland. Keep both, keep one, or drop both? Proposed: keep 4 if sourced; keep 5 as one line.
 2. Is there anything your Unit 1 materials or past assessment expects here that Bland does not cover?
+
+## Scope decision (John, 25 Nov 2026)
+Approved with items 4 (where premises run out) and 5 (limits of propositional logic) removed; the entry stays within Bland. SEP source for item 4 no longer needed.
