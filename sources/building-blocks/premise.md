@@ -20,3 +20,5 @@ Page numbers from the Fall 2025 PDF supplied by John (`forallxyyc.pdf`, built 23
 
 Examples given: conclusion first ("The gardener did it. After all, it was either the butler or the gardener. And the butler didn't do it."), conclusion in the middle; one sentence containing a whole argument ("The butler has an alibi; so they cannot have done it.").
 
+
+Monday example (Bland ch. 2, p. 26): "If it’s Monday, then I will go to school. It’s Monday. Therefore, I will go to school."

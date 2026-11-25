@@ -79,7 +79,7 @@ def render(eid):
     for i, block in enumerate(sfs):
         out_rows = []
         for line in block.strip().splitlines():
-            m = re.match(r'(\d+\.|C\.|\(HP\d*\))\s+(.*)', line)
+            m = re.match(r'(\d+\.|C\.|IC\d*\.|\(HP\d*\))\s+(.*)', line)
             lab, txt = (m.group(1), m.group(2)) if m else ('', line)
             txt = re.sub(r'`([^`]+)`', r'<code>\1</code>', html.escape(txt))
             cls = ' class="c"' if lab == 'C.' else ''
