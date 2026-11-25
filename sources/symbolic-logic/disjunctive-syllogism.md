@@ -44,3 +44,6 @@ Context: a locked room; options door, window, chimney, concealment, roof. The pa
 - `P ∨ Q, ~P ∴ Q` valid; `P ∨ Q, ~Q ∴ P` valid; `~P ∨ Q, P ∴ Q` valid.
 - Affirming a disjunct `P ∨ Q, P ∴ ~Q` invalid; counterexample P 1, Q 1.
 - With exclusivity premise `P ∨ Q, ~(P & Q), P ∴ ~Q`: valid.
+
+## conan-doyle-dates
+Britannica, "Arthur Conan Doyle" (search result text, 26 Nov 2026): https://www.britannica.com/biography/Arthur-Conan-Doyle — born May 22, 1859, Edinburgh; died July 7, 1930, Crowborough, Sussex. Dates: 1859–1930.

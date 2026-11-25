@@ -5,8 +5,10 @@ Renders each entry's markdown, an interactive truth table where an
 `<!-- interactive: truth-table ... -->` marker appears, and Mermaid
 argument maps. Links to entries not yet written are shown as plain text.
 """
-import html, json, re, sys, glob, csv
+import html, json, os, re, sys, glob, csv
 import markdown, yaml
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from tt_forms import TT_FORMS, WIDGET
 
 ROOT = __file__.rsplit('/scripts/', 1)[0]
 out, ids = sys.argv[1], sys.argv[2:]
@@ -47,8 +49,15 @@ def render(eid):
             cls = ' class="c"' if lab == 'C.' else ''
             rows.append(f'<div{cls}><span>{html.escape(lab)}</span><span>{txt}</span></div>')
         h = h.replace(f'<p>SFBLOCK{i}</p>', '<div class="sf" role="group" aria-label="Standard form">' + ''.join(rows) + '</div>')
-    if tt:  # replace the first static table after the marker with an interactive one
-        h = re.sub(r'<p>TTMARK</p>(.*?)<table>.*?</table>', lambda m: m.group(1) + '<div class="tt" data-form="mt"></div>', h, count=1, flags=re.S)
+    form = None
+    if tt:
+        want = (tt.group(1).strip(), tt.group(2).strip())
+        form = next((k for k, v in TT_FORMS.items() if v == want), None)
+        if not form:
+            print(f'warning: {meta["id"]}: truth-table marker {want} matches no known form; static table kept')
+            h = h.replace('<p>TTMARK</p>', '')
+    if tt and form:  # replace the first static table after the marker with an interactive one
+        h = re.sub(r'<p>TTMARK</p>(.*?)<table>.*?</table>', lambda m: m.group(1) + f'<div class="tt" data-form="{form}"></div>', h, count=1, flags=re.S)
     def link(m):
         target, text = m.group(1), m.group(2)
         if target in ids:
@@ -64,6 +73,6 @@ def render(eid):
 
 nav = ''.join(f'<a href="#{i}">{html.escape(files[i][0]["title"])}</a>' for i in ids)
 arts = '\n'.join(render(i) for i in ids)
-page = open(f'{ROOT}/scripts/preview_template.html').read().replace('{{NAV}}', nav).replace('{{ENTRIES}}', arts)
+page = open(f'{ROOT}/scripts/preview_template.html').read().replace('{{NAV}}', nav).replace('{{ENTRIES}}', arts).replace('{{TT_WIDGET}}', WIDGET)
 open(out, 'w').write(page)
 print('wrote', out, len(page))

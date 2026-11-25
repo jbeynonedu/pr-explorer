@@ -61,6 +61,7 @@ th{font-weight:700;border-bottom:2px solid var(--ink)}
 .tt table{background:var(--bg);margin:0}
 .tt td,.tt th{text-align:center;font-variant-numeric:tabular-nums}
 .tt tr.live td{background:var(--soft);font-weight:700}
+.tt tr.chk td{box-shadow:inset 0 2px 0 var(--line),inset 0 -2px 0 var(--line)}
 .tt tr.ce td{background:color-mix(in srgb,var(--bad) 16%,transparent);font-weight:700}
 .tt .verdict{margin:10px 0 0;font-weight:700}
 .tt .verdict.ok{color:var(--ok)}.tt .verdict.no{color:var(--bad)}
@@ -81,28 +82,8 @@ th{font-weight:700;border-bottom:2px solid var(--ink)}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.9.1/mermaid.min.js"></script>
 <script>
 {
-const imp=(a,b)=>!a||b;
-const FORMS={
- mt:{name:'Modus tollens',cols:['P ⊃ Q','~Q','~P'],f:(P,Q)=>[imp(P,Q),!Q,!P]},
- mp:{name:'Modus ponens',cols:['P ⊃ Q','P','Q'],f:(P,Q)=>[imp(P,Q),P,Q]},
- da:{name:'Denying the antecedent',cols:['P ⊃ Q','~P','~Q'],f:(P,Q)=>[imp(P,Q),!P,!Q]},
- ac:{name:'Affirming the consequent',cols:['P ⊃ Q','Q','P'],f:(P,Q)=>[imp(P,Q),Q,P]}
-};
-const b=v=>v?1:0;
-function draw(box,key){
- const F=FORMS[key];let bad=[];
- const rows=[[1,1],[1,0],[0,1],[0,0]].map(([P,Q])=>{
-  const [p1,p2,c]=F.f(!!P,!!Q);const live=p1&&p2;const ce=live&&!c;if(ce)bad.push(`P = ${P}, Q = ${Q}`);
-  return `<tr class="${ce?'ce':live?'live':''}"><td>${P}</td><td>${Q}</td><td>${b(p1)}</td><td>${b(p2)}</td><td>${b(c)}</td></tr>`}).join('');
- box.querySelector('.out').innerHTML=`<div class="scroll"><table><thead><tr><th>P</th><th>Q</th><th>Premise 1: ${F.cols[0]}</th><th>Premise 2: ${F.cols[1]}</th><th>Conclusion: ${F.cols[2]}</th></tr></thead><tbody>${rows}</tbody></table></div>`+
-  (bad.length?`<p class="verdict no">${F.name} is invalid: true premises and a false conclusion in the row ${bad.join('; ')}.</p>`:`<p class="verdict ok">${F.name} is valid: no row has true premises and a false conclusion.</p>`);
- box.querySelectorAll('.forms button').forEach(x=>x.setAttribute('aria-pressed',x.dataset.k===key));
-}
-document.querySelectorAll('.tt').forEach(box=>{
- box.innerHTML=`<div class="forms" role="group" aria-label="Compare argument forms">${Object.entries(FORMS).map(([k,v])=>`<button type="button" data-k="${k}">${v.name}</button>`).join('')}</div><div class="out" aria-live="polite"></div><p class="key">1 = true, 0 = false. Shaded rows: both premises true. Red rows: true premises with a false conclusion (a counterexample).</p>`;
- box.querySelectorAll('.forms button').forEach(x=>x.addEventListener('click',()=>draw(box,x.dataset.k)));
- draw(box,box.dataset.form||'mt');
-});
+{{TT_WIDGET}}
+document.querySelectorAll('.tt').forEach(truthTable);
 try{
  const dark=document.documentElement.dataset.theme==='dark'||(!document.documentElement.dataset.theme&&matchMedia('(prefers-color-scheme: dark)').matches);
  mermaid.initialize({startOnLoad:true,theme:dark?'dark':'base',themeVariables:{fontFamily:'Source Sans 3, sans-serif',primaryColor:'#fdebe7',primaryBorderColor:'#d4432b',lineColor:'#5b6072'}});

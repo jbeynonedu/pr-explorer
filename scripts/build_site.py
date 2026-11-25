@@ -10,8 +10,10 @@ bubble. Entries without a published file show as dashed placeholder bubbles.
 Entry bodies are rendered as in build_preview.py: `sf` blocks, an interactive truth table
 where an `<!-- interactive: truth-table ... -->` marker appears, and Mermaid maps.
 """
-import csv, glob, html, json, re, sys
+import csv, glob, html, json, os, re, sys
 import markdown, yaml
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from tt_forms import TT_FORMS, WIDGET
 
 ROOT = __file__.rsplit('/scripts/', 1)[0]
 out = sys.argv[1]
@@ -52,8 +54,6 @@ for p in glob.glob(f'{ROOT}/content/*/*.md'):
 status = {r['id']: r['status'] for r in rows}
 published = {i for i, (m, _) in files.items() if status.get(i, m['status']) in SHOW}
 
-TT_FORMS = {'mt': ('P ⊃ Q, ~Q', '~P'), 'mp': ('P ⊃ Q, P', 'Q'),
-            'da': ('P ⊃ Q, ~P', '~Q'), 'ac': ('P ⊃ Q, Q', 'P')}
 
 def render(eid):
     meta, body = files[eid]
@@ -140,6 +140,6 @@ if missing:
     print('warning: content files not in tracker:', sorted(missing))
 
 data = json.dumps({'tree': tree, 'preview': not public}, ensure_ascii=False).replace('</', '<\\/')
-page = open(f'{ROOT}/scripts/site_template.html', encoding='utf-8').read().replace('{{DATA}}', data)
+page = open(f'{ROOT}/scripts/site_template.html', encoding='utf-8').read().replace('{{DATA}}', data).replace('{{TT_WIDGET}}', WIDGET)
 open(out, 'w', encoding='utf-8').write(page)
 print('wrote', out, len(page), 'bytes;', len(published), 'of', len(rows), 'entries published', '(public)' if public else '(preview)')

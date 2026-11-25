@@ -40,3 +40,6 @@ Tortoise: "Whatever Logic is good enough to tell me is worth writing down," then
 
 ## Logic checks (code, 26 Nov 2026)
 `P ⊃ Q, P ∴ Q` valid; variant `~P ⊃ Q, ~P ∴ Q` valid.
+
+## carroll-dates
+Britannica, "Lewis Carroll" (search result text, 26 Nov 2026): https://www.britannica.com/biography/Lewis-Carroll — born January 27, 1832, Daresbury, Cheshire; died January 14, 1898, Guildford, Surrey; "English logician, mathematician, photographer, and novelist". Pseudonym of Charles Lutwidge Dodgson. Dates: 1832–1898.
