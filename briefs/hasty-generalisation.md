@@ -3,7 +3,7 @@ id: hasty-generalisation
 type: fallacy
 section: informal-fallacies
 units: [1]
-stage: briefed
+stage: sourced
 approved_scope: yes
 ---
 
