@@ -31,6 +31,29 @@ for his life with his enraged ex-fiancée (Carrie Fisher), providing an ever-mor
 why he left her standing at the altar on their wedding day. His ad misericordiam argument works in this case, 
 giving him enough time to dump her once again and flee the scene with his brother Elwood.
 
+## bland-reason-p72-baculum
+Bland §4.1 p. 72, ad baculum (verbatim, lines 2763–2781):
+
+One of the least subtle informal fallacies is argumentum ad baculum (translated: “appeal to the stick”), which 
+literally involves the threat of force if your opponent does not agree with your position. Importantly, like many 
+other informal fallacies, there are subtle considerations here:
+• A mere threat by itself may be menacing and morally improper, but it is not an ad baculum fallacy. 
+For example: “I’m going to punch you in the face!”. This is simply a statement of the speaker’s 
+intention.
+• A threat made as a statement of rules and a description of consequences is not an ad baculum fallacy. 
+For example: “If you continue talking while others are working, you will receive a detention.” This is 
+a conditional statement formed from two individual propositions; it is not an argument.
+• An argument where supporting reasoning is substituted for a threat is an ad baculum fallacy. For 
+example: “You should stop talking, because if you don’t, you will receive a detention.” This is an 
+argument with a normative conclusion (“you should stop talking”), but instead of a logically relevant 
+premise (such as “talking creates an unnecessary distraction for other students”), a threat is made 
+instead.
+If you are thinking that the difference between dot points two and three above is only very minor, you are 
+correct. Semantically, the two examples mean practically the same thing. But the important difference is that 
+informal fallacies apply to arguments, not merely statements or propositions.
+The other important point here, which you may have gathered from the examples above, is that an ad 
+baculum fallacy need not involve the threat of physical force – merely any unpleasant consequence.
+
 ## sep-fallacies
 Hansen, H., "Fallacies", *Stanford Encyclopedia of Philosophy*, first published 29 May 2015; substantive revision 30 Aug 2024. https://plato.stanford.edu/entries/fallacies/ (full text fetched via Chrome, 26 Nov 2026).
 

@@ -4,9 +4,9 @@ title: Ad misericordiam (illicit appeal to emotion)
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: drafted
+status: checked
 related: [justification-persuasion, ad-populum, misuse-of-argument, cognitive-bias, informal-fallacy]
-sources: [bland-reason-ch4, sep-fallacies, iep-fallacies]
+sources: [bland-reason-ch4, bland-reason-p72-baculum, sep-fallacies, iep-fallacies]
 ---
 
 # Ad misericordiam (illicit appeal to emotion)
@@ -34,7 +34,7 @@ A student who has submitted a weak essay emails the teacher: "I've had a terribl
 
 ```sf
 1. I have had a terrible week.
-2. A student who has had a terrible week should receive a higher mark. (HP)
+2. A student who has had a terrible week should receive an A for their essay. (HP)
 C. Therefore, you should give this essay an A.
 ```
 
@@ -47,7 +47,9 @@ A home-security advertisement shows a family asleep while a shadowy figure tries
 C. Therefore, you should buy this security system.
 ```
 
-This is an appeal to fear. Whether to buy depends on things such as the actual risk to your home, how well the system reduces it, and its cost. The advertisement gives no information about any of these. (When the person arguing is the source of the threat, as in "agree, or face the consequences", the fallacy is usually called *ad baculum*, the appeal to force.)
+This is an appeal to fear. Whether to buy depends on things such as the actual risk to your home, how well the system reduces it, and its cost. The advertisement gives no information about any of these.
+
+A related fallacy uses a threat in place of a reason, as in "You should agree with me, because if you don't, you'll face the consequences." This is usually called *ad baculum*, the appeal to force.
 
 ## When it is not fallacious
 

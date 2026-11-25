@@ -54,6 +54,17 @@ Sometimes, uncertainty arises not because words have multiple meanings, but beca
 sentence admits multiple different interpretations. These cases come under the category of syntactic 
 ambiguity, and can have humorous outcomes, as you can see in the above example.
 
+## bland-reason-hasty-pattern
+Bland §4.2 pp. 76–77 (verbatim, lines 2973–2979):
+
+characteristics of a group based on individual members. A hasty generalisation fallacy occurs when a broad 
+
+Reason Page 77
+conclusion is drawn from a sample that is too small, unrepresentative, or biased to justify that conclusion.
+The fallacy has the following basic structure:
+1. Some members of group A have property B.
+C. Therefore, all or most members of group A have property B.
+
 ## sep-fallacies
 Hansen, H., "Fallacies", *Stanford Encyclopedia of Philosophy*, first published 29 May 2015; substantive revision 30 Aug 2024. https://plato.stanford.edu/entries/fallacies/ (full text fetched via Chrome, 26 Nov 2026).
 

@@ -59,6 +59,25 @@ P1 and IC1 represents a hasty generalisation fallacy, because an inference is dr
 only a small number of individual cases. Can you see the difference between the two arguments?
 Slothful Induction
 
+## bland-reason-4-5
+Bland §4.5 p. 86 (verbatim, lines 3361–3375):
+
+4.5 Identifying Fallacious Reasoning
+In the real world, identifying fallacies is messier than the tidy examples in this chapter might suggest –
+especially for fallacies of weak induction, where deciding whether the evidence is too thin to support a 
+conclusion is often a judgement call. A word of caution, then: students commonly hunt so eagerly for fallacies 
+that they start seeing them where none exist. When you evaluate arguments in your analytical essays, there 
+is no requirement to name specific fallacies, and it pays to tread carefully.
+Two principles will keep you honest. First, a fallacy is defined by the quality of the reasoning, not by whether 
+the conclusion is false or unpopular – a true conclusion can rest on poor reasoning, and careful reasoning can 
+still reach a false one. Your task is not to decide whether you agree with the claim, but whether the reasons 
+genuinely support it. Second, context matters: everyday reasoning often relies on incomplete information and 
+background assumptions without being fallacious, and arguments sit on a spectrum of strength rather than 
+falling neatly into "strong" and "fallacious" boxes. For this reason, interpret arguments charitably before 
+criticising them — ask whether a shaky argument could be reasonably strengthened before you condemn it. 
+We will return to this principle of charity in the next chapter.
+The exercise below contains an assortment of fallacies from this chapter.
+
 ## sep-fallacies
 Hansen, H., "Fallacies", *Stanford Encyclopedia of Philosophy*, first published 29 May 2015; substantive revision 30 Aug 2024. https://plato.stanford.edu/entries/fallacies/ (full text fetched via Chrome, 26 Nov 2026).
 

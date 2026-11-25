@@ -4,14 +4,14 @@ title: Composition/division
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: drafted
+status: checked
 related: [hasty-generalisation, generalisation, induction, strong-weak, informal-fallacy]
-sources: [bland-reason-ch4, sep-fallacies, iep-fallacies]
+sources: [bland-reason-ch4, bland-reason-hasty-pattern, sep-fallacies, iep-fallacies]
 ---
 
 # Composition/division
 
-**The fallacy of composition assumes that because the parts of something have a property, the whole has it too. The fallacy of division assumes the reverse: because the whole has a property, each of its parts has it too.** Each is the converse of the other. They are [informal fallacies](informal-fallacy) of misattribution: a property is moved between parts and wholes where it may not belong.
+**The fallacy of composition assumes that because the parts of something have a property, the whole has it too. The fallacy of division assumes the reverse: because the whole has a property, each of its parts has it too.** Each runs in the opposite direction to the other. They are [informal fallacies](informal-fallacy) of misattribution: a property is moved between parts and wholes where it may not belong.
 
 ## The patterns
 
@@ -29,7 +29,7 @@ Division:
 C. Therefore, each part of W has property F.
 ```
 
-The inference fails because not all properties carry over between parts and wholes. A whole can be something other than the sum of its parts.
+The inference fails because not all properties carry over between parts and wholes. A whole can be something other than the sum of its parts. Often the property in the conclusion is a counterpart rather than exactly the same one (an excellent player, an excellent team).
 
 ## Examples
 
@@ -58,16 +58,15 @@ Ingredients that are good on their own can clash when combined.
 C. Therefore, each student at the school is a top student.
 ```
 
-A strong overall result is compatible with a wide range among individual students.
-
-**Division.** "That research team is excellent, so every member of it must be an excellent researcher." Some essential members of a strong team may have a supporting or administrative role rather than a research one.
+A strong overall result is compatible with a wide range of results among individual students.
 
 ## When it is not fallacious
 
-- **When the property adds up.** Some properties do transfer from parts to whole. If ten people each weigh 100 kilograms, together they weigh 1,000 kilograms, which is over the limit for a lift rated at 800 kilograms. Concluding that the lift is overloaded is not a fallacy.
-- **When a division inference is tentative.** Facts about a group can give some information about its members. "This author's novels are consistently excellent, so the next one is likely to be good" is reasonable. The error comes when the inference is treated as certain, ignoring variation among members.
+- **When the property does transfer.** "Every part of this chair is made of wood, so the chair is made of wood" is not a fallacy.
+- **When the property adds up.** Some properties of a whole can be calculated from its parts. If ten people each weigh 100 kilograms, together they weigh 1,000 kilograms, which is over the limit for a lift rated at 800 kilograms. Concluding that the lift is overloaded is not a fallacy.
+- **When a division inference is tentative.** Facts about a group can give some information about its members. "This author is outstanding, so her latest novel is likely to be good" is reasonable. The error comes when the inference is treated as certain, ignoring variation among members.
 
-The test is whether the property is the kind that transfers, and how strongly the conclusion is put.
+The test is whether the property is the kind that transfers. For division, it also matters how strongly the conclusion is put: an argument with a tentative conclusion can be [inductively strong](strong-weak).
 
 ## Not to be confused with
 
@@ -77,6 +76,6 @@ The test is whether the property is the kind that transfers, and how strongly th
 [Hasty generalisation](hasty-generalisation) · [Generalisation](generalisation) · [Induction](induction) · [Inductively strong and weak](strong-weak) · [Informal fallacies](informal-fallacy)
 
 ## Sources
-- Bland, *Reason* (Revised Edition), ch. 4, §4.4 p. 84. CC BY-NC 4.0.
+- Bland, *Reason* (Revised Edition), ch. 4, §4.2 pp. 76–77; §4.4 p. 84. CC BY-NC 4.0.
 - Hansen, H., "Fallacies", *Stanford Encyclopedia of Philosophy* (rev. 30 Aug 2024), §1 (items 3 and 4). https://plato.stanford.edu/entries/fallacies/
 - Dowden, B., "Fallacies", *Internet Encyclopedia of Philosophy*, "Composition", "Division". https://iep.utm.edu/fallacy/

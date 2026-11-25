@@ -28,6 +28,11 @@ John: The Bible is the word of God. I know this, because God says so in the Bibl
 
 [p. 83]
 
+## bland-reason-p104
+Bland §6.2 p. 105 (verbatim, line 4201; the text extraction lacks a p. 105 marker, but the contents page puts §6.2 on p. 105 and line 4201 falls between the p. 104 and p. 106 markers after the §6.2 heading at line 4188). Key name kept for stability:
+
+• Begging the Question (petitio principii), otherwise known as circular reasoning.
+
 ## sep-fallacies
 Hansen, H., "Fallacies", *Stanford Encyclopedia of Philosophy*, first published 29 May 2015; substantive revision 30 Aug 2024. https://plato.stanford.edu/entries/fallacies/ (full text fetched via Chrome, 26 Nov 2026).
 
@@ -51,6 +56,12 @@ Dowden, B., "Fallacies", *Internet Encyclopedia of Philosophy*, https://iep.utm.
 - "Circular Reasoning" SUMMARY: short circles are fallacious; large, informative circles (like a dictionary) are not.
 
 
+
+## mw-beg-the-question
+Merriam-Webster, "Beg the Question" (Grammar & Usage article), https://www.merriam-webster.com/grammar/beg-the-question (WebSearch result text, 26 Nov 2026). EXACT: "In each of these, beg the question means “to cause someone to ask a specified question as a reaction or response.”" Supports the everyday "raises the question" sense (brief item 5). Corroborating search snippet: Dictionary.com, "beg the question": "The phrase beg the question is now commonly used to mean much the same thing as raise a question."
+
+## Logic check (code, 26 Nov 2026)
+`P ∴ P`: no assignment makes the premise true and the conclusion false, so valid. Same for a premise that is the conclusion reworded (same proposition).
 
 ## Notes for drafting
 Validity of `P ∴ P` and of a reworded premise: verify by code at Checked. Everyday "begs the question" = "raises the question" (brief item 5): no fetched source yet; it is a common usage note, flag at Checked or source a dictionary.
