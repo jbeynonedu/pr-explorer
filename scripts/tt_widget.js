@@ -19,12 +19,12 @@ const FORMS={
 function drawTT(box,key){
  const F=FORMS[key],b=v=>v?1:0,bad=[],n=F.v.length,big=n>2,vs=[...F.v];
  const combos=[...Array(2**n).keys()].map(i=>vs.map((_,j)=>((i>>(n-1-j))&1)?0:1));
- const rows=combos.map(vals=>{
+ const rows=combos.map((vals,ri)=>{
   const a=vals.map(x=>!!x),ps=F.p.map(([,f])=>f(...a)),c=F.c[1](...a);
   const live=ps.every(Boolean),ce=live&&!c;if(ce)bad.push(vs.map((x,j)=>`${x} = ${vals[j]}`).join(', '));
   const cls=[ce?'ce':live?'live':'',big&&!c?'chk':''].filter(Boolean).join(' ');
-  return `<tr class="${cls}">${vals.map(x=>`<td>${x}</td>`).join('')}${ps.map(x=>`<td>${b(x)}</td>`).join('')}<td>${b(c)}</td></tr>`}).join('');
- const head=vs.map(x=>`<th>${x}</th>`).join('')+F.p.map(([l],i)=>`<th>Premise ${i+1}: ${l}</th>`).join('')+`<th>Conclusion: ${F.c[0]}</th>`;
+  return `<tr class="${cls}">${big?`<td>${ri+1}</td>`:''}${vals.map(x=>`<td>${x}</td>`).join('')}${ps.map(x=>`<td>${b(x)}</td>`).join('')}<td>${b(c)}</td></tr>`}).join('');
+ const head=(big?'<th>Row</th>':'')+vs.map(x=>`<th>${x}</th>`).join('')+F.p.map(([l],i)=>`<th>Premise ${i+1}: ${l}</th>`).join('')+`<th>Conclusion: ${F.c[0]}</th>`;
  box.querySelector('.out').innerHTML=`<div class="scroll"><table><thead><tr>${head}</tr></thead><tbody>${rows}</tbody></table></div>`+
   (bad.length?`<p class="verdict no">${F.name} is invalid: true premises and a false conclusion in the row${bad.length>1?'s':''} ${bad.join('; ')}.</p>`:`<p class="verdict ok">${F.name} is valid: no row has true premises and a false conclusion.</p>`);
  box.querySelector('.key').textContent='1 = true, 0 = false. Shaded rows: all premises true. Red rows: true premises with a false conclusion (a counterexample).'+(big?' Outlined rows: the conclusion is false. Only these rows can be counterexamples, so they are the ones to check.':'');

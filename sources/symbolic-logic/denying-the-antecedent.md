@@ -14,7 +14,7 @@ Variations (Exercise 2.2, pp. 33–34): (d) "1. K only if F. 2. Not K. C. Theref
 Truth-table test: Bland Exercise 3.4 Q1(d) (p. 53), basketball example.
 
 ## forallx-5-5-iff
-forall x: Calgary (Fall 2025), §5.5, p. 41. CC BY 4.0.
+forall x: Calgary (Fall 2025), §5.5, pp. 41–42 (§5.5 begins p. 41; the caution and greens example are on p. 42). CC BY 4.0.
 > Ordinary speakers of English often use 'if . . . , then. . . ' when they really mean to use something more like '. . . if and only if . . . '. Perhaps your parents told you, when you were a child: 'if you don't eat your greens, you won't get any dessert'.
 
 The parents are "only committed to the conditional (roughly 'if you get dessert, then you will have eaten your greens'), rather than the biconditional (roughly, 'you get dessert iff you eat your greens'). Well, a tantrum would rightly ensue." "be aware of this when interpreting people; but in your own writing, make sure you use the biconditional iff you mean to."

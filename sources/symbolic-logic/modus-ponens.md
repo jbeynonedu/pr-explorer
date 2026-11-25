@@ -21,7 +21,7 @@ forall x: Calgary (Fall 2025), ch. 17.4, p. 121. CC BY 4.0. Conditional eliminat
 "the conditional A → B and the antecedent A can be separated from one another in the proof, and they can appear in any order."
 
 ## carroll-1895
-Carroll, L. (1895), "What the Tortoise Said to Achilles", *Mind*, New Series, vol. IV, no. 14 (April 1895), pp. 278–280. Public domain (Carroll d. 1898). Text read in full: https://math.dartmouth.edu/~matc/Readers/HowManyAngels/Tortoise.html (transcription of *Mind* 1895; Chrome, 26 Nov 2026). Pagination from JSTOR record (stable 2254477) as cited in search results; page of each line not yet located.
+Carroll, L. (1895), "What the Tortoise Said to Achilles", *Mind*, New Series, vol. IV, no. 14 (April 1895), pp. 278–280. Public domain (Carroll d. 1898). Text read in full: https://math.dartmouth.edu/~matc/Readers/HowManyAngels/Tortoise.html (transcription of *Mind* 1895; Chrome, 26 Nov 2026). Pagination: pp. 278–280 (JSTOR stable 2254477). Wikisource facsimile (Page:Carroll (Mind, 1895).djvu/1, via kwx.liehendr.com mirror, 26 Nov 2026): first page (p. 278) ends "might still accept the sequence as a valid one, I suppose?", before (C) first appears; the third page is p. 280. So (C) first appears on p. 279.
 
 Propositions (verbatim):
 > (A) Things that are equal to the same are equal to each other.

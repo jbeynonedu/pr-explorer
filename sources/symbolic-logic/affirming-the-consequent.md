@@ -15,7 +15,7 @@ Variations (Exercise 2.2, pp. 33–34): (b) "1. R if S. 2. R. C. Therefore, S.";
 Bland, ch. 3, pp. 52–53: 1. R ⊃ W 2. W C. R. "This row gives us a counterexample to the argument: 'R = FALSE and W = TRUE'." "A counterexample is simply a case where the argument breaks down". (Bland names real billionaires as counterexamples; not used.)
 
 ## forallx-5-5-iff
-forall x: Calgary (Fall 2025), §5.5, p. 41. CC BY 4.0.
+forall x: Calgary (Fall 2025), §5.5, pp. 41–42 (§5.5 begins p. 41; the caution and greens example are on p. 42). CC BY 4.0.
 > Ordinary speakers of English often use 'if . . . , then. . . ' when they really mean to use something more like '. . . if and only if . . . '. Perhaps your parents told you, when you were a child: 'if you don't eat your greens, you won't get any dessert'.
 
 "So, be aware of this when interpreting people; but in your own writing, make sure you use the biconditional iff you mean to."

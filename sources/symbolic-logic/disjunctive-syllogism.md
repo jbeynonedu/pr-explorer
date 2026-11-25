@@ -38,7 +38,7 @@ Conan Doyle, A., *The Sign of Four* (London: Spencer Blackett, 1890), ch. VI "Sh
 
 > 'He came through the hole in the roof!' I cried.
 
-Context: a locked room; options door, window, chimney, concealment, roof. The passage itself is a disjunctive syllogism with five disjuncts. Its strength depends on the list being complete (first premise true).
+Context: Watson asks how "the ally" (the second intruder) got into the room ("'Yes, the ally!' repeated Holmes pensively." … "'How came he, then?' I reiterated."); options door, window, chimney, concealment, roof. Checker also matched the quotation against the UVA e-text (Lippincott's 1890 serial). The passage itself is a disjunctive syllogism with five disjuncts. Its strength depends on the list being complete (first premise true).
 
 ## Logic checks (code, 26 Nov 2026)
 - `P ∨ Q, ~P ∴ Q` valid; `P ∨ Q, ~Q ∴ P` valid; `~P ∨ Q, P ∴ Q` valid.

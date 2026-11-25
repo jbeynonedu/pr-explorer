@@ -5,13 +5,13 @@ type: logic-form
 units: [1]
 section: symbolic-logic
 status: drafted
-related: [modus-tollens, affirming-the-consequent, denying-the-antecedent, hypothetical-syllogism, valid, logical-operators, translating-symbolising]
+related: [modus-tollens, affirming-the-consequent, denying-the-antecedent, hypothetical-syllogism, valid, sound, logical-operators, translating-symbolising]
 sources: [bland-reason-ch2-mp, bland-reason-confusion, forallx-17-4, carroll-1895, carroll-dates]
 ---
 
 # Modus ponens
 
-**Modus ponens is a valid deductive argument form: it takes a conditional, affirms its antecedent, and concludes its consequent.** The Latin is short for *modus ponendo ponens*, "the method of affirming by affirming".
+**Modus ponens is a valid deductive argument form: it takes a conditional, affirms its antecedent, and concludes its consequent.** The name is short for *modus ponendo ponens*, "the method of affirming by affirming".
 
 ## The form
 
@@ -29,7 +29,7 @@ Line form: `P ⊃ Q, P ∴ Q`
 
 ```sf
 1. If a bushfire warning is issued for the area, then the school camp will be cancelled.
-2. A bushfire warning has been issued for the area.
+2. A bushfire warning is issued for the area.
 C. Therefore, the school camp will be cancelled.
 ```
 
@@ -76,7 +76,7 @@ Both premises are true only in the first row (P true, Q true), and there the con
 | [Affirming the consequent](affirming-the-consequent) | `P ⊃ Q, Q ∴ P` | Invalid |
 | [Denying the antecedent](denying-the-antecedent) | `P ⊃ Q, ~P ∴ ~Q` | Invalid |
 
-Affirming the consequent is the one most often mistaken for modus ponens. It fails in the row P false, Q true: the camp might be cancelled for another reason, such as a bus breakdown.
+Affirming the consequent is the form that most resembles modus ponens. It fails in the row P false, Q true: the camp might be cancelled for another reason, such as a bus breakdown.
 
 ## Where it matters
 
@@ -84,15 +84,21 @@ In "What the Tortoise Said to Achilles" (1895), Lewis Carroll (1832–1898) has 
 
 > (C) If A and B are true, Z must be true.
 
-*Lewis Carroll, "What the Tortoise Said to Achilles", Mind 4 (1895).*
+Lewis Carroll, "What the Tortoise Said to Achilles", *Mind* 4 (1895), p. 279.
 
-With C, the step to Z has the form of modus ponens: `(A & B) ⊃ Z, A & B ∴ Z`. The Tortoise then asks for that step to be written down as a further premise, then another, and the list never ends. The dialogue is usually read as showing that a rule of inference cannot be replaced by one more premise: at some point the rule has to be applied.
+Carroll's A, B and Z are steps from Euclid's geometry:
+
+- A: "Things that are equal to the same are equal to each other."
+- B: "The two sides of this Triangle are things that are equal to the same."
+- Z: "The two sides of this Triangle are equal to each other."
+
+With C, and taking A and B together, the step to Z has the form of modus ponens: `(A & B) ⊃ Z, A & B ∴ Z`. The Tortoise then asks for that step to be written down as a further premise, then another, and the list never ends. The regress shows that a rule of inference such as modus ponens cannot work as just one more premise. However many premises are written down, the step from premises to conclusion still has to be taken.
 
 ## Related concepts
-[Modus tollens](modus-tollens) · [Affirming the consequent](affirming-the-consequent) · [Denying the antecedent](denying-the-antecedent) · [Hypothetical syllogism](hypothetical-syllogism) · [Deductively valid and invalid](valid) · [Logical operators](logical-operators)
+[Modus tollens](modus-tollens) · [Affirming the consequent](affirming-the-consequent) · [Denying the antecedent](denying-the-antecedent) · [Hypothetical syllogism](hypothetical-syllogism) · [Deductively valid and invalid](valid) · [Sound and unsound](sound) · [Logical operators](logical-operators) · [Translating and symbolising propositions](translating-symbolising)
 
 ## Sources
 - Bland, *Reason* (Revised Edition), ch. 2, pp. 26, 31–32; ch. 3, p. 50. CC BY-NC 4.0.
 - Magnus, Button, Trueman and Zach, *forall x: Calgary* (Fall 2025), ch. 17, §17.4, p. 121. CC BY 4.0.
-- Carroll, L., "What the Tortoise Said to Achilles", *Mind*, New Series, 4(14) (1895), pp. 278–280. Public domain. Text: https://math.dartmouth.edu/~matc/Readers/HowManyAngels/Tortoise.html
+- Carroll, L., "What the Tortoise Said to Achilles", *Mind*, New Series, 4(14) (1895), pp. 278–280 (C first appears on p. 279). Public domain. Text: https://math.dartmouth.edu/~matc/Readers/HowManyAngels/Tortoise.html
 - "Lewis Carroll", *Britannica* (dates). https://www.britannica.com/biography/Lewis-Carroll

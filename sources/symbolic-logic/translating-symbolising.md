@@ -42,7 +42,7 @@ forall x, §10.2, pp. 73–74: sarcasm, poetry, implicature, emphasis "are impor
 > When we treat a TFL sentence as symbolizing an English sentence, we are stipulating that the TFL sentence is to take the same truth value as that English sentence.
 
 ## unit2-example: searle-1990-axiom3 (from the Searle source pack)
-Searle, J. R. (1990), "Is the Brain's Mind a Computer Program?", *Scientific American* 262: 26–31. In copyright: short quotation only. Fetched copy and flag as recorded in `sources/philosophy-of-mind/searle-chinese-room.md` (single excerpt copy; checker to confirm wording).
+Searle, J. R. (1990), "Is the Brain's Mind a Computer Program?", *Scientific American* 262: 26–31. In copyright: short quotation only. Fetched copy and flag as recorded in `sources/philosophy-of-mind/searle-chinese-room.md`. Second copy confirmed by checker (26 Nov 2026): scan at https://mail.joelvelasco.net/teaching/hum9/scientificamerican0190-26.pdf — Axiom 3 on p. 27, wording matches.
 > Axiom 3. Syntax by itself is neither constitutive of nor sufficient for semantics.
 
 Use: "neither ... nor" → `~C & ~S` (or `~(C ∨ S)`), with C = "Syntax by itself is constitutive of semantics.", S = "Syntax by itself is sufficient for semantics." Links to the Chinese room entry (status: checked).
