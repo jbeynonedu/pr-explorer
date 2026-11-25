@@ -4,7 +4,7 @@ type: term
 section: building-blocks
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Descriptive and normative claims (term)
@@ -38,3 +38,6 @@ None.
 ## Questions for John
 1. Bland pairs descriptive/normative with **analytic/synthetic** (pp. 10–11). It is not a syllabus term and not in the tracker. Add an entry, cover briefly here, or leave out?
 2. Bland treats "normative" and "evaluative" as one category. Some texts separate them (ought vs good). Keep Bland's single category, with a one-line note?
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Q1: leave analytic/synthetic out. Q2: keep the single normative (evaluative) category.

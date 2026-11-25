@@ -1,13 +1,13 @@
 id,title,type,units,section_no,section,status,phase0_exemplar,notes
-argument,Argument,term,1,1,Building blocks,briefed,,Brief written 25 Nov 2026; scope awaiting John.
-claim,Claim,term,1,1,Building blocks,briefed,,Brief written 25 Nov 2026; scope awaiting John.
+argument,Argument,term,1,1,Building blocks,briefed,,Scope approved by John 25 Nov 2026.
+claim,Claim,term,1,1,Building blocks,briefed,,Scope approved by John 25 Nov 2026.
 proposition,Proposition,term,1,1,Building blocks,approved,yes,Approved by John 25 Nov 2026.
-premise,Premise,term,1,1,Building blocks,briefed,,Brief written 25 Nov 2026; scope awaiting John.
-conclusion,Conclusion,term,1,1,Building blocks,briefed,,Brief written 25 Nov 2026; scope awaiting John.
-hidden-premise,Hidden premise,term,1,1,Building blocks,briefed,,Syllabus: identify hidden premises. Brief written 25 Nov 2026; scope awaiting John.
-standard-form,Standard form,term,1,1,Building blocks,briefed,,Syllabus: arrange premises and conclusions into standard argument form. Brief written 25 Nov 2026; scope awaiting John.
-purposes-of-argument,"Purposes of argument (explain, justify, analyse, evaluate)",term,1,1,Building blocks,briefed,,May split into four terms. Brief written 25 Nov 2026; scope awaiting John.
-descriptive-normative,Descriptive and normative claims,term,1,1,Building blocks,briefed,,Not a syllabus term; in plan; supports is-ought. Brief written 25 Nov 2026; scope awaiting John.
+premise,Premise,term,1,1,Building blocks,briefed,,Scope approved by John 25 Nov 2026.
+conclusion,Conclusion,term,1,1,Building blocks,briefed,,Scope approved by John 25 Nov 2026.
+hidden-premise,Hidden premise,term,1,1,Building blocks,briefed,,Syllabus: identify hidden premises. Scope approved by John 25 Nov 2026.
+standard-form,Standard form,term,1,1,Building blocks,briefed,,Syllabus: arrange premises and conclusions into standard argument form. Scope approved by John 25 Nov 2026.
+purposes-of-argument,"Purposes of argument (explain, justify, analyse, evaluate)",term,1,1,Building blocks,briefed,,May split into four terms. Scope approved by John 25 Nov 2026.
+descriptive-normative,Descriptive and normative claims,term,1,1,Building blocks,briefed,,Not a syllabus term; in plan; supports is-ought. Scope approved by John 25 Nov 2026.
 deduction,Deduction,term,1,2,Deduction,not-started,,
 deductive-vs-inductive,The distinction between deductive and inductive arguments,term,1,2,Deduction,not-started,,Syllabus Explain dot point
 valid,Deductively valid and invalid,term,1,2,Deduction,not-started,,

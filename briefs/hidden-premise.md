@@ -4,7 +4,7 @@ type: term
 section: building-blocks
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Hidden premise (term)
@@ -42,3 +42,6 @@ Two short `sf` pairs (before/after). No diagram.
 ## Questions for John
 1. The "most plausible premise" guidance and charity go a little beyond Bland. Include, or keep strictly to Bland?
 2. One warning worth adding: a hidden premise that simply restates "if the premises, then the conclusion" makes any argument valid but makes evaluation trivial. Include as a common mistake, or too advanced for this entry?
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Q1: include the most-plausible-premise guidance and the principle of charity. Q2: include the warning about a hidden premise that just restates "if the premises, then the conclusion", as a common mistake. Hidden conclusions are covered properly here.

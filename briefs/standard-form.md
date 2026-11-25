@@ -4,7 +4,7 @@ type: term
 section: building-blocks
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Standard form (term)
@@ -43,3 +43,6 @@ Out of scope for this entry (linked instead): symbolising (section 3); evaluatio
 ## Questions for John
 1. Bland's is-ought box uses `1)` and `C)`; elsewhere `1.` and `C.`. The entry uses `1.` / `C.` throughout (house style). Confirm.
 2. Argument map for intermediate conclusions: include, or keep maps for the Argument-type entries? (words: 250–450 proposed, slightly over the term range because of the method).
+
+## Scope decision (John, 25 Nov 2026)
+Approved, 250–450 words. Q1: `1.` / `C.` throughout, confirmed. Q2: no argument map here; maps are kept for Argument-type entries.

@@ -4,7 +4,7 @@ type: term
 section: building-blocks
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Purposes of argument (explain, justify, analyse, evaluate) (term)
@@ -42,3 +42,6 @@ Possibly a small 2×2 table (purpose / question it answers / example). No diagra
 1. Tracker note says "may split into four terms". Proposed: **one entry** with four short sections, since each term alone is thin and the contrast (especially explain vs justify) is the point. Agree?
 2. The syllabus lists *explain* as a purpose of argument, while many logic texts contrast explanations *with* arguments. Proposed wording: an explanation has the same premise-conclusion structure but a different purpose. Does this match how you teach it?
 3. The QCAA definitions are of the cognitive verbs (what students do), not of purposes of argument. OK to adapt them, credited, rather than quote them as definitions of the four purposes?
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Q1: one entry with four short sections. Q2: an explanation has the same premise-conclusion structure but a different purpose. Q3: adapt the QCAA cognitive-verb definitions, credited, rather than quote them as definitions of the purposes.

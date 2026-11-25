@@ -4,7 +4,7 @@ type: term
 section: building-blocks
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Claim (term)
@@ -38,3 +38,6 @@ None.
 ## Questions for John
 1. Bland says an unsupported claim "carries little weight" (p. 14). As a general rule that overgeneralises (some claims are well supported elsewhere, or come from credible sources). Propose: "a claim on its own gives no *reason* to accept it". OK?
 2. Thesis/contention: the syllabus calls an essay's central thesis "a claim or assertion" (p. 7). Mention that link here?
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Q1: use "a claim on its own gives no reason to accept it". Q2: yes, mention that an essay's central thesis is a claim, briefly.

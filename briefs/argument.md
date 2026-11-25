@@ -4,7 +4,7 @@ type: term
 section: building-blocks
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Argument (term)
@@ -42,3 +42,6 @@ One `sf` block (the worked example). No diagram.
 ## Questions for John
 1. Bland defines an argument as "the establishment of a factual statement that is supported by evidence or reason" (p. 8). His own examples have normative conclusions, so "factual" is too narrow. OK to define without "factual" (conclusion = any proposition)?
 2. Should the entry say an argument can be bad and still be an argument (i.e. "argument" is not an honorific)? Standard, and useful for students; flagging as it goes slightly beyond Bland.
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Q1: define without "factual" (the conclusion can be any proposition). Q2: yes, say a bad argument is still an argument.

@@ -4,7 +4,7 @@ type: term
 section: building-blocks
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Premise (term)
@@ -38,3 +38,6 @@ None.
 ## Questions for John
 1. Indicator words are not in Bland. OK to source them from forall x: Calgary?
 2. Split of indicator words: premise indicators here, conclusion indicators in *conclusion*, both used in *standard form*. OK?
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Q1: indicator words sourced from forall x: Calgary. Q2: premise indicators here, conclusion indicators in *conclusion*, both used in *standard form*.

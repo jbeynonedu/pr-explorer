@@ -4,7 +4,7 @@ type: term
 section: building-blocks
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Conclusion (term)
@@ -35,3 +35,6 @@ One `sf` block showing IC1, IC2 and C (Bland's pool/swim example, p. 15, recast)
 
 ## Questions for John
 1. Hidden conclusions (HC): cover here, in *hidden premise*, or in *standard form*? Proposed: defined in *hidden premise* (Bland treats them together in §1.3), mentioned here in one line.
+
+## Scope decision (John, 25 Nov 2026)
+Approved. Q1: hidden conclusions mentioned here briefly or not at all; covered properly in *hidden premise*. Conclusion indicators from forall x: Calgary (see *premise* decision).
