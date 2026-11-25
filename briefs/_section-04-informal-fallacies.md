@@ -16,5 +16,9 @@ Latin name first with English subtitle (style guide §4); definition; the patter
 4. **Fallacies in Bland but not the syllabus list** (straw man, red herring, ad baculum, slothful induction). Proposed: not now; *cum hoc* is covered inside post hoc. Can be added later as a batch.
 5. **Moore's "naturalistic fallacy".** One-line distinction in appeal to nature and is-ought, no separate entry. Proposed: yes.
 
-## Scope decision
-Pending.
+## Scope decision (John, 26 Nov 2026)
+1. Yes: add the overview entry `informal-fallacy` (brief: `informal-fallacy.md`).
+2. Yes: ad hominem first, through Checked, as the exemplar.
+3. Yes.
+4. Add an entry for straw man (brief: `straw-man.md`). Drop red herring, ad baculum and slothful induction. *Cum hoc* inside post hoc.
+5. Yes: one-line distinction in appeal to nature and is-ought.

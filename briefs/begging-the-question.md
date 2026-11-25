@@ -4,7 +4,7 @@ type: fallacy
 section: informal-fallacies
 units: [1]
 stage: briefed
-approved_scope: pending
+approved_scope: yes
 ---
 
 # Brief: Begging the question (fallacy)
@@ -21,7 +21,7 @@ Units 2–4, every topic: "identify any formal or informal fallacies"
 Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026).
 
 ## Exemplar
-None approved for the fallacy type yet. See section note `_section-04-informal-fallacies.md`, Q2.
+Ad hominem is drafted first as the fallacy exemplar (John, 26 Nov 2026); the other entries follow its shape once approved.
 
 ## Proposed scope (350–550 words)
 1. **Definition** (Bland p. 82): an argument whose premises assume the truth of the conclusion, often in different words (*petitio principii*). Also called circular reasoning.
@@ -41,3 +41,6 @@ None (validity point verified by code, stated in prose).
 
 ## Questions for John
 None beyond the section note.
+
+## Scope decision (John, 26 Nov 2026)
+Approved. Section decisions: see `_section-04-informal-fallacies.md`.

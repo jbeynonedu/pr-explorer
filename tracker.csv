@@ -24,10 +24,11 @@ disjunctive-syllogism,Disjunctive syllogism,logic-form,1,3,Symbolic logic,approv
 constructive-dilemma,Constructive dilemma,logic-form,1,3,Symbolic logic,approved,,Approved by John 26 Nov 2026.
 affirming-the-consequent,Affirming the consequent,logic-form,1,3,Symbolic logic,approved,,Formal fallacy. Approved by John 26 Nov 2026.
 denying-the-antecedent,Denying the antecedent,logic-form,1,3,Symbolic logic,approved,,Formal fallacy. Approved by John 26 Nov 2026.
+informal-fallacy,Informal fallacies,term,1;2;3;4,4,Informal fallacies,briefed,,Section overview; added by John 26 Nov 2026. Draft after ad hominem exemplar.
 ad-populum,Ad populum (illicit appeal to popular opinion/bandwagon fallacy),fallacy,1,4,Informal fallacies,briefed,,
 appeal-to-nature,Illicit appeal to nature,fallacy,1,4,Informal fallacies,briefed,,
 tu-quoque,Tu quoque (illicit appeal to hypocrisy),fallacy,1,4,Informal fallacies,briefed,,
-ad-hominem,Ad hominem (abusive and circumstantial),fallacy,1,4,Informal fallacies,briefed,,
+ad-hominem,Ad hominem (abusive and circumstantial),fallacy,1,4,Informal fallacies,briefed,yes,"Fallacy exemplar; drafted first (John, 26 Nov 2026)."
 post-hoc,Post hoc ergo propter hoc (false cause),fallacy,1,4,Informal fallacies,briefed,,
 ad-verecundiam,Ad verecundiam (appeal to the wrong authority),fallacy,1,4,Informal fallacies,briefed,,
 slippery-slope,Slippery slope,fallacy,1,4,Informal fallacies,briefed,,
@@ -38,6 +39,7 @@ composition-division,Composition/division,fallacy,1,4,Informal fallacies,briefed
 begging-the-question,Begging the question,fallacy,1,4,Informal fallacies,briefed,,
 hasty-generalisation,Hasty generalisation,fallacy,1,4,Informal fallacies,briefed,,
 is-ought,Is-ought fallacy,fallacy,1,4,Informal fallacies,briefed,,
+straw-man,Straw man,fallacy,1,4,Informal fallacies,briefed,,Not in syllabus list; added by John 26 Nov 2026. Scope pending.
 induction,Induction,term,1,5,Induction,not-started,,
 analogy,Analogy,term,1;2,5,Induction,not-started,,Syllabus: use of analogy in induction (Unit 1) and in science (Unit 2)
 generalisation,Generalisation,term,1;2,5,Induction,not-started,,

@@ -4,7 +4,7 @@ type: fallacy
 section: informal-fallacies
 units: [1]
 stage: briefed
-approved_scope: pending
+approved_scope: yes
 ---
 
 # Brief: Gambler's fallacy (fallacy)
@@ -21,7 +21,7 @@ Units 2–4, every topic: "identify any formal or informal fallacies"
 Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026).
 
 ## Exemplar
-None approved for the fallacy type yet. See section note `_section-04-informal-fallacies.md`, Q2.
+Ad hominem is drafted first as the fallacy exemplar (John, 26 Nov 2026); the other entries follow its shape once approved.
 
 ## Proposed scope (300–450 words)
 1. **Definition** (Bland pp. 79–80): believing that past outcomes of independent random events change the probability of the next outcome (a result is "due").
@@ -41,3 +41,6 @@ Optional interactive coin-toss simulator: run many tosses, show that the toss af
 
 ## Questions for John
 1. Include the simulator? It shows something prose struggles to make vivid. Proposed: yes, simple, labelled, results checked by code.
+
+## Scope decision (John, 26 Nov 2026)
+Approved. Q1: yes, include the coin-toss simulator. Section decisions: see `_section-04-informal-fallacies.md`.

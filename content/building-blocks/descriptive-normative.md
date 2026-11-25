@@ -11,7 +11,7 @@ sources: [bland-reason-ch1-desc, sep-moral-cognitivism]
 
 # Descriptive and normative claims
 
-**A descriptive claim says how things are. A normative claim says how things ought to be, or makes a judgement of value.** The distinction is not covered as a separate term at this level, but you need it to spot the [is-ought fallacy](is-ought) and many [hidden premises](hidden-premise).
+**A descriptive claim says how things are. A normative claim says how things ought to be, or makes a judgement of value.** You need the distinction to spot the [is-ought fallacy](is-ought) and many [hidden premises](hidden-premise).
 
 ## The two kinds
 
@@ -38,7 +38,7 @@ On a widely held view, associated with David Hume (1711–1776), a normative con
 C. Therefore, the government should ban cigarette smoking.
 ```
 
-The premise says what is; the conclusion says what the government ought to do. On that view, the argument needs a normative premise, such as "The government has a duty to protect public health." Even then, a valid version would need more, such as a premise that a ban is the way to meet that duty. See [hidden premise](hidden-premise) and the [is-ought fallacy](is-ought). Some philosophers dispute the view itself; that debate is not covered here.
+The premise says what is; the conclusion says what the government ought to do. On that view, the argument needs a normative premise, such as "The government has a duty to protect public health." Even then, a valid version would need more, such as a premise that a ban is the way to meet that duty. See [hidden premise](hidden-premise) and the [is-ought fallacy](is-ought). Some philosophers dispute the view itself: see the [is-ought fallacy](is-ought).
 
 ## Can normative claims be true?
 

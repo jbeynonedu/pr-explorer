@@ -4,7 +4,7 @@ type: fallacy
 section: informal-fallacies
 units: [1]
 stage: briefed
-approved_scope: pending
+approved_scope: yes
 ---
 
 # Brief: Is-ought fallacy (fallacy)
@@ -21,7 +21,7 @@ Units 2–4, every topic: "identify any formal or informal fallacies"
 Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026).
 
 ## Exemplar
-None approved for the fallacy type yet. See section note `_section-04-informal-fallacies.md`, Q2.
+Ad hominem is drafted first as the fallacy exemplar (John, 26 Nov 2026); the other entries follow its shape once approved.
 
 ## Proposed scope (450–700 (see Q1) words)
 1. **Definition** (Bland p. 14; p. 68): drawing a normative conclusion (what ought to be) from purely descriptive premises (what is), with no normative premise to bridge the gap.
@@ -46,3 +46,6 @@ None.
 ## Questions for John
 1. Length: with a primary text and a contested principle this runs above the 300–600 fallacy range. Proposed: up to ~700 words.
 2. Include item 6 (the principle is disputed)? The even-handedness rule suggests yes. Proposed: one short paragraph.
+
+## Scope decision (John, 26 Nov 2026)
+Approved. Q1: up to ~700 words. Q2: yes, include the short even-handed note that the principle is disputed. Section decisions: see `_section-04-informal-fallacies.md`.

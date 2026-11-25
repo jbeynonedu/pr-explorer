@@ -4,7 +4,7 @@ type: fallacy
 section: informal-fallacies
 units: [1]
 stage: briefed
-approved_scope: pending
+approved_scope: yes
 ---
 
 # Brief: Ad hominem (abusive and circumstantial) (fallacy)
@@ -21,7 +21,7 @@ Units 2–4, every topic: "identify any formal or informal fallacies"
 Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026).
 
 ## Exemplar
-None approved for the fallacy type yet. See section note `_section-04-informal-fallacies.md`, Q2.
+Ad hominem is drafted first as the fallacy exemplar (John, 26 Nov 2026); the other entries follow its shape once approved.
 
 ## Proposed scope (400–600 words)
 1. **Definition** (Bland pp. 70–71): rejecting an argument or claim by attacking the person who makes it rather than the argument.
@@ -42,3 +42,6 @@ None.
 
 ## Questions for John
 1. Bland's abusive example is Paul Keating's "You fraud!" exchange (House of Representatives, 18 April 1991). On its own it is abuse rather than an argument, so it illustrates item 4 well but is a weak model of the fallacy. Options: (a) use it, verified against Hansard, with the point that the abuse becomes a fallacy only when offered as a reason; (b) use a constructed example only. Proposed: (a).
+
+## Scope decision (John, 26 Nov 2026)
+Approved. Q1: (a), use the Keating exchange, verified against Hansard, with the point that abuse becomes the fallacy only when offered as a reason to reject a claim. Section decisions: see `_section-04-informal-fallacies.md`.

@@ -4,7 +4,7 @@ type: fallacy
 section: informal-fallacies
 units: [1]
 stage: briefed
-approved_scope: pending
+approved_scope: yes
 ---
 
 # Brief: Ad misericordiam (illicit appeal to emotion) (fallacy)
@@ -21,7 +21,7 @@ Units 2–4, every topic: "identify any formal or informal fallacies"
 Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026).
 
 ## Exemplar
-None approved for the fallacy type yet. See section note `_section-04-informal-fallacies.md`, Q2.
+Ad hominem is drafted first as the fallacy exemplar (John, 26 Nov 2026); the other entries follow its shape once approved.
 
 ## Proposed scope (300–500 words)
 1. **Definition** (Bland p. 73): trying to secure acceptance of a conclusion by arousing emotion, classically pity (*misericordia*), where the emotion is not a relevant reason. The syllabus's English name is wider than the Latin; the entry covers pity as the central case and other emotions (fear, guilt, outrage) briefly (see Q1).
@@ -39,3 +39,6 @@ None.
 
 ## Questions for John
 1. Breadth: pity only, or emotion generally with pity as the central case? Proposed: emotion generally, pity central, with a one-line note that *misericordia* means pity.
+
+## Scope decision (John, 26 Nov 2026)
+Approved. Q1: emotion generally, pity as the central case. Section decisions: see `_section-04-informal-fallacies.md`.
