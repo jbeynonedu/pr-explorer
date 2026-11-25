@@ -50,6 +50,15 @@ the Broncos have won! I’m convinced that they have magical powers!
 
 [p. 81]
 
+## bland-reason-4-2-intro
+Bland §4.2 introduction, p. 76 (verbatim, text lines 2953–2957):
+
+4.2 Fallacies of Weak Induction
+In the section we have just considered, Fallacies of Relevance, usually the argumentative offence is clear and 
+easy to identify. Fallacies of weak induction, however, are not as straightforward. The premises are relevant 
+and the reasoning feels… reasonable. However, the argument still fails, not because the premises are 
+irrelevant, but because they are insufficient.
+
 ## sep-fallacies
 Hansen, H., "Fallacies", *Stanford Encyclopedia of Philosophy*, first published 29 May 2015; substantive revision 30 Aug 2024. https://plato.stanford.edu/entries/fallacies/ (full text fetched via Chrome, 26 Nov 2026).
 

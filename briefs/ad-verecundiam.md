@@ -3,7 +3,7 @@ id: ad-verecundiam
 type: fallacy
 section: informal-fallacies
 units: [1]
-stage: sourced
+stage: drafted
 approved_scope: yes
 ---
 

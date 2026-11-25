@@ -49,6 +49,9 @@ Hume, David, *A Treatise of Human Nature* (year of first publication of Book 3: 
 
 Dates: the *Treatise* publication year(s) must be sourced before use (style guide §4: year of first publication at first mention). A search snippet (Mattey, UC Davis notes) says Book III "was published nearly two years after the first two Books"; confirm against SEP or the edition. Hume (1711–1776) as in approved entries.
 
+## sep-hume (dates)
+"David Hume", *Stanford Encyclopedia of Philosophy* (archived versions, e.g. Winter 2007 and Fall 2008; WebSearch result text, 26 Nov 2026). EXACT: "David Hume (1711-1776)"; "A Treatise of Human Nature (1739-1740)"; "Book I, Of the Understanding, and Book II, Of the Passions, was published anonymously in 1739. Book III, Of Morals, appeared in 1740". Resolves the TO CONFIRM above: Book 3 = 1740; style guide's "year of first publication" for the *Treatise* = 1739–1740.
+
 ## sep-hume-moral
 Cohon, R., "Hume's Moral Philosophy", *Stanford Encyclopedia of Philosophy*, first published 29 Oct 2004; substantive revision 22 Nov 2026. https://plato.stanford.edu/entries/hume-moral/ §5 "Is and Ought" (WebFetch, 26 Nov 2026).
 - EXACT: "Few passages in Hume's work have generated more interpretive controversy."

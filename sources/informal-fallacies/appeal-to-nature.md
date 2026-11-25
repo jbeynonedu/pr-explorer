@@ -43,5 +43,14 @@ Hurka, T., "Moore's Moral Philosophy", *Stanford Encyclopedia of Philosophy*, fi
 - SUMMARY: the entry treats the naturalistic fallacy as a claim about defining or identifying goodness with a natural property, not about inference; it does not discuss appeal to nature.
 Use: one-line distinction only. Moore's "naturalistic fallacy" is about defining "good" in terms of natural properties; it is not the everyday inference "natural, therefore good". Moore d. 1958: no quotation of Moore.
 
+## bland-reason-p85-ambiguity
+Bland, *Reason*, §4.4 p. 85 (lexical ambiguity / equivocation), verbatim lines 3311–3313 of the text file:
+> ...lexical ambiguity, occurs when a word has multiple meanings, which opens up the possibility of using different meanings in different parts of an argument.
+
+## sep-moore (dates)
+Baldwin, T., "George Edward Moore", *Stanford Encyclopedia of Philosophy*, first published 26 Mar 2004. https://plato.stanford.edu/entries/moore/ (WebSearch result text, 26 Nov 2026). EXACT: "G.E. Moore (1873-1958) (who hated his first names, ‘George Edward’ and never used them — his wife called him ‘Bill’) was an important British philosopher of the first half of the twentieth century." Archive text of the same entry: "Principia Ethica (1903)". Hurka's entry: §1 is "Non-naturalism and the Open-Question Argument" (search snippet), which is where "the naturalistic fallacy" (1903: 10) is discussed.
+
+Fetched page (WebFetch, 26 Nov 2026), https://plato.stanford.edu/entries/moore/: author Tom Baldwin; first published 26 Mar 2004; no substantive revision listed. EXACT: "G.E. Moore (1873-1958) (who hated his first names, 'George Edward' and never used them". §3 "Principia Ethica", EXACT: "It was published in 1903 but was the culmination of the reflections".
+
 ## Notes for drafting
 Real advertising example: Bland p. 74 box is invented ("Spring Blossom shampoo"); entry uses constructed examples. "Natural" ambiguity (brief item 3): no fetched source; frame as an observation with examples, or flag at Checked.
