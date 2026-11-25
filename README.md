@@ -4,7 +4,7 @@ The Philosophy & Reason Explorer: a free, public reference for every key term, m
 
 ## Layout
 - `tracker.csv` — every entry and its stage: not-started → briefed → sourced → drafted → checked → approved → live. Only John approves.
-- `briefs/<id>.md` — syllabus dot points (verbatim), scope, planned sources, questions. John approves scope before sourcing.
+- `briefs/<id>.md` — syllabus dot points (verbatim), scope, planned sources, questions. John approves scope before sourcing. `briefs/README.md` lists them in tracker order (rebuild with `python3 scripts/build_brief_index.py`).
 - `sources/<section>/` — fetched extracts with author, work, edition or translator, URL and locator. Quotations come only from here.
 - `content/<section>/<id>.md` — entries, with front matter as in `STYLE_GUIDE.md` §10.
 - `STYLE_GUIDE.md` — binding house style.

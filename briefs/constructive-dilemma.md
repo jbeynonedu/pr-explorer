@@ -39,3 +39,6 @@ Truth table: see Q1. **Build note:** the widget needs extending for four letters
 ## Questions for John
 1. **16-row table**: (a) full interactive 16-row table, with the four rows where the conclusion is false marked; or (b) show only those four rows, with a sentence explaining the shortcut (a valid form needs no row with a false conclusion and true premises, so only those rows need checking). Proposed: (a) with the four rows marked, plus the shortcut sentence.
 2. Item 6 introduces destructive dilemma, which students may not have met. Keep in the look-alike table? Proposed: yes, one row.
+
+## Scope decision (John, 26 Nov 2026)
+Q1: (a), full interactive 16-row table, four rows marked, plus the shortcut sentence. Q2: yes, destructive dilemma as one row.

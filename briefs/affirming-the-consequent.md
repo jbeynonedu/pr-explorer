@@ -39,3 +39,6 @@ Interactive truth table (`ac`).
 
 ## Questions for John
 1. Item 7: the style guide asks fallacy entries for "when it is not fallacious". These two are typed as logic forms; include item 7 anyway? Proposed: yes, short.
+
+## Scope decision (John, 26 Nov 2026)
+Q1: yes, include item 7, kept short.

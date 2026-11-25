@@ -38,3 +38,6 @@ Interactive truth table (`da`).
 
 ## Questions for John
 1. Same as affirming the consequent Q1 (include item 7). Proposed: yes.
+
+## Scope decision (John, 26 Nov 2026)
+Q1: yes, include item 7, kept short.

@@ -2,7 +2,7 @@
 id: logical-operators
 type: term
 section: symbolic-logic
-units: [1]
+units: [1, 2, 3, 4]
 stage: briefed
 approved_scope: no
 ---
@@ -45,3 +45,6 @@ Four small truth tables (static; verified by code at Checked). Optional: one int
 1. **`≡` and `≢`**: Bland gives both a full section (pp. 40–41). Proposed, consistent with the necessary-and-sufficient decision: write both with the four operators (item 5), and mention `≡` and `≢` in one note as symbols students may meet in other texts.
 2. **False antecedents**: include item 3 (2–3 sentences, forall x ch. 10.3)? Proposed: yes; students regularly ask why "if pigs fly, then..." comes out true.
 3. **Units**: the operators are used in every unit. Set `units` to 1;2;3;4 (as for necessary and sufficient conditions)? Proposed: yes.
+
+## Scope decision (John, 26 Nov 2026)
+Q1: yes, write both with the four operators; `≡` and `≢` in a note only. Q2: yes, include item 3. Q3: yes, units 1–4.
