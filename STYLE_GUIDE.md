@@ -58,7 +58,7 @@
 | --- | --- | --- |
 | Term | Definition; explanation; example; related concepts | 150–350 words |
 | Logic form | Definition; symbolic form; standard-form example; why valid/invalid (truth table); look-alike forms | 300–600 words |
-| Fallacy | Definition; the pattern; 2–3 examples from real contexts; when it is *not* fallacious; related fallacies | 300–600 words |
+| Fallacy | Definition; the pattern; 2–3 realistic examples (constructed by default; a real example only where a clean, sourced, non-partisan one exists: John, 26 Nov 2026); when it is *not* fallacious; related fallacies | 300–600 words |
 | Argument | Primary-text extract; context; standard form; argument map; objections and replies; how to evaluate it | 800–1,500 words |
 | Theory / thinker | Core principles; primary extracts; how it works; applied to a dilemma; criticisms and replies; links | 1,200–2,500 words, split into sub-entries |
 

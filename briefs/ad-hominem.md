@@ -3,7 +3,7 @@ id: ad-hominem
 type: fallacy
 section: informal-fallacies
 units: [1]
-stage: drafted
+stage: checked
 approved_scope: yes
 ---
 
@@ -48,3 +48,6 @@ Approved. Q1: (a), use the Keating exchange, verified against Hansard, with the 
 
 ## Sourcing decision (John, 26 Nov 2026)
 Hansard showed the Keating passage is not pure abuse (a tu quoque-shaped reason precedes it; a substantive reason follows). Option (b): mention it only in passing; constructed examples for the abusive and circumstantial cases.
+
+## Check (independent subagent, 26 Nov 2026)
+12 findings (5 must-fix): unsourced Latin gloss cut; "irrelevant to whether P is true" narrowed; circumstantial definition broadened (tu quoque now fits); ad verecundiam link corrected; Keating line framed as part of a longer reply with reasons. Suggestions applied (charitable reading, clearer abusive example, sound/strong, sources trimmed). Re-check: all resolved; 4 minor follow-ups applied. Open for John: the entry does not treat the Keating line as a clear abusive case (Bland p. 71 does).
