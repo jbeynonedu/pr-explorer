@@ -2,7 +2,7 @@
 
 Bland extracts are copied by script from the project file's text (verbatim; page markers shown as [p. N]). SEP §1 passages are from the full text fetched via Chrome on 26 Nov 2026. IEP lines are labelled EXACT or SUMMARY.
 
-## bland-reason-ch4 (or as marked)
+## bland-reason-ch1 (ch. 1 p. 14 and ch. 3 §3.7 p. 68)
 Bland, *Reason* (Revised Edition). CC BY-NC 4.0. Project file.
 
 [Bland text lines 448–465; begins p. 14]
@@ -50,7 +50,7 @@ Hume, David, *A Treatise of Human Nature* (year of first publication of Book 3: 
 Dates: the *Treatise* publication year(s) must be sourced before use (style guide §4: year of first publication at first mention). A search snippet (Mattey, UC Davis notes) says Book III "was published nearly two years after the first two Books"; confirm against SEP or the edition. Hume (1711–1776) as in approved entries.
 
 ## sep-hume (dates)
-"David Hume", *Stanford Encyclopedia of Philosophy* (archived versions, e.g. Winter 2007 and Fall 2008; WebSearch result text, 26 Nov 2026). EXACT: "David Hume (1711-1776)"; "A Treatise of Human Nature (1739-1740)"; "Book I, Of the Understanding, and Book II, Of the Passions, was published anonymously in 1739. Book III, Of Morals, appeared in 1740". Resolves the TO CONFIRM above: Book 3 = 1740; style guide's "year of first publication" for the *Treatise* = 1739–1740.
+"David Hume", *Stanford Encyclopedia of Philosophy* (archived versions, e.g. Winter 2007 https://plato.stanford.edu/archives/win2007/entries/hume/ and Fall 2008 https://plato.stanford.edu/archives/fall2008/entries/hume/; both URLs returned in WebSearch results, 26 Nov 2026). EXACT: "David Hume (1711-1776)"; "A Treatise of Human Nature (1739-1740)"; "Book I, Of the Understanding, and Book II, Of the Passions, was published anonymously in 1739. Book III, Of Morals, appeared in 1740". Resolves the TO CONFIRM above: Book 3 = 1740; style guide's "year of first publication" for the *Treatise* = 1739–1740.
 
 ## sep-hume-moral
 Cohon, R., "Hume's Moral Philosophy", *Stanford Encyclopedia of Philosophy*, first published 29 Oct 2004; substantive revision 22 Nov 2026. https://plato.stanford.edu/entries/hume-moral/ §5 "Is and Ought" (WebFetch, 26 Nov 2026).
@@ -68,6 +68,10 @@ Hindriks, F., "Collective Acceptance and the Is-Ought Argument", *Ethical Theory
 > The upshot is that the Is-Ought Argument deserves to be taken seriously once again.
 Search snippet of the article (EXACT): Searle's argument "flies in the face of the widely held belief that it is impossible to derive an ought-statement from is-statements only."
 Search snippet (Grünberg, Ankara, analysis of Searle): Searle's derivation ends "(5) Jones ought to pay Smith five dollars." and depends on the institution of promising. Replies: Flew, A., "On Not Deriving 'Ought' from 'Is'", *Analysis* 25 (1964) (cited in Sikora, *Philosophy*, via Cambridge snippet). Use: one sentence that Searle argued, from the institution of promising, that an obligation can be derived from facts about a promise being made, and that this was disputed (Flew). No verdict.
+
+## dates-searle-flew (WebSearch result text, 26 Nov 2026)
+- Searle: Lepore, E., "Searle, John (1932–2025)", *Routledge Encyclopedia of Philosophy*, doi:10.4324/9780415249126-DD088-1 (title as shown in result). Corroborated: Philosophy Now obituary "John Searle (1932-2025)" (issue 171): "Searle passed away on September 17, 2025."
+- Flew: *Encyclopaedia Britannica*, "Antony Flew": "Antony Flew (born Feb. 11, 1923, London, Eng.—died April 8, 2010, Reading) English philosopher". https://www.britannica.com/biography/Antony-Flew
 
 ## sep-moore-moral
 See appeal-to-nature pack: Moore's naturalistic fallacy concerns defining goodness in natural terms; distinct from Hume's point (SEP Moore entry does not link the two: SUMMARY).
