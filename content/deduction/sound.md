@@ -30,7 +30,6 @@ flowchart TD
   B -->|No| U2["Unsound"]
   B -->|Yes| S["Sound"]
 ```
-*Text alternative:* if the argument is invalid, it is unsound. If it is valid, check every premise: if any premise is false, it is unsound; if all are true, it is sound.
 
 ## A worked example
 
@@ -59,7 +58,7 @@ If a premise is shown to be false, the argument is unsound. If it is only *not a
 
 Soundness has no degrees. An argument is sound or unsound, never "mostly sound".
 
-The inductive counterpart is an [inductively strong](strong-weak) argument with true premises, which some texts call *cogent*. The term is not used in the syllabus.
+The inductive counterpart is an [inductively strong](strong-weak) argument with true premises, which some texts call *cogent*.
 
 ## Related concepts
 [Deductively valid and invalid](valid) · [Deduction](deduction) · [Premise](premise) · [True and false](true-false) · [Plausible](plausible) · [Credible](credible) · [Inductively strong and weak](strong-weak)

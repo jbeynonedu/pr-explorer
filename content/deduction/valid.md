@@ -15,7 +15,7 @@ sources: [bland-reason-validity, forallx-ch2-validity]
 
 ## Form, not truth
 
-For the arguments studied at this level, validity depends on an argument's structure, not on whether its premises are actually true. Some arguments are valid because of what their words mean: "Priya is an ophthalmologist, so Priya is an eye doctor." These are not covered here.
+Validity depends on an argument's structure, its *form*, not on whether its premises are actually true.
 
 ```sf
 1. If the moon is made of cheese, then aliens exist.
@@ -46,7 +46,7 @@ C. Therefore, Hobart is in Tasmania.
 
 If an argument fits one of the valid named forms (see [classifying arguments](classifying-arguments)), you can state that it is valid. Otherwise, [symbolise](translating-symbolising) the argument and build a truth table. If no row has all true premises and a false conclusion, the argument is valid. If a row does, the argument is invalid. That row is a **counterexample**: a case in which the premises are true and the conclusion is false.
 
-A truth table tests validity that depends on the logical operators (`~`, `&`, `∨`, `⊃`). It cannot test arguments whose validity depends on words such as "all" and "some", or on what words mean; see [classifying arguments](classifying-arguments).
+A truth table tests validity that depends on the logical operators (`~`, `&`, `∨`, `⊃`). It cannot test arguments whose validity depends on words such as "all" and "some"; see [classifying arguments](classifying-arguments).
 
 > If it is raining, then the oval is wet. The oval is wet. Therefore, it is raining.
 
@@ -59,7 +59,7 @@ Dictionary: `R = "It is raining."` `W = "The oval is wet."` Form: `R ⊃ W, W �
 | **0** | **1** | **1** | **1** | **0** |
 | 0 | 0 | 1 | 0 | 0 |
 
-*Text alternative:* in the third row (in bold: R false, W true), both premises are true and the conclusion is false. The oval is wet, but it is not raining (the sprinklers were on). That counterexample makes the argument invalid. The other formal fallacy, [denying the antecedent](denying-the-antecedent) (`R ⊃ W, ~R ∴ ~W`), fails in the same row.
+In the third row (in bold: R false, W true), both premises are true and the conclusion is false. The oval is wet, but it is not raining (the sprinklers were on). That counterexample makes the argument invalid. The other formal fallacy, [denying the antecedent](denying-the-antecedent) (`R ⊃ W, ~R ∴ ~W`), fails in the same row.
 
 ## All or nothing
 

@@ -15,7 +15,7 @@ sources: [bland-reason-ch1-deduction, iep-shanahan-definitions, forallx-ch2-succ
 
 ## What makes an argument deductive
 
-In a well-built deductive argument, the [premises](premise) are linked by a logical process, and each premise contributes to the support for the [conclusion](conclusion). For the arguments studied at this level, whether that support works depends on the argument's *form* (its structure), not on what it is about. (Some arguments are valid because of what their words mean; see [valid](valid).)
+In a well-built deductive argument, the [premises](premise) are linked by a logical process, and each premise contributes to the support for the [conclusion](conclusion). For the arguments studied at this level, whether that support works depends on the argument's *form* (its structure), not on what it is about.
 
 Because a deductive argument is defined here by what it *aims* to do, it can fail. A deductive argument whose premises do not in fact guarantee its conclusion is still deductive, but it is [invalid](valid). An arguer's aim is not always stated, so it can be hard to tell; see [classifying arguments](classifying-arguments).
 

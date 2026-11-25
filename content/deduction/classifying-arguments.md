@@ -28,7 +28,6 @@ flowchart TD
   C -->|No| E["Test with a truth table"]
   B -->|"No, only to make it probable: inductive"| F["Identify the type: analogy, generalisation..."]
 ```
-*Text alternative:* the flowchart shows steps 1–4 above as a decision tree.
 
 ## Named deductive forms
 
@@ -44,22 +43,86 @@ flowchart TD
 
 ## Worked classifications
 
-**1.** "The canteen is either closed or out of pies. It isn't closed. So it's out of pies."
-Dictionary: `C = "The canteen is closed."` `O = "The canteen is out of pies."` Form: `C ∨ O, ~C ∴ O`. Deductive; disjunctive syllogism; valid.
+**1.**
 
-**2.** "If Mia studies, she will pass. Mia didn't study. So she won't pass."
-Dictionary: `S = "Mia studies."` `P = "Mia will pass."` Form: `S ⊃ P, ~S ∴ ~P`. Deductive; denying the antecedent; invalid (Mia might pass anyway).
+```sf
+1. The canteen is either closed or out of pies.
+2. The canteen is not closed.
+C. Therefore, the canteen is out of pies.
+```
 
-**3.** "Thirty randomly chosen Year 11 students at our school all said they use their phone for homework. So most Year 11 students at our school probably do."
+Dictionary:
+
+- `C = "The canteen is closed."`
+- `O = "The canteen is out of pies."`
+
+```sf
+1. C ∨ O
+2. ~C
+C. O
+```
+
+Deductive; disjunctive syllogism; valid.
+
+**2.**
+
+```sf
+1. If Mia studies, then she will pass.
+2. Mia does not study.
+C. Therefore, Mia will not pass.
+```
+
+Dictionary:
+
+- `S = "Mia studies."`
+- `P = "Mia will pass."`
+
+```sf
+1. S ⊃ P
+2. ~S
+C. ~P
+```
+
+Deductive; denying the antecedent; invalid (Mia might pass anyway).
+
+**3.**
+
+```sf
+1. Thirty randomly chosen Year 11 students at our school all said they use their phone for homework.
+C. Therefore, most Year 11 students at our school probably use their phone for homework.
+```
+
 Inductive; a generalisation from a sample. Judge its strength, not its validity: how large and how well chosen is the sample, and does what students *say* they do match what they *do*?
 
 ## Hard cases
 
-**No named form.** "If it rains, the game is off. If the game is off, training moves to Thursday. Training is not moving to Thursday. So it isn't raining." With `R = "It rains."` `G = "The game is off."` `T = "Training moves to Thursday."`, the form is `R ⊃ G, G ⊃ T, ~T ∴ ~R`. It combines hypothetical syllogism and modus tollens but matches no single form; a truth table shows it is valid.
+**No named form.**
+
+```sf
+1. If it rains, then the game is off.
+2. If the game is off, then training moves to Thursday.
+3. Training does not move to Thursday.
+C. Therefore, it does not rain.
+```
+
+Dictionary:
+
+- `R = "It rains."`
+- `G = "The game is off."`
+- `T = "Training moves to Thursday."`
+
+```sf
+1. R ⊃ G
+2. G ⊃ T
+3. ~T
+C. ~R
+```
+
+It combines hypothetical syllogism and modus tollens but matches no single form; a truth table shows it is valid.
 
 **Could be read either way.** Some everyday arguments could be read as deductive (with a hidden premise) or as inductive. Apply the principle of charity: reconstruct the strongest, most reasonable version the arguer could have meant. Say which reading you are using.
 
-**Beyond the syllabus.** Arguments such as "All As are Bs; all Bs are Cs; so all As are Cs" (categorical syllogisms) are also deductive. Their validity depends on words such as "all" and "some" rather than on the logical operators, so a truth table cannot test them. They are not in the syllabus.
+**Categorical syllogisms.** Arguments such as "All As are Bs; all Bs are Cs; so all As are Cs" are also deductive. Their validity depends on words such as "all" and "some" rather than on the logical operators, so a truth table cannot test them.
 
 ## Related concepts
 [Deduction](deduction) · [Induction](induction) · [Deductive and inductive arguments](deductive-vs-inductive) · [Deductively valid and invalid](valid) · [Analogy](analogy) · [Generalisation](generalisation) · [Standard form](standard-form) · [Hidden premise](hidden-premise)

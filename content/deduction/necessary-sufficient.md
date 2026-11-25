@@ -40,13 +40,11 @@ Breathing is sufficient to show that a person is alive: if a person is breathing
 <figcaption>Every square is a rectangle. Being a square is sufficient for being a rectangle; being a rectangle is necessary for being a square.</figcaption>
 </figure>
 
-*Text alternative:* the region for squares lies wholly inside the region for rectangles. Anything in the inner region is also in the outer one, but not the reverse.
-
 ## Necessary and sufficient
 
 When each condition guarantees the other, A is necessary *and* sufficient for B. This is two conditionals at once, joined by conjunction: `(A ⊃ B) & (B ⊃ A)`. For whole numbers, being divisible by 2 is necessary and sufficient for being even.
 
-(Some texts express this with a separate operator, the biconditional `≡`. It is not one of the syllabus operators.)
+(Some texts express this with a separate operator, the biconditional `≡`.)
 
 ## Reading the wording
 
@@ -73,9 +71,47 @@ The symbol `⊃` records only that if the antecedent is true, so is the conseque
 
 ## Two common mistakes
 
-**Treating a necessary condition as if it were sufficient.** Take "If this plant is growing, then it has water; this plant has water; so it is growing". With `G = "This plant is growing."` and `W = "This plant has water."`, this reasons from `G ⊃ W` and `W` to `G`, which is [affirming the consequent](affirming-the-consequent).
+**Treating a necessary condition as if it were sufficient.**
 
-**Treating a sufficient condition as if it were necessary.** Take "If a person is breathing, then they are alive; this person is not breathing; so they are not alive". With `B = "The person is breathing."` and `L = "The person is alive."`, this reasons from `B ⊃ L` and `~B` to `~L`, which is [denying the antecedent](denying-the-antecedent). The person might be holding their breath.
+```sf
+1. If this plant is growing, then it has water.
+2. This plant has water.
+C. Therefore, this plant is growing.
+```
+
+Dictionary:
+
+- `G = "This plant is growing."`
+- `W = "This plant has water."`
+
+```sf
+1. G ⊃ W
+2. W
+C. G
+```
+
+This is [affirming the consequent](affirming-the-consequent): invalid.
+
+**Treating a sufficient condition as if it were necessary.**
+
+```sf
+1. If the person is breathing, then they are alive.
+2. The person is not breathing.
+C. Therefore, the person is not alive.
+```
+
+Dictionary:
+
+- `B = "The person is breathing."`
+- `L = "The person is alive."`
+
+```sf
+1. B ⊃ L
+2. ~B
+C. ~L
+```
+
+This is [denying the antecedent](denying-the-antecedent): invalid. The person might be holding their breath.
 
 Many philosophical claims are claims about necessary or sufficient conditions. For example, the [Chinese room argument](searle-chinese-room) of John Searle (1932–2025) concludes that running a program is not sufficient for having a mind.
 

@@ -27,7 +27,7 @@ Even a strong inductive argument leaves open the possibility that its premises a
 
 A valid deductive conclusion is often described as already "contained" in the premises, while an inductive conclusion goes beyond them. Some philosophers question how well the "contained" metaphor fits every valid argument (for example, "P. Therefore, P or Q").
 
-Two common kinds of inductive argument named in the syllabus are arguments from [analogy](analogy) and [generalisations](generalisation).
+Two common kinds of inductive argument are arguments from [analogy](analogy) and [generalisations](generalisation).
 
 ## Two arguments about the same question
 
