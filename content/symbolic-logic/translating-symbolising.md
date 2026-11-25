@@ -4,9 +4,9 @@ title: Translating and symbolising propositions
 type: term
 units: [1, 2, 3, 4]
 section: symbolic-logic
-status: drafted
+status: checked
 related: [logical-operators, proposition, standard-form, necessary-sufficient, modus-tollens, searle-chinese-room]
-sources: [bland-reason-dictionary, bland-reason-wordings, bland-reason-chart, bland-reason-brackets, forallx-ch5-but-although, forallx-5-6-unless, forallx-5-3-neither, forallx-10-2-symbolising-vs-translating, searle-1990-axiom3]
+sources: [bland-reason-dictionary, bland-reason-wordings, bland-reason-chart, bland-reason-brackets, bland-reason-brendon, forallx-ch5-but-although, forallx-5-6-unless, forallx-5-3-neither, forallx-10-2-symbolising-vs-translating, searle-1990-axiom3]
 ---
 
 # Translating and symbolising propositions
@@ -33,22 +33,22 @@ It is good practice to state each proposition positively and write negatives wit
 - **"Only if."** "You can sit the exam only if you have your student card" (`E = "You can sit the exam."`, `C = "You have your student card."`) is `E ⊃ C`, not `C ⊃ E`. The part after "only if" is the consequent. See [necessary and sufficient conditions](necessary-sufficient).
 - **"Unless."** "P unless Q" is usually read as "if not Q, then P": `~Q ⊃ P`, which is equivalent to `P ∨ Q`. "I'll go for a jog unless it is raining" (`J = "I will go for a jog."`, `R = "It is raining."`) is `~R ⊃ J`. Speakers sometimes mean more than this ("if and only if it is not raining"), so check the context when interpreting someone else.
 - **"Neither … nor."** "Neither P nor Q" is `~(P ∨ Q)`, or equivalently `~P & ~Q`.
-- **"Not both."** "Not both P and Q" is `~(P & Q)`, or equivalently `~P ∨ ~Q`. "You cannot have both the pie and the sausage roll" (`P = "You have the pie."`, `S = "You have the sausage roll."`) is `~(P & S)`: you may have one, or neither. It is not the same as "neither".
+- **"Not both."** "Not both P and Q" is `~(P & Q)`, or equivalently `~P ∨ ~Q`. "You will not have both the pie and the sausage roll" (`I = "You will have the pie."`, `S = "You will have the sausage roll."`) is `~(I & S)`: you may have one, or neither. It is not the same as "neither".
 - **"Q if P."** "The game is cancelled if it storms" (`G = "The game is cancelled."`, `T = "It storms."`) is `T ⊃ G`. The part after "if" is the antecedent, wherever it comes in the sentence.
 
 ## Step 3: brackets
-With more than one operator, brackets show the structure. Build the formula from the parts outwards. "If the bus is late, then I'll walk or catch a taxi":
+With more than one operator, brackets show the structure. Build the formula from the parts outwards. "If the bus is late and it is raining, then I will walk":
 
 Dictionary:
 
 - `B = "The bus is late."`
+- `R = "It is raining."`
 - `W = "I will walk."`
-- `T = "I will catch a taxi."`
 
-1. The consequent is a disjunction: `W ∨ T`.
-2. The whole sentence is a conditional with that disjunction as its consequent: `B ⊃ (W ∨ T)`.
+1. The antecedent is a conjunction: `B & R`.
+2. The whole sentence is a conditional with that conjunction as its antecedent: `(B & R) ⊃ W`.
 
-The main operator is `⊃`, the last one applied. Without the brackets, `B ⊃ W ∨ T` could be read as `(B ⊃ W) ∨ T`, which says something different.
+The main operator is `⊃`, the last one applied. Moving the brackets changes the meaning: `B & (R ⊃ W)` says that the bus *is* late, and that if it rains I'll walk. Without brackets, `B & R ⊃ W` is not well formed.
 
 ## An example from philosophy of mind
 
@@ -63,7 +63,7 @@ Dictionary:
 - `C = "Syntax by itself is constitutive of semantics."`
 - `S = "Syntax by itself is sufficient for semantics."`
 
-"Constitutive of" means "part of what makes up". Symbolic form: `~(C ∨ S)`, or equivalently `~C & ~S`. See [Searle's Chinese room argument](searle-chinese-room).
+Symbolic form: `~(C ∨ S)`, or equivalently `~C & ~S`. See [Searle's Chinese room argument](searle-chinese-room).
 
 ## What symbolising leaves out
 

@@ -4,7 +4,7 @@ title: Disjunctive syllogism
 type: logic-form
 units: [1]
 section: symbolic-logic
-status: drafted
+status: checked
 related: [logical-operators, constructive-dilemma, modus-ponens, valid, sound, hidden-premise]
 sources: [bland-reason-ch2-ds, forallx-19-1, iep-prop-logic-ds, wilson-good-reasoning-12, fallacy-files-affirming-a-disjunct, conan-doyle-1890, conan-doyle-dates]
 ---
@@ -62,7 +62,8 @@ Both premises are true only in the third row (P false, Q true), and there the co
 ## Variations you will meet
 
 - **More than two disjuncts.** Options can be eliminated one at a time until one remains: `(P ∨ Q) ∨ R, ~P, ~Q ∴ R`.
-- **Negated disjuncts.** Asserting a proposition denies its negation, so this is also a disjunctive syllogism:
+
+**Negated disjuncts.** Asserting a proposition denies its negation, so this is also a disjunctive syllogism:
 
 ```sf
 1. Either the canteen is not open, or there is a queue.
@@ -109,7 +110,7 @@ C. ~Y
 
 Because "or" is inclusive, Ella may study both. That is the counterexample: H true, Y true.
 
-If the "or" really is exclusive ("one or the other, but not both"), the argument needs that as a further premise, `~(P & Q)`. With it, the inference is valid, but it is a different argument. Check whether the context supports the extra premise before adding it.
+If the "or" really is exclusive ("one or the other, but not both"), the argument needs that as a further premise: here `~(H & Y)`. With it, the inference is valid, but it is a different argument. Check whether the context supports the extra premise before adding it.
 
 ## Where it matters
 
@@ -119,7 +120,7 @@ In *The Sign of Four* (1890), by Arthur Conan Doyle (1859–1930), Sherlock Holm
 
 Arthur Conan Doyle, *The Sign of Four* (London: Spencer Blackett, 1890), ch. 6.
 
-Holmes also rules out hiding in the room, and Watson concludes that the ally came through the hole in the roof. The reasoning is a disjunctive syllogism with five disjuncts, so it is valid. It is [sound](sound) only if every premise is true, and the first premise, the list of options, is the one most likely to fail. If the list leaves an option out, the conclusion may be false.
+Holmes also rules out hiding in the room, and Watson concludes that the ally came through the hole in the roof. The reasoning is a disjunctive syllogism with five disjuncts, so it is valid. It is [sound](sound) only if every premise is true, and the first premise, the list of options, is the one to check most carefully. If the list leaves an option out, the conclusion may be false.
 
 ## Related concepts
 [Logical operators](logical-operators) · [Constructive dilemma](constructive-dilemma) · [Modus ponens](modus-ponens) · [Deductively valid and invalid](valid) · [Sound and unsound](sound) · [Hidden premise](hidden-premise)

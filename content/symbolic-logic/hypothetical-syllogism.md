@@ -4,7 +4,7 @@ title: Hypothetical syllogism
 type: logic-form
 units: [1]
 section: symbolic-logic
-status: drafted
+status: checked
 related: [modus-ponens, modus-tollens, constructive-dilemma, slippery-slope, valid, logical-operators]
 sources: [bland-reason-ch2-hs, bland-reason-ch3-hs-table, iep-prop-logic-hs]
 ---
@@ -65,9 +65,10 @@ A counterexample needs a false conclusion, so only the rows where the conclusion
 
 ## Variations you will meet
 
-- **Longer chains.** The chain can have any number of links, as long as each consequent is the next antecedent: `P ⊃ Q, Q ⊃ R, R ⊃ S ∴ P ⊃ S`.
-- **Order.** The premises may be given in either order.
-- **Negated parts.**
+**Longer chains.** The chain can have any number of links, as long as each consequent is the next antecedent: `P ⊃ Q, Q ⊃ R, R ⊃ S ∴ P ⊃ S`.
+**Order.** The premises may be given in either order.
+
+**Negated parts.**
 
 ```sf
 1. If the canteen does not open, then Sam buys lunch at the shop.
@@ -100,7 +101,7 @@ The links must join, end to end. These look similar but are invalid:
 
 ## Where it matters
 
-A [slippery slope](slippery-slope) argument is often a chain of conditionals. The chain's form is valid; whether the argument is sound depends on whether every link is true.
+A [slippery slope](slippery-slope) argument can be set out as a chain of conditionals. Set out that way, its form is valid, and it is [sound](sound) only if every link is true.
 
 ## Related concepts
 [Modus ponens](modus-ponens) · [Modus tollens](modus-tollens) · [Constructive dilemma](constructive-dilemma) · [Slippery slope](slippery-slope) · [Deductively valid and invalid](valid) · [Logical operators](logical-operators)

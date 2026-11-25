@@ -4,7 +4,7 @@ title: Denying the antecedent
 type: logic-form
 units: [1]
 section: symbolic-logic
-status: drafted
+status: checked
 related: [modus-tollens, affirming-the-consequent, modus-ponens, valid, necessary-sufficient, hidden-premise]
 sources: [bland-reason-ch2-da, forallx-5-5-iff]
 ---
@@ -60,7 +60,8 @@ A truth table tests whether an argument form is valid: if any row has all true p
 In the third row (in bold: P false, Q true), both premises are true and the conclusion is false. That row is the counterexample.
 
 ## Variations you will meet
-- **"Only if" wording.**
+
+**"Only if" wording.**
 
 ```sf
 1. You can enter only if you have a ticket.
@@ -80,7 +81,8 @@ C. ~T
 ```
 
 Premise 2 denies the antecedent E. You might have a ticket but arrive after the doors close.
-- **Negated parts.**
+
+**Negated parts.**
 
 ```sf
 1. If the power is out, then the lights do not work.
@@ -115,18 +117,18 @@ Treating a sufficient condition as if it were necessary is this fallacy; see [ne
 Denying the antecedent is easily confused with modus tollens. The two share the same conditional; only the denied part differs.
 
 ## When similar reasoning is acceptable
-Speakers sometimes say "if" when they mean "if and only if". A parent might tell a child that if they don't eat their greens, they won't get any dessert. The child who eats the greens expects dessert, and usually the parent meant that too.
+Speakers sometimes say "if" when they mean "if and only if". A parent might tell a child that if they don't eat their greens, they won't get dessert. The child who eats the greens expects dessert, and the parent may have meant that too.
 
 ```sf
-1. If you don't eat your greens, then you won't get dessert.
+1. If you do not eat your greens, then you will not get dessert.
 2. You eat your greens.
-C. Therefore, you get dessert.
+C. Therefore, you will get dessert.
 ```
 
 Dictionary:
 
 - `G = "You eat your greens."`
-- `D = "You get dessert."`
+- `D = "You will get dessert."`
 
 ```sf
 1. ~G ⊃ ~D
@@ -134,7 +136,7 @@ Dictionary:
 C. D
 ```
 
-As it stands, this denies the antecedent `~G`, so it is invalid: the parent could keep their word and still give no dessert. If the context shows that the parent also meant "if you don't get dessert, it's because you didn't eat your greens", add `~D ⊃ ~G` as a [hidden premise](hidden-premise). Then the argument is valid (it becomes a modus tollens), but it is a different argument, and the extra premise must itself be true.
+As it stands, this denies the antecedent `~G`, so it is invalid: the parent could keep their word and still give no dessert. If the context shows that the parent also meant "if you eat your greens, then you will get dessert", add `G ⊃ D` as a [hidden premise](hidden-premise). Then the argument is valid (by modus ponens), but it is a different argument, and the extra premise must itself be true.
 
 ## Related concepts
 [Modus tollens](modus-tollens) · [Affirming the consequent](affirming-the-consequent) · [Modus ponens](modus-ponens) · [Deductively valid and invalid](valid) · [Necessary and sufficient conditions](necessary-sufficient) · [Hidden premise](hidden-premise)

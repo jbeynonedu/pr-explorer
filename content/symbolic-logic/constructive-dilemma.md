@@ -4,7 +4,7 @@ title: Constructive dilemma
 type: logic-form
 units: [1]
 section: symbolic-logic
-status: drafted
+status: checked
 related: [modus-ponens, disjunctive-syllogism, hypothetical-syllogism, modus-tollens, sound, hidden-premise, valid]
 sources: [bland-reason-ch2-cd, iep-prop-logic-cd, wilson-good-reasoning-12-3]
 ---
@@ -22,14 +22,14 @@ sources: [bland-reason-ch2-cd, iep-prop-logic-cd, wilson-good-reasoning-12-3]
 | 3. P or R. | `P ∨ R` |
 | C. Therefore, Q or S. | `∴ Q ∨ S` |
 
-Line form: `P ⊃ Q, R ⊃ S, P ∨ R ∴ Q ∨ S`. In their basic versions, the other valid forms here have two premises; this one has three.
+Line form: `P ⊃ Q, R ⊃ S, P ∨ R ∴ Q ∨ S`. Like the destructive dilemma below, it has three premises; the other named valid forms have two in their basic versions.
 
 ## Example
 
 ```sf
 1. If the athletics carnival is held on Friday, then Year 12 will miss a practice exam.
 2. If the athletics carnival is held on Saturday, then fewer families will be able to attend.
-3. The athletics carnival will be held either on Friday or on Saturday.
+3. The athletics carnival is held on Friday or on Saturday.
 C. Therefore, Year 12 will miss a practice exam or fewer families will be able to attend.
 ```
 
@@ -92,10 +92,10 @@ The destructive dilemma relates to [modus tollens](modus-tollens) as the constru
 
 ## Evaluating a dilemma
 
-Because the form is valid, the only way to reject the conclusion is to reject a premise: show that it is false, or that it has not been shown to be true. The two options in the disjunction are called the *horns* of the dilemma.
+Because the form is valid, the only way to resist the argument is to challenge a premise: show that it is false, or that it has not been shown to be true. This does not show that the conclusion is false, only that the argument has not established it. The two options in the disjunction are called the *horns* of the dilemma.
 
-- **Escaping between the horns**: showing that the disjunction is false, because there is another option. If the carnival can also be held on Thursday, premise 3 is false.
-- **Attacking a horn**: showing that one of the conditionals is false. If the practice exam can be moved to another day, a Friday carnival need not mean missing it, and premise 1 is false.
+- **Escaping between the horns**: showing that the disjunction is false, because there is another option. If the carnival will in fact be held on Thursday, premise 3 is false.
+- **Attacking a horn**: showing that one of the conditionals is false. If the carnival is held on Friday but the practice exam is moved to another day, Year 12 will not miss it, and premise 1 is false.
 
 ## Related concepts
 [Modus ponens](modus-ponens) · [Modus tollens](modus-tollens) · [Disjunctive syllogism](disjunctive-syllogism) · [Hypothetical syllogism](hypothetical-syllogism) · [Deductively valid and invalid](valid) · [Sound and unsound](sound) · [Hidden premise](hidden-premise)

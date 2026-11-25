@@ -4,7 +4,7 @@ title: Affirming the consequent
 type: logic-form
 units: [1]
 section: symbolic-logic
-status: drafted
+status: checked
 related: [modus-ponens, denying-the-antecedent, modus-tollens, valid, necessary-sufficient, hidden-premise, hypothetico-deductive]
 sources: [bland-reason-ch2-ac, bland-reason-ch3-ac-table, forallx-5-5-iff, sep-confirmation]
 ---
@@ -62,8 +62,9 @@ In the third row (in bold: P false, Q true), both premises are true and the conc
 ## Variations you will meet
 The conditional may be worded in other ways, and its parts may be negated. Each of these still affirms the consequent and concludes the antecedent.
 
-- **"Q if P."** "The bus is late if it rains" has the antecedent "it rains". Affirming "the bus is late" and concluding "it rains" is the fallacy.
-- **"P only if Q."**
+**"Q if P."** "The bus is late if it rains" has the antecedent "it rains". Affirming "the bus is late" and concluding "it rains" is the fallacy.
+
+**"P only if Q."**
 
 ```sf
 1. You can enter only if you have a ticket.
@@ -83,7 +84,8 @@ C. E
 ```
 
 Having a ticket is necessary for entry, not sufficient: the venue might be full.
-- **Negated parts.**
+
+**Negated parts.**
 
 ```sf
 1. If the shop is closed, then the lights are not on.
@@ -94,15 +96,15 @@ C. Therefore, the shop is closed.
 Dictionary:
 
 - `S = "The shop is closed."`
-- `O = "The lights are on."`
+- `N = "The lights are on."`
 
 ```sf
-1. S ⊃ ~O
-2. ~O
+1. S ⊃ ~N
+2. ~N
 C. S
 ```
 
-The consequent is `~O`, and premise 2 affirms it. The lights might simply be broken.
+The consequent is `~N`, and premise 2 affirms it. The lights might simply be broken.
 
 Treating a necessary condition as if it were sufficient is this fallacy; see [necessary and sufficient conditions](necessary-sufficient).
 
@@ -119,8 +121,28 @@ Affirming the consequent is easily confused with modus ponens.
 
 ## When similar reasoning is acceptable
 
-- **"If" meaning "if and only if".** Speakers sometimes say "if" when they mean "if and only if". If the context shows that the conditional also runs the other way, add `Q ⊃ P` as a [hidden premise](hidden-premise). Then concluding P from Q is valid, but it is a different argument, and the extra premise must itself be true.
-- **As inductive support.** Testing a hypothesis by its predictions has this shape: if the hypothesis is true, the prediction will come true; it does; so the hypothesis is true. As a deduction this is invalid, so a successful prediction cannot prove a hypothesis. On the [hypothetico-deductive](hypothetico-deductive) view, it confirms (supports) the hypothesis instead, though how far such confirmation goes is debated.
+**"If" meaning "if and only if".** Speakers sometimes say "if" when they mean "if and only if". If the context shows that the conditional also runs the other way, add `Q ⊃ P` as a [hidden premise](hidden-premise). Then concluding P from Q is valid, but it is a different argument, and the extra premise must itself be true.
+
+**As inductive support.** Testing a hypothesis by its predictions has this shape:
+
+```sf
+1. If the hypothesis is true, then the prediction comes true.
+2. The prediction comes true.
+C. Therefore, the hypothesis is true.
+```
+
+Dictionary:
+
+- `H = "The hypothesis is true."`
+- `E = "The prediction comes true."`
+
+```sf
+1. H ⊃ E
+2. E
+C. H
+```
+
+As a deduction this is invalid, so a successful prediction cannot prove a hypothesis. On the [hypothetico-deductive](hypothetico-deductive) view, it confirms (supports) the hypothesis instead.
 
 ## Related concepts
 [Modus ponens](modus-ponens) · [Denying the antecedent](denying-the-antecedent) · [Modus tollens](modus-tollens) · [Deductively valid and invalid](valid) · [Necessary and sufficient conditions](necessary-sufficient) · [Hidden premise](hidden-premise) · [The hypothetico-deductive method](hypothetico-deductive)

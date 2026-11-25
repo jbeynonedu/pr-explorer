@@ -4,7 +4,7 @@ title: Logical operators (~, &, ∨, ⊃)
 type: term
 units: [1, 2, 3, 4]
 section: symbolic-logic
-status: drafted
+status: checked
 related: [translating-symbolising, proposition, necessary-sufficient, valid, modus-ponens, modus-tollens, disjunctive-syllogism]
 sources: [bland-reason-3-1, bland-reason-3-3, forallx-ch5-connectives, forallx-ch10-truth-functional, iep-prop-logic-material-implication]
 ---

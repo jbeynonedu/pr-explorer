@@ -4,7 +4,7 @@ title: Modus ponens
 type: logic-form
 units: [1]
 section: symbolic-logic
-status: drafted
+status: checked
 related: [modus-tollens, affirming-the-consequent, denying-the-antecedent, hypothetical-syllogism, valid, sound, logical-operators, translating-symbolising]
 sources: [bland-reason-ch2-mp, bland-reason-confusion, forallx-17-4, carroll-1895, carroll-dates]
 ---
@@ -62,10 +62,47 @@ A truth table tests whether an argument form is valid: if no row has all true pr
 Both premises are true only in the first row (P true, Q true), and there the conclusion is also true. No row has true premises and a false conclusion, so the form is valid.
 
 ## Variations you will meet
+**Different wording.** "Q if P" and "P only if Q" both express `P ⊃ Q`.
 
-- **Different wording.** "Q if P" and "P only if Q" both express `P ⊃ Q`. "You can sit the exam only if you have your student card. You can sit the exam. So you have your student card." With `E = "You can sit the exam."` and `S = "You have your student card."`, this is `E ⊃ S, E ∴ S`: modus ponens.
-- **Negated parts.** "If it is not a school day, then the canteen is closed. It is not a school day. So the canteen is closed." With `D = "It is a school day."` and `L = "The canteen is closed."`, this is `~D ⊃ L, ~D ∴ L`. The second premise affirms the antecedent `~D`, so it is still modus ponens.
-- **Order.** The premises may come in either order; what matters is that one affirms the antecedent of the other.
+```sf
+1. You can sit the exam only if you have your student card.
+2. You can sit the exam.
+C. Therefore, you have your student card.
+```
+
+Dictionary:
+
+- `E = "You can sit the exam."`
+- `S = "You have your student card."`
+
+```sf
+1. E ⊃ S
+2. E
+C. S
+```
+
+**Negated parts.** The antecedent may itself be a negation.
+
+```sf
+1. If it is not a school day, then the canteen is closed.
+2. It is not a school day.
+C. Therefore, the canteen is closed.
+```
+
+Dictionary:
+
+- `D = "It is a school day."`
+- `L = "The canteen is closed."`
+
+```sf
+1. ~D ⊃ L
+2. ~D
+C. L
+```
+
+Premise 2 affirms the antecedent `~D`, so this is still modus ponens.
+
+**Order.** The premises may come in either order; what matters is that one affirms the antecedent of the other.
 
 ## Look-alike forms
 
@@ -92,7 +129,9 @@ Carroll's A, B and Z are steps from Euclid's geometry:
 - B: "The two sides of this Triangle are things that are equal to the same."
 - Z: "The two sides of this Triangle are equal to each other."
 
-With C, and taking A and B together, the step to Z has the form of modus ponens: `(A & B) ⊃ Z, A & B ∴ Z`. The Tortoise then asks for that step to be written down as a further premise, then another, and the list never ends. The regress shows that a rule of inference such as modus ponens cannot work as just one more premise. However many premises are written down, the step from premises to conclusion still has to be taken.
+Carroll, "What the Tortoise Said to Achilles", p. 278.
+
+With C, and taking A and B together, the step to Z has the form of modus ponens: `(A & B) ⊃ Z, A & B ∴ Z`. The Tortoise then asks for that step to be written down as a further premise, then another, and the list never ends. On the standard reading, the regress shows that a rule of inference such as modus ponens cannot work as just one more premise. However many premises are written down, the step from premises to conclusion still has to be taken.
 
 ## Related concepts
 [Modus tollens](modus-tollens) · [Affirming the consequent](affirming-the-consequent) · [Denying the antecedent](denying-the-antecedent) · [Hypothetical syllogism](hypothetical-syllogism) · [Deductively valid and invalid](valid) · [Sound and unsound](sound) · [Logical operators](logical-operators) · [Translating and symbolising propositions](translating-symbolising)
