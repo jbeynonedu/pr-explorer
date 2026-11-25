@@ -34,3 +34,7 @@ Supports: choose the most plausible premise; more than one reconstruction is pos
 
 ## trivial-conditional (logic, verified by code)
 Adding the premise "If P1 and P2, then C" to any argument with premises P1, P2 and conclusion C makes it valid: checked over all 8 truth-value assignments, 25 Nov 2026 (`{P1, P2, (P1 & P2) ⊃ C} ⊨ C`). No external source needed; re-verify at the Checked stage.
+
+## bland-reason-ch1-junkfood
+Bland p. 16, prose: "Eating junk food every day leads to health problems like obesity and diabetes. These foods are high in fat, sugar, and salt."
+Bland's standard form (p. 16): "1. Eating junk food every day leads to health problems like obesity and diabetes." "2. Junk food is high in fat, sugar, and salt." "C. Therefore, you should avoid eating junk food every day. (HC)"

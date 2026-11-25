@@ -15,3 +15,13 @@ van Roojen, M., "Moral Cognitivism vs. Non-Cognitivism", *Stanford Encyclopedia 
 Supports: cognitivism holds moral statements express beliefs and are apt for truth and falsity; non-cognitivists deny moral statements have substantial truth conditions.
 
 John's decisions (25 Nov): single normative (evaluative) category; analytic/synthetic left out.
+
+## sep-hume (dates only)
+Qu, H. and Radcliffe, E. S., "David Hume", *Stanford Encyclopedia of Philosophy*, first published 16 Jun 2026. https://plato.stanford.edu/entries/hume/ (fetched 25 Nov 2026).
+> David Hume (1711–1776), a prominent intellectual of the Scottish Enlightenment [...]
+
+## sep-moral-cognitivism date
+Revision date "rev. 18 Dec 2023" as recorded in sources/building-blocks/proposition.md (sep-moral-cognitivism), used in the approved Proposition entry.
+
+## is-ought status (checking note)
+Hume's is-ought thesis is widely held but disputed (e.g. Prior-style counterexamples: S ⊨ S ∨ B, verified by code in the check, 25 Nov 2026). Entry presents it as "a widely held view" and notes the dispute without covering it.

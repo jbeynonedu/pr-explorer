@@ -4,14 +4,14 @@ title: Argument
 type: term
 units: [1]
 section: building-blocks
-status: drafted
+status: checked
 related: [claim, proposition, premise, conclusion, standard-form, hidden-premise, purposes-of-argument, deduction, induction]
 sources: [bland-reason-ch1-argument, forallx-calgary-ch1, syllabus-p7]
 ---
 
 # Argument
 
-**An argument is a set of [propositions](proposition) in which one or more, the [premises](premise), are offered as reasons for accepting another, the [conclusion](conclusion).** An argument does not just state a view; it gives reasons for it.
+**An argument is a set of [propositions](proposition) in which one or more, the [premises](premise), are offered as reasons for another, the [conclusion](conclusion).** An argument does not just state a view; it gives reasons for it. Usually those reasons are meant to [justify](purposes-of-argument) the conclusion; sometimes they [explain](purposes-of-argument) why it is so.
 
 ## The technical sense
 
@@ -25,13 +25,13 @@ In everyday speech, an "argument" can be a quarrel. Two people shouting at each 
 C. Therefore, the gardener did it.
 ```
 
-Premises 1 and 2 are offered as reasons; the conclusion is what they are meant to support. The conclusion can be any proposition, including a [normative](descriptive-normative) one about what should be done. In prose the conclusion is often stated first, or in the middle; setting the argument out in [standard form](standard-form) makes the structure clear.
+Premises 1 and 2 are offered as reasons; the conclusion is what they are meant to support. The conclusion can be any proposition, including a [normative](descriptive-normative) one about what should be done. In prose, the conclusion need not come last: it can come first or in the middle. Longer arguments may also have [intermediate conclusions](conclusion) that link one step to the next. Setting an argument out in [standard form](standard-form) makes its structure clear.
 
 ## Good and bad arguments
 
-Calling something an argument is not praise. A bad argument is still an argument. An argument can fail in two ways:
+Calling something an argument is not praise. A bad argument is still an argument. An argument can fail in two main ways:
 
-- one or more premises is false;
+- one or more premises are false;
 - the premises, even if true, do not support the conclusion.
 
 How support is judged depends on the kind of argument. [Deductive](deduction) arguments are [valid or invalid](valid) and [sound or unsound](sound); [inductive](induction) arguments are [strong or weak](strong-weak).

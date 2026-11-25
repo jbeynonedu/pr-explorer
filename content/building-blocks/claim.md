@@ -4,7 +4,7 @@ title: Claim
 type: term
 units: [1]
 section: building-blocks
-status: drafted
+status: checked
 related: [proposition, argument, premise, conclusion, true-false, plausible, credible, descriptive-normative]
 sources: [bland-reason-ch1-claim, syllabus-p7]
 ---
@@ -19,11 +19,11 @@ A claim on its own gives no reason to accept it. "Humans lack free will" is a cl
 
 ## Claims inside arguments
 
-Every premise and every [conclusion](conclusion) is a claim. The premises of an argument can therefore be challenged like any other claim:
+Premises and [conclusions](conclusion) are normally claims: propositions put forward as true. The premises of an argument can therefore be challenged like any other claim:
 
 ```sf
 1. Mobile phones distract students in class.
-2. Schools should remove distractions from class.
+2. Schools should ban things that distract students in class.
 C. Therefore, schools should ban mobile phones in class.
 ```
 
@@ -31,7 +31,7 @@ Both premises are claims, and an evaluation can ask what supports each one. That
 
 ## Evaluating claims
 
-Claims are [true or false](true-false). They can also be assessed as more or less [plausible](plausible) and [credible](credible). Arguments are not true or false; they are judged by whether their premises support their conclusion.
+Claims are [true or false](true-false). They can also be assessed as more or less [plausible](plausible) and [credible](credible). Arguments are not true or false; they are judged by whether their premises are true and whether those premises support the conclusion.
 
 ## Claims and essays
 

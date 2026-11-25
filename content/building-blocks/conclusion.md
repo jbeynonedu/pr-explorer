@@ -4,7 +4,7 @@ title: Conclusion
 type: term
 units: [1]
 section: building-blocks
-status: drafted
+status: checked
 related: [premise, argument, claim, standard-form, hidden-premise]
 sources: [bland-reason-ch1-conclusion, forallx-calgary-ch1]
 ---
@@ -23,15 +23,15 @@ As with premise indicators, these are a guide only. Ask what the passage is tryi
 
 The conclusion is not always last. All three passages below give the same argument:
 
-- "Either the butler or the gardener did it. The butler didn't do it. So the gardener did it."
-- "The gardener did it. After all, it was either the butler or the gardener, and the butler didn't do it."
+- "Either the butler or the gardener did it. The butler didn't do it. Therefore, the gardener did it."
+- "The gardener did it. After all, it was either the butler or the gardener. And the butler didn't do it."
 - "The butler didn't do it. Accordingly, it was the gardener, given that it was either the gardener or the butler."
 
 Sometimes the conclusion is not stated at all, and you have to work out what it is (a hidden conclusion; see [hidden premise](hidden-premise)).
 
 ## Being a conclusion is a role
 
-A proposition is a conclusion because of the job it does in an argument, not because of what it says. The same proposition can be the conclusion of one argument and a premise of another.
+A proposition is a conclusion because of the job it does in an argument, not because of what it says. A conclusion is not just a summary of what has been said, or an opinion stated on its own: it is the claim the premises are offered to support. The same proposition can be the conclusion of one argument and a premise of another.
 
 ## Intermediate conclusions
 
@@ -47,7 +47,7 @@ IC2. Therefore, I will go for a swim.
 C. Therefore, the public pool will be open and I will go for a swim.
 ```
 
-An intermediate conclusion adds no new information: it is drawn entirely from the premises before it.
+In a deductive chain like this one, an intermediate conclusion adds no new information: it is drawn entirely from the premises before it. (In an inductive step, the conclusion goes beyond its premises.)
 
 ## Related concepts
 [Premise](premise) · [Argument](argument) · [Claim](claim) · [Standard form](standard-form) · [Hidden premise](hidden-premise)

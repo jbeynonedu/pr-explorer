@@ -25,3 +25,11 @@ QCAA, *Philosophy & Reason 2025 v1.3*, January 2026. CC BY 4.0, © State of Quee
 > When examining the reasoning of others, the deconstruction of arguments is a key tool of interpretation and analysis. This involves breaking down arguments into their constituent components of premise/s and conclusion/s, including assumed premises necessary for an argument to cohere. The structured setting out of this information in standard form is a feature of philosophical analysis. It provides a basis for the evaluation of both the inferential quality of an argument, and the truth of its premises. (p. 7)
 
 > When creating responses in Philosophy & Reason, an analytical essay is connected prose that has the purpose of establishing a claim or assertion (central thesis) through careful reasoning. In this respect, essays present an argument. As part of this process, key concepts, arguments and assumptions are clarified, and counterarguments identified and responded to, applying the principle of charity. (p. 7)
+
+## forallx-calgary-ch1-butler
+forall x: Calgary, ch. 1, pp. 2–3 (LaTeX source `forallx-yyc-what.tex`, commit bb86fe9; Fall 2025 PDF). CC BY 4.0.
+Argument (p. 2): "Either the butler or the gardener did it." "The butler didn't do it." "∴ The gardener did it."
+> Many arguments start with premises, and end with a conclusion, but not all of them. (p. 3)
+Conclusion first (p. 3): "The gardener did it. After all, it was either the butler or the gardener. And the butler didn't do it."
+Conclusion in the middle (p. 3): "The butler didn't do it. Accordingly, it was the gardener, given that it was either the gardener or the butler."
+Entry's first passage renders the p. 2 argument as prose ("Therefore," for ∴): adapted.

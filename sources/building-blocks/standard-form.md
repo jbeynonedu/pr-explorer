@@ -38,3 +38,7 @@ Examples given: conclusion first ("The gardener did it. After all, it was either
 > By contrast, these expressions are premise indicator words, as they often indicate that we are dealing with a premise, rather than a conclusion: since, because, given that. But in analysing an argument, there is no substitute for a good nose. (ch. 1, p. 4)
 
 House conventions: STYLE_GUIDE.md §3.
+
+## sep-bentham (dates only)
+Crimmins, J. E., "Jeremy Bentham", *Stanford Encyclopedia of Philosophy*, substantive revision 13 Jan 2026. https://plato.stanford.edu/entries/bentham/ (fetched 25 Nov 2026).
+> Jeremy Bentham was born in London on 15 February 1748 and died there on 6 June 1832.

@@ -4,7 +4,7 @@ title: Premise
 type: term
 units: [1]
 section: building-blocks
-status: drafted
+status: checked
 related: [conclusion, argument, claim, hidden-premise, standard-form, sound, strong-weak]
 sources: [bland-reason-ch1-premise, forallx-calgary-ch1]
 ---
@@ -19,7 +19,7 @@ Some words often signal that a premise follows. These are called *premise indica
 
 > since, because, given that
 
-Indicator words are a guide, not a rule. "Since" can be about time ("I have been tired since Monday"), and "because" also introduces [explanations](purposes-of-argument), which give reasons why something is so rather than reasons to believe it. You still need to read for meaning: ask which statements are offered in support of which.
+Indicator words are a guide, not a rule. "Since" can be about time ("I have been tired since Monday"), and "because" also introduces [explanations](purposes-of-argument), where the premises say why something is so rather than give reasons to believe it. You still need to read for meaning: ask which statements are offered in support of which.
 
 ## Premises work together
 
@@ -35,12 +35,12 @@ Neither premise supports the conclusion alone. Together they do, because premise
 
 ## Premises are claims
 
-Each premise is a [claim](claim), so each can be challenged. Evaluating an argument asks two separate questions:
+A premise is normally a [claim](claim), so each can be challenged. Evaluating an argument asks two separate questions:
 
 1. Are the premises true (or well supported)?
 2. Do the premises, taken together, support the conclusion?
 
-For a deductive argument, a "yes" to both makes it [sound](sound); for an inductive argument, the second question is about [strength](strong-weak).
+For a deductive argument to be [sound](sound), the answer must be "yes" in the strict sense: all the premises are true and the argument is [valid](valid). For an inductive argument, the second question is about [strength](strong-weak).
 
 Some premises are not stated at all. These are [hidden premises](hidden-premise).
 

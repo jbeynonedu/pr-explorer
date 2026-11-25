@@ -19,3 +19,10 @@ Page numbers from the Fall 2025 PDF supplied by John (`forallxyyc.pdf`, built 23
 
 Examples given: conclusion first ("The gardener did it. After all, it was either the butler or the gardener. And the butler didn't do it."), conclusion in the middle; one sentence containing a whole argument ("The butler has an alibi; so they cannot have done it.").
 
+## forallx-calgary-ch1-butler
+forall x: Calgary, ch. 1, pp. 2–3 (LaTeX source `forallx-yyc-what.tex`, commit bb86fe9; Fall 2025 PDF). CC BY 4.0.
+Argument (p. 2): "Either the butler or the gardener did it." "The butler didn't do it." "∴ The gardener did it."
+> Many arguments start with premises, and end with a conclusion, but not all of them. (p. 3)
+Conclusion first (p. 3): "The gardener did it. After all, it was either the butler or the gardener. And the butler didn't do it."
+Conclusion in the middle (p. 3): "The butler didn't do it. Accordingly, it was the gardener, given that it was either the gardener or the butler."
+Entry's first passage renders the p. 2 argument as prose ("Therefore," for ∴): adapted.

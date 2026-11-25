@@ -20,4 +20,4 @@ Syllabus extracts © State of Queensland (QCAA) 2026, CC BY 4.0. Material adapte
 
 ## Where the next chat picks up (25 Nov 2026)
 1. **Site shell: built.** Preview republished at the bubble prototype's link. John to look it over (layout, section blurbs in `build_site.py`, footer wording). GitHub Pages at launch: build with `--public` to `docs/index.html` and enable Pages from `/docs`.
-2. **Phase 1, Section 1: Building blocks.** Scope approved (decisions at the foot of each brief). All eight entries **sourced** (`sources/building-blocks/`). Next: Drafted, one entry at a time, starting with Argument.
+2. **Phase 1, Section 1: Building blocks.** All eight remaining entries drafted, independently checked and fixed (status `checked`). Review preview republished 25 Nov 2026. Next: John reviews in the preview and approves or requests changes. Open points for John: hidden-premise length (~435 words incl. sf blocks); phones-in-class example (claim, standard-form) may touch a live policy debate; argument uses the butler example instead of Bland's Penny example (Penny's gambling premise unverified).
