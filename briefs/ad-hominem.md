@@ -3,7 +3,7 @@ id: ad-hominem
 type: fallacy
 section: informal-fallacies
 units: [1]
-stage: sourced
+stage: drafted
 approved_scope: yes
 ---
 
@@ -45,3 +45,6 @@ None.
 
 ## Scope decision (John, 26 Nov 2026)
 Approved. Q1: (a), use the Keating exchange, verified against Hansard, with the point that abuse becomes the fallacy only when offered as a reason to reject a claim. Section decisions: see `_section-04-informal-fallacies.md`.
+
+## Sourcing decision (John, 26 Nov 2026)
+Hansard showed the Keating passage is not pure abuse (a tu quoque-shaped reason precedes it; a substantive reason follows). Option (b): mention it only in passing; constructed examples for the abusive and circumstantial cases.
