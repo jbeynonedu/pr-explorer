@@ -58,6 +58,29 @@ criticising them — ask whether a shaky argument could be reasonably strengthen
 We will return to this principle of charity in the next chapter.
 The exercise below contains an assortment of fallacies from this chapter.
 
+## bland-reason-4-2-intro
+Bland §4.2 p. 76 (verbatim, lines 2953–2957):
+
+4.2 Fallacies of Weak Induction
+In the section we have just considered, Fallacies of Relevance, usually the argumentative offence is clear and 
+easy to identify. Fallacies of weak induction, however, are not as straightforward. The premises are relevant 
+and the reasoning feels… reasonable. However, the argument still fails, not because the premises are 
+irrelevant, but because they are insufficient.
+
+## bland-reason-is-ought-refs
+Bland p. 14 (is-ought box, verbatim, lines 450–453):
+
+THE IS-OUGHT PROBLEM
+Articulated by 18th Century Scottish philosopher David Hume, the is-ought problem concerns the 
+fact that there is a logical gap when trying to argue for a normative conclusion based on descriptive
+premises or statements. For example, consider the following argument:
+
+Bland §3.7 p. 68 (verbatim, lines 2602–2604):
+
+3.7 Common Mistakes in Argument Deconstruction and Evaluation
+In the very first chapter of this book, we considered the is-ought problem – a fallacy that affects the structure 
+of an argument and impedes its evaluation. There are several other common mistakes that are worth 
+
 ## sep-fallacies
 Hansen, H., "Fallacies", *Stanford Encyclopedia of Philosophy*, first published 29 May 2015; substantive revision 30 Aug 2024. https://plato.stanford.edu/entries/fallacies/ (full text fetched via Chrome, 26 Nov 2026).
 
@@ -75,6 +98,7 @@ Dowden, B., "Fallacies", *Internet Encyclopedia of Philosophy*, https://iep.utm.
 - EXACT (search snippet): "A formal fallacy can be detected by examining the logical form of the reasoning, whereas an informal fallacy usually cannot be detected this way"
 - EXACT (search snippet): "Fallacies of relevance include fallacies that occur due to reliance on an irrelevant reason."
 - EXACT (search snippet): "A charge of fallacious reasoning always needs to be justified."
+- EXACT (search snippet): "Reasoning validly is not a guarantee of avoiding a fallacy since begging the question is valid."
 
 
 

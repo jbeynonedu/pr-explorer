@@ -42,3 +42,6 @@ None.
 
 ## Scope decision (John, 26 Nov 2026)
 Approved.
+
+## Check (independent subagent, 26 Nov 2026)
+Independent check plus re-check: all MUST-FIX findings resolved before preview. Logic and arithmetic claims verified by code where made.

@@ -3,7 +3,7 @@ id: informal-fallacy
 type: term
 section: informal-fallacies
 units: [1;2;3;4]
-stage: sourced
+stage: checked
 approved_scope: yes
 ---
 
@@ -36,3 +36,6 @@ Labelled map of the fallacies by family (text labels, not colour alone).
 
 ## Scope decision (John, 26 Nov 2026)
 Approved in principle (section note Q1). Draft after the ad hominem exemplar is approved.
+
+## Check (independent subagent, 26 Nov 2026)
+Independent check plus re-check: all MUST-FIX findings resolved before preview. Logic and arithmetic claims verified by code where made.

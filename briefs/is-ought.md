@@ -49,3 +49,6 @@ None.
 
 ## Scope decision (John, 26 Nov 2026)
 Approved. Q1: up to ~700 words. Q2: yes, include the short even-handed note that the principle is disputed. Section decisions: see `_section-04-informal-fallacies.md`.
+
+## Check (independent subagent, 26 Nov 2026)
+Independent check plus re-check: all MUST-FIX findings resolved before preview. Logic and arithmetic claims verified by code where made.

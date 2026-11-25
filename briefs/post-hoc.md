@@ -43,3 +43,6 @@ Small labelled diagram of the four alternative explanations (A→B; B→A; C→A
 
 ## Scope decision (John, 26 Nov 2026)
 Approved. Q1: yes, include the four-explanations diagram. Section decisions: see `_section-04-informal-fallacies.md`.
+
+## Check (independent subagent, 26 Nov 2026)
+Independent check plus re-check: all MUST-FIX findings resolved before preview. Logic and arithmetic claims verified by code where made.
