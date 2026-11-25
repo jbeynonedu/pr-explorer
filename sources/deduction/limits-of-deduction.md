@@ -27,8 +27,22 @@ P. D. Magnus, Tim Button, Robert Trueman, Richard Zach, *forall x: Calgary*, Fal
 
 (Supports "validity is not truth" and "logic alone cannot settle whether premises are true".)
 
+Example used in the entry (ch. 2 §2.4, p. 14): "Oranges are either fruit or musical instruments. Oranges are not fruit. ∴ Oranges are musical instruments." Replaces the moon/aliens example (checker: the truth of "aliens exist" is unknown).
+
+The Bland Riverview example is rewritten with "our local high school" (Riverview is a real school).
+
 ## No-new-information gloss
 Brief item 3 says a deductive conclusion can still be informative to the reasoner (e.g. a mathematical proof). Bland's Pythagoras proof (pp. 21–23) shows a result not obvious from the premises being drawn from them deductively:
 > What we end up with is an argument so powerful that it proves Pythagoras’ Theorem for any right-angle triangle you could ever think of. (p. 23)
 
 Flag: the phrase "adds no new information" (Bland p. 15) is about intermediate conclusions; extending it to deductive conclusions generally is the entry's own claim, consistent with the approved `conclusion` entry. Checker to confirm wording does not overstate.
+
+## iep-shanahan-containment
+Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*, https://iep.utm.edu/deductive-inductive-arguments/ . In copyright: short quotations only. Fetched 25 Nov 2026 via WebFetch (excerpts of at most 125 characters). **Re-verify at Checked.**
+- §6 "Logical Necessity vs. Probability": Hausman, Boardman and Howard (2021) quoted: "the conclusion of a deductively valid argument is already 'contained' in the premises"; inductive conclusions said to go beyond the premises.
+- §7: McIntyre (2019) quoted: "the truth of the conclusion cannot contain any information that is not already contained in the premises."
+- §7 "The Question of Validity": six logically valid arguments, including "P. Therefore, P or Q." Then: "This calls into question the aptness of the 'contained in' metaphor for explaining the relationship".
+Use: present containment as a common description of *valid* deductive arguments, not the Explorer's own explanation; note that it has been questioned.
+
+## bland-reason-hume-dates
+Bland, *Reason* (Revised Edition), p. 90 (copied by script): "topic in detail was Scottish philosopher David Hume (1711 – 1776), whose Problem of Induction". Also SEP, Qu and Radcliffe, "David Hume" (fetched 25 Nov 2026; see building-blocks/descriptive-normative pack): "David Hume (1711–1776)".

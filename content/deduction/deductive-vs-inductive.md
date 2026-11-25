@@ -4,7 +4,7 @@ title: The distinction between deductive and inductive arguments
 type: term
 units: [1]
 section: deduction
-status: drafted
+status: checked
 related: [deduction, induction, valid, sound, strong-weak, classifying-arguments, limits-of-deduction, problem-of-induction, hypothetico-deductive]
 sources: [bland-reason-1-4, iep-shanahan-general-specific, forallx-ch2-inductive]
 ---
@@ -20,12 +20,16 @@ sources: [bland-reason-1-4, iep-shanahan-general-specific, forallx-ch2-inductive
 | Aim | To guarantee the conclusion: if the premises are true, the conclusion must be true | To make the conclusion probable: the premises support it without guaranteeing it |
 | Evaluated as | [Valid or invalid](valid); [sound or unsound](sound) | [Strong or weak](strong-weak) |
 | Degrees? | No: validity and soundness are all-or-nothing | Yes: one inductive argument can be stronger than another |
-| Conclusion | Makes explicit what the premises already contain | Goes beyond the premises (for example, from past cases to a future case) |
+| If the argument succeeds | Valid: if the premises are true, the conclusion cannot be false | Strong: the premises make the conclusion probable (for example, from past cases to a future case), but it could be false even if the premises are true |
 | Typical use | Mathematical proof | Building knowledge of the world, including much of science |
 
-Even a good inductive argument leaves open the possibility that its premises are true and its conclusion false. Whether a deductive argument succeeds depends on its form; whether an inductive argument succeeds depends on how well its premises support the conclusion.
+Even a strong inductive argument leaves open the possibility that its premises are true and its conclusion false. Whether a deductive argument is valid depends on its form; whether an inductive argument is strong depends on how well its premises support the conclusion.
 
-## One conclusion, two arguments
+A valid deductive conclusion is often described as already "contained" in the premises, while an inductive conclusion goes beyond them. Some philosophers question how well the "contained" metaphor fits every valid argument (for example, "P. Therefore, P or Q").
+
+Two common kinds of inductive argument named in the syllabus are arguments from [analogy](analogy) and [generalisations](generalisation).
+
+## Two arguments about the same question
 
 ```sf
 1. If the formal is held on the last day of term, then it will be on a Friday.
@@ -54,7 +58,7 @@ This is deductive, but every line is general.
 
 ```sf
 1. Each spider so far examined has had eight legs.
-C. Therefore, likewise, the next spider examined will have eight legs.
+C. Therefore, the next spider examined will have eight legs.
 ```
 
 This is inductive, but it moves from particular cases to another particular case.
@@ -63,12 +67,12 @@ This is inductive, but it moves from particular cases to another particular case
 
 ## Is one kind better?
 
-No. A sound deductive argument guarantees its conclusion, but its premises often have to be established some other way, often by induction (see [limitations of deduction](limits-of-deduction)). Mathematics relies mainly on deduction; building knowledge of the world relies heavily on induction. Science uses both: see the [hypothetico-deductive method](hypothetico-deductive) and [Hume's problem of induction](problem-of-induction).
+Neither is better in general. A sound deductive argument guarantees its conclusion, but its premises usually have to be established some other way, often by induction (see [limitations of deduction](limits-of-deduction)). Mathematics relies mainly on deduction; building knowledge of the world relies heavily on induction. Science uses both: see the [hypothetico-deductive method](hypothetico-deductive). Induction has limitations of its own, raised most famously by David Hume (1711–1776): see [Hume's problem of induction](problem-of-induction).
 
 ## Related concepts
 [Deduction](deduction) · [Induction](induction) · [Deductively valid and invalid](valid) · [Sound and unsound](sound) · [Inductively strong and weak](strong-weak) · [Classifying arguments](classifying-arguments) · [Limitations of deduction](limits-of-deduction) · [Hume's problem of induction](problem-of-induction)
 
 ## Sources
-- Bland, *Reason* (Revised Edition), ch. 1, §1.2 p. 15; §1.4 pp. 17–23. CC BY-NC 4.0.
+- Bland, *Reason* (Revised Edition), ch. 1, §1.4 pp. 19–22; ch. 5, p. 90. CC BY-NC 4.0.
 - Magnus, Button, Trueman and Zach, *forall x: Calgary* (Fall 2025), ch. 2, §2.5, p. 16. CC BY 4.0.
-- Shanahan, T., "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*, §§2, 4, 9. https://iep.utm.edu/deductive-inductive-arguments/
+- Shanahan, T., "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*, §§2, 4, 6–7, 9. https://iep.utm.edu/deductive-inductive-arguments/

@@ -4,7 +4,7 @@ title: Sound and unsound
 type: term
 units: [1]
 section: deduction
-status: drafted
+status: checked
 related: [valid, deduction, premise, true-false, plausible, credible, strong-weak]
 sources: [bland-reason-soundness, forallx-ch2-sound, iep-shanahan-cogent]
 ---
@@ -42,16 +42,18 @@ flowchart TD
 C. Therefore, students will eat more healthily.
 ```
 
-The argument is valid ([modus ponens](modus-ponens)). Premise 2 is easy to check: look at the menu. Premise 1 is contested. In favour: students tend to eat what is available at school. Against: students may bring food from home or buy it elsewhere. Whether premise 1 is true depends on evidence, and the argument is sound only if it is.
+The argument is valid ([modus ponens](modus-ponens)). Premise 2 is easy to check: look at the menu. Premise 1 is contested. One might argue that students eat what is available at school; others might reply that students can bring food from home or buy it elsewhere. Settling premise 1 needs evidence, such as a study of what students actually eat. With that evidence, you would judge it using the steps below. The argument is sound only if premise 1 is true.
 
 ## Contested premises
 
-Strictly, soundness requires every premise to be in fact true. In practice, most substantial premises are contested and cannot be established with complete certainty. The working standard is to accept a premise as true for a soundness verdict if it is [plausible](plausible) (it appears to be true) and the weight of evidence supports it. To evaluate a contested premise:
+Strictly, soundness requires every premise to be in fact true. In practice, most substantial premises are contested and cannot be established with complete certainty. A common working standard accepts a premise as true for a soundness verdict if two things hold. It is [plausible](plausible) (it appears to be true), and the weight of evidence supports it. A verdict reached this way can be revised if new evidence appears. To evaluate a contested premise:
 
 1. State it clearly, and say why it is contested.
 2. Present the case for it.
 3. Present the case against it.
 4. Weigh the two, and make a decisive judgement: the premise is true, or it is not adequately supported.
+
+If a premise is shown to be false, the argument is unsound. If it is only *not adequately supported*, the precise verdict is that the argument has not been shown to be sound. Some textbooks call such an argument unsound; if you do, say that the verdict rests on the premise's lack of support.
 
 ## All or nothing
 

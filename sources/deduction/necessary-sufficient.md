@@ -25,10 +25,10 @@ Boxes (pp. 42–43): NECESSITY "If A is necessary for B, then we can say: B ⊃ 
 ## forallx-ch5-conditional-biconditional
 P. D. Magnus, Tim Button, Robert Trueman, Richard Zach, *forall x: Calgary*, Fall 2025 edition. CC BY 4.0. Text copied by script from the LaTeX source, github.com/rzach/forallx-yyc, commit bb86fe9 (22 Oct 2026); LaTeX markup removed; **notation converted** to syllabus symbols (`⊃`, `&`). Wording and page numbers checked by script against the Fall 2025 PDF in the Project (`forallxyyc.pdf`), 25 Nov 2026; chapter numbers confirmed from its running heads.
 
-Example sentences (ch. 5 §5.4 'Conditional', p. 40): "25. If Jean is in Paris, then Jean is in France." / "26. Jean is in France only if Jean is in Paris."
+Example sentences (ch. 5 §5.4 'Conditional', pp. 39–40): "25. If Jean is in Paris, then Jean is in France." / "26. Jean is in France only if Jean is in Paris."
 > In fact, sentence 26 can be paraphrased as ‘If Jean is in France, then Jean is in Paris’. So we can symbolize it by ‘(F ⊃ P)’. A sentence can be symbolized as (A ⊃ B) if it can be paraphrased in English as ‘If A, then B’ or ‘A only if B’. (ch. 5 §5.4, p. 40)
 
-Sentences (§5.4, pp. 40–41): "27. For Jean to be in Paris, it is necessary that Jean be in France." "28. It is a necessary condition on Jean's being in Paris that she be in France." "29. For Jean to be in France, it is sufficient that Jean be in Paris." "30. It is a sufficient condition on Jean's being in France that she be in Paris."
+Sentences (§5.4, pp. 40–41): "27. For Jean to be in Paris, it is necessary that Jean be in France." "28. It is a necessary condition on Jean’s being in Paris that she be in France." "29. For Jean to be in France, it is sufficient that Jean be in Paris." "30. It is a sufficient condition on Jean’s being in France that she be in Paris."
 > If we think about it, all four of these sentences mean the same as ‘If Jean is in Paris, then Jean is in France’. So they can all be symbolized by ‘(P ⊃ F)’. It is important to bear in mind that the connective ‘⊃’ tells us only that, if the antecedent is true, then the consequent is true. It says nothing about a causal connection between two events (for example). In fact, we lose a huge amount when we use ‘⊃’ to symbolize English conditionals. [...] (ch. 5 §5.4, p. 41)
 
 (The last sentence supports a caveat on Bland's "causal" kind: the conditional itself does not express causation.)
@@ -42,3 +42,6 @@ Existing entry `content/philosophy-of-mind/searle-chinese-room.md` (checked, not
 
 ## Dropped
 SEP "Necessary and Sufficient Conditions": not needed; Bland p. 42 covers the kinds of connection and forall x covers the causal caveat.
+
+## searle-dates
+John Searle (1932–2025): Cole, D., "The Chinese Room Argument", *Stanford Encyclopedia of Philosophy* (rev. 23 Oct 2024), live page fetched 25 Nov 2026; recorded in `sources/philosophy-of-mind/searle-chinese-room.md`. Syllabus p. 16: "John Searle’s Chinese room argument".

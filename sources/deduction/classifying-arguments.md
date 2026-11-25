@@ -22,7 +22,7 @@ Categorical syllogisms (one line, John 25 Nov 2026):
 See deductive-vs-inductive pack: indicator words "are far from infallible guides" (IEP §2). Supports the "cues are not decisive" step.
 
 ## Charity
-Principle of charity: from the approved `hidden-premise` entry; syllabus p. 7 ("applying the principle of charity").
+Principle of charity: see bland-reason-charity below (p. 89). Syllabus p. 7 mentions it only in the context of essays.
 
 ## bland-reason-ch2-form-boxes
 Form boxes, Bland ch. 2 (copied by script). Modus tollens box: see the approved modus-tollens pack (p. 27).
@@ -32,3 +32,7 @@ Form boxes, Bland ch. 2 (copied by script). Modus tollens box: see the approved 
 - CONSTRUCTIVE DILEMMA 1. If P then Q. 2. If R then S. 3. P or R. C. Therefore, Q or S. (p. 29)
 - AFFIRMING THE CONSEQUENT (FORMAL FALLACY) 1. If P then Q. 2. Q. C. Therefore, P. (p. 32)
 - DENYING THE ANTECEDENT (FORMAL FALLACY) 1. If P then Q. 2. Not P. C. Therefore, not Q. (p. 33)
+
+## bland-reason-charity
+Bland, *Reason* (Revised Edition), ch. 5 (copied by script):
+> The principle of charity is an important foundation for anyone who wishes to engage with the arguments of others. Essentially, it is a guideline that requires you to respect those who are putting forward arguments and to avoid misrepresenting their views. In practice, this means reconstructing an argument in the strongest and most rational form the arguer could reasonably intend, and only then subjecting it to evaluation. (p. 89)

@@ -39,3 +39,14 @@ For brief Q1 ("invalid is not necessarily bad", approved): "Many good arguments 
 
 ## Four combinations (for the table)
 Derived from the definitions above: a valid argument can have true premises/true conclusion, false premises/false conclusion (cheese, oranges), false premises/true conclusion; never true premises/false conclusion. An invalid argument can have all true premises and a true conclusion (London/Beijing/Paris). False-premises/true-conclusion valid example to be constructed in drafting and checked by code.
+
+## forallx-ch2-validity-by-meaning
+forall x: Calgary (details as above), ch. 2. Checked by script against the Fall 2025 PDF.
+
+Example (§2.2, p. 11): "Priya is an ophthalmologist. ∴ Priya is an eye doctor."
+> If we’re allowing only conceivable scenarios, this is also a valid argument. If you imagine Priya being an ophthalmologist, you thereby imagine Priya being an eye doctor. That’s just what “ophthalmologist” and “eye doctor” mean. A scenario where Priya is an ophthalmologist but not an eye doctor is ruled out by the conceptual connection between these words. (ch. 2 §2.2, p. 11)
+
+Examples (§2.3 'Formal validity', p. 12): "Priya is either an ophthalmologist or a dentist. Priya isn’t a dentist. ∴ Priya is an eye doctor." and "... ∴ Priya is an ophthalmologist."
+> [...] are valid arguments. But while the validity of the first depends on the content (i.e., the meaning of “ophthalmologist” and “eye doctor”), the second does not. The second argument is formally valid. (ch. 2 §2.3, p. 12)
+
+Supports the qualifier (checker, 25 Nov 2026): some arguments are valid because of what their words mean; the arguments studied at this level are valid or invalid because of their form.

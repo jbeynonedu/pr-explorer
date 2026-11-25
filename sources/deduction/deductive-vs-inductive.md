@@ -38,12 +38,12 @@ Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of
 
 §9 "Other Even Less Promising Proposals":
 - The view (attributed to Kreeft, 2005): deductive arguments are those that begin with "a “general” or “universal” premise"; inductive arguments begin with particular premises and reach a more general conclusion.
-- Counterexample 1: "All As are Bs. / All Bs are Cs. / Therefore, all As are Cs." Deductive, but involves "*only* universal statements."
+- Counterexample 1: "All As are Bs. / All Bs are Cs. / Therefore, all As are Cs." IEP says that on the criticised view it "would be neither deductive nor inductive" (checker); it is in fact valid. Involves "*only* universal statements."
 - Counterexample 2: "Each spider so far examined has had eight legs. / Therefore, likewise, the next spider examined will have eight legs." Inductive, but moves from particulars to a particular.
 - Verdict: the approach "seems much too crude"; it "faces such *prima facie* plausible exceptions."
 
 §2 and §4 on indicator words:
-- "While indicator words or phrases may suggest specific interpretations, they need to be viewed in context."
+- "[W]hile indicator words or phrases may suggest specific interpretations, they need to be viewed in context."
 - Indicator words "are far from infallible guides".
 - "One cannot strictly tell from these indicator words alone." (§4)
 
@@ -58,3 +58,13 @@ Example (ch. 2 §2.5, p. 16): "Every winter so far, it has snowed in Calgary. �
 > The point of all this is that inductive arguments—even good inductive arguments—are not (deductively) valid. They are not watertight. Unlikely though it might be, it is possible for their conclusion to be false, even when all of their premises are true. In this book, we will set aside (entirely) the question of what makes for a good inductive argument. Our interest is simply in sorting the (deductively) valid arguments from the invalid ones. (ch. 2 §2.5, p. 16)
 
 **Terminology flag:** as in the deduction pack; forall x calls inductive arguments "invalid". Not house style.
+
+## iep-shanahan-containment
+Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*, https://iep.utm.edu/deductive-inductive-arguments/ . In copyright: short quotations only. Fetched 25 Nov 2026 via WebFetch (excerpts of at most 125 characters). **Re-verify at Checked.**
+- §6 "Logical Necessity vs. Probability": Hausman, Boardman and Howard (2021) quoted: "the conclusion of a deductively valid argument is already 'contained' in the premises"; inductive conclusions said to go beyond the premises.
+- §7: McIntyre (2019) quoted: "the truth of the conclusion cannot contain any information that is not already contained in the premises."
+- §7 "The Question of Validity": six logically valid arguments, including "P. Therefore, P or Q." Then: "This calls into question the aptness of the 'contained in' metaphor for explaining the relationship".
+Use: present containment as a common description of *valid* deductive arguments, not the Explorer's own explanation; note that it has been questioned.
+
+## bland-reason-hume-dates
+Bland, *Reason* (Revised Edition), p. 90 (copied by script): "topic in detail was Scottish philosopher David Hume (1711 – 1776), whose Problem of Induction". Also SEP, Qu and Radcliffe, "David Hume" (fetched 25 Nov 2026; see building-blocks/descriptive-normative pack): "David Hume (1711–1776)".

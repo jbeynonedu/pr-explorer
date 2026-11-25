@@ -8,13 +8,13 @@ hidden-premise,Hidden premise,term,1,1,Building blocks,approved,,Syllabus: ident
 standard-form,Standard form,term,1,1,Building blocks,approved,,Syllabus: arrange premises and conclusions into standard argument form. Approved by John 25 Nov 2026.
 purposes-of-argument,"Purposes of argument (explain, justify, analyse, evaluate)",term,1,1,Building blocks,approved,,May split into four terms. Approved by John 25 Nov 2026.
 descriptive-normative,Descriptive and normative claims,term,1,1,Building blocks,approved,,Not a syllabus term; in plan; supports is-ought. Approved by John 25 Nov 2026.
-deduction,Deduction,term,1,2,Deduction,drafted,,Scope approved by John 25 Nov 2026.
-deductive-vs-inductive,The distinction between deductive and inductive arguments,term,1,2,Deduction,drafted,,Syllabus Explain dot point. Scope approved by John 25 Nov 2026.
-valid,Deductively valid and invalid,term,1,2,Deduction,drafted,,Scope approved by John 25 Nov 2026.
-sound,Sound and unsound,term,1,2,Deduction,drafted,,Scope approved by John 25 Nov 2026.
-necessary-sufficient,Necessary and sufficient conditions,term,1;2;3;4,2,Deduction,drafted,,Scope approved by John 25 Nov 2026.
-classifying-arguments,Classifying arguments,term,1;2;3;4,2,Deduction,drafted,,"Syllabus: classify arguments, e.g. inductive/deductive, argument type. Scope approved by John 25 Nov 2026."
-limits-of-deduction,Limitations of deduction,term,1,2,Deduction,drafted,,Scope approved by John 25 Nov 2026.
+deduction,Deduction,term,1,2,Deduction,checked,,Scope approved by John 25 Nov 2026.
+deductive-vs-inductive,The distinction between deductive and inductive arguments,term,1,2,Deduction,checked,,Syllabus Explain dot point. Scope approved by John 25 Nov 2026.
+valid,Deductively valid and invalid,term,1,2,Deduction,checked,,Scope approved by John 25 Nov 2026.
+sound,Sound and unsound,term,1,2,Deduction,checked,,Scope approved by John 25 Nov 2026.
+necessary-sufficient,Necessary and sufficient conditions,term,1;2;3;4,2,Deduction,checked,,Scope approved by John 25 Nov 2026.
+classifying-arguments,Classifying arguments,term,1;2;3;4,2,Deduction,checked,,"Syllabus: classify arguments, e.g. inductive/deductive, argument type. Scope approved by John 25 Nov 2026."
+limits-of-deduction,Limitations of deduction,term,1,2,Deduction,checked,,Scope approved by John 25 Nov 2026.
 logical-operators,"Logical operators (~, &, ∨, ⊃)",term,1,3,Symbolic logic,not-started,,Includes operator truth tables
 translating-symbolising,Translating and symbolising propositions,term,1,3,Symbolic logic,not-started,,
 modus-ponens,Modus ponens,logic-form,1,3,Symbolic logic,not-started,,
