@@ -3,7 +3,7 @@ id: post-hoc
 type: fallacy
 section: informal-fallacies
 units: [1]
-stage: drafted
+stage: checked
 approved_scope: yes
 ---
 

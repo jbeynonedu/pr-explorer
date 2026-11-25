@@ -28,6 +28,18 @@ will be marrying inanimate objects… it will lead to the breakdown of society a
 
 [p. 84]
 
+## bland-reason-4-3-intro
+Bland §4.3 introduction (verbatim, lines 3179–3186):
+
+4.3 Fallacies of Presumption
+Appeal to Ignorance (Argumentum Ad Ignorantiam)
+Argumentum ad ignorantiam occurs when lack of knowledge is treated as justification for an assertion, rather 
+than as a reason for withholding judgement about that assertion. It often occurs in situations where a certain 
+ARGUMENTUM AD IGNORANTIAM
+Alex: There’s no evidence that this new vaccine is harmful.
+Blake: That’s right. Therefore, it must be safe.
+
+
 ## sep-fallacies
 Hansen, H., "Fallacies", *Stanford Encyclopedia of Philosophy*, first published 29 May 2015; substantive revision 30 Aug 2024. https://plato.stanford.edu/entries/fallacies/ (full text fetched via Chrome, 26 Nov 2026).
 

@@ -4,7 +4,7 @@ title: Post hoc ergo propter hoc (false cause)
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: drafted
+status: checked
 related: [cause, induction, hasty-generalisation, slippery-slope, hypothetico-deductive, strong-weak, informal-fallacy]
 sources: [bland-reason-ch4, sep-fallacies, iep-fallacies]
 ---
@@ -29,7 +29,7 @@ The correlation version:
 C. Therefore, A causes B.
 ```
 
-Watch for phrases such as "ever since", "every time I..." and "after we started..., ...".
+Watch for phrases such as "ever since", "every time I..." and "after we started X, Y improved".
 
 ## Other explanations to rule out
 
@@ -81,7 +81,7 @@ C. Therefore, the air conditioning improved Year 12 results.
 
 It might have. But this year's cohort, teachers and exams are also different, and results vary from year to year anyway. Without considering those, the sequence alone is weak support.
 
-A beach kiosk owner notices that on days with high ice-cream sales, the lifeguards also treat more sunburn.
+A beach kiosk owner notices that on days with high ice-cream sales, the lifeguards also treat more sunburn. "Ice cream must cause sunburn," she jokes.
 
 ```sf
 1. Ice-cream sales and sunburn cases rise and fall together.

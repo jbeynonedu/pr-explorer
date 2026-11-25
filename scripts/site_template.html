@@ -98,6 +98,12 @@ th{font-weight:700;border-bottom:2px solid var(--ink)}
 .map pre{margin:0;background:none;font-family:inherit}
 .empty{border:2px dashed var(--line);border-radius:14px;padding:22px;color:var(--mute);margin-top:22px}
 /* truth table widget */
+.coinsim{border:1px solid var(--line);border-radius:14px;padding:16px;margin:14px 0;background:var(--panel)}
+.coinsim .simtitle{font-weight:700;margin:0 0 8px}
+.coinsim .simbtns{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+.coinsim button{font:inherit;font-weight:600;border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:999px;padding:6px 14px;min-height:44px;cursor:pointer}
+.coinsim .simout p{margin:4px 0;font-variant-numeric:tabular-nums}
+.coinsim .key{font-size:14px;color:var(--mute);margin:6px 0 0}
 .tt{border:1px solid var(--line);border-radius:14px;padding:16px;margin:14px 0;background:var(--panel)}
 .tt .forms{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
 .tt button{font:inherit;font-weight:600;border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:999px;padding:6px 14px;min-height:44px;cursor:pointer}
@@ -209,6 +215,7 @@ function entry(n){
  if(n.stub){main.innerHTML=`<article class="entry" style="${col(n)}"><div class="tags">${tags}</div><h2>${esc(n.t)}</h2><div class="empty">This entry hasn’t been written yet.</div></article>`;window.scrollTo({top:0});return}
  main.innerHTML=`<article class="entry" style="${col(n)}"><div class="tags">${tags}</div><h2 style="view-transition-name:v-${n.id}">${esc(n.t)}</h2><div class="body">${n.html}</div></article>`;
  main.querySelectorAll('.tt').forEach(truthTable);
+ main.querySelectorAll('.coinsim').forEach(coinSim);
  const maps=main.querySelectorAll('pre.mermaid');if(maps.length)runMermaid(maps);
  window.scrollTo({top:0});
 }

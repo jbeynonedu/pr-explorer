@@ -32,6 +32,48 @@ within our means, governments must always balance their budgets.
 
 [p. 79]
 
+## bland-reason-4-2-intro
+Bland §4.2 introduction, p. 76 (verbatim, lines 2953–2957):
+
+4.2 Fallacies of Weak Induction
+In the section we have just considered, Fallacies of Relevance, usually the argumentative offence is clear and 
+easy to identify. Fallacies of weak induction, however, are not as straightforward. The premises are relevant 
+and the reasoning feels… reasonable. However, the argument still fails, not because the premises are 
+irrelevant, but because they are insufficient.
+
+## bland-reason-5-2-analogy
+Bland §5.2, pp. 94–95 (verbatim, lines 3691–3727; Shakespeare box omitted):
+
+An argument from analogy is a special type of inductive argument that uses analogical reasoning to draw a 
+conclusion about one case based on its similarity to another case. It relies on the assumption that if two 
+things are alike in some respects, then they are likely to be alike in other respects. An argument from analogy 
+takes the following form:
+1. P and Q are similar in that they share properties a, b, c, d, etc…
+2. P has been observed to have an additional property, x.
+C. Therefore, Q probably has property x as well.
+Notice how the conclusion makes a probabilistic rather than a definitive claim – this is an example of an 
+inductive argument that can be evaluated for strength rather than validity. There are several factors that can 
+either increase or reduce the strength of an argument from analogy. When evaluating an analogical argument, 
+the following factors should be considered:
+1. Truth – check to ensure that the two objects that are being compared are in fact similar in the way 
+described.
+2. Relevance – check to ensure that the shared properties (a, b, c, d, etc) are relevant to the property x 
+in the conclusion. If the shared properties are not relevant to the conclusion, then this weakens the 
+argument.
+3. Number – if there are many shared properties (a, b, c, d, etc) between the two entities, then this 
+strengthens the argument. If there are only one or two shared properties, then the argument is 
+weakened.
+4. Diversity – check whether the shared properties (a, b, c, d, etc) are of a similar or diverse type. The 
+more diverse the properties, the stronger the argument.
+5. Disanalogy – even if the two entities are similar in many respects, consider whether there are any 
+significant dissimilarities between the two entities that would cast doubt on the conclusion.
+It’s important to understand that not all analogies involve an argument. For example, consider the 
+Shakespeare quote above from the play As You Like It. This oft-quoted passage draws an analogy between the 
+human race and the performers in a play, but there is no argument being made – it’s simply a comparison 
+between two things. An argument from analogy takes this one step further – it draws a comparison between 
+two things and then uses this comparison to argue for the existence of an unknown property in one entity 
+based on a known property of the other entity.
+
 ## sep-fallacies
 Hansen, H., "Fallacies", *Stanford Encyclopedia of Philosophy*, first published 29 May 2015; substantive revision 30 Aug 2024. https://plato.stanford.edu/entries/fallacies/ (full text fetched via Chrome, 26 Nov 2026).
 
@@ -49,4 +91,4 @@ Dowden, B., "Fallacies", *Internet Encyclopedia of Philosophy*, https://iep.utm.
 
 
 ## Notes for drafting
-Bland p. 78 example compares running a household and running a country: politically live, not reused. Full criteria for analogy go in the section 5 entry; Bland ch. 5 §5.2 (p. 94 on) to be packed then.
+Bland p. 78 example compares running a household and running a country: politically live, not reused. Full criteria for analogy go in the section 5 entry; Bland §5.2 pp. 94–95 is now packed above.

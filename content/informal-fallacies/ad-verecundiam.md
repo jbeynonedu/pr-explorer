@@ -4,7 +4,7 @@ title: Ad verecundiam (appeal to the wrong authority)
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: drafted
+status: checked
 related: [credible, ad-populum, ad-hominem, strong-weak, justification-persuasion, informal-fallacy]
 sources: [bland-reason-ch4, sep-fallacies, iep-fallacies]
 ---

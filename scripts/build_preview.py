@@ -33,11 +33,13 @@ def render(eid):
     def keep_sf(m):
         sfs.append(m.group(1)); return f'\n\nSFBLOCK{len(sfs)-1}\n\n'
     body = re.sub(r'```sf\n(.*?)```', keep_sf, body, flags=re.S)
+    body = body.replace('<!-- interactive: coin-sim -->', '\n\nCOINSIM\n\n')
     tt = re.search(r'<!-- interactive: truth-table; premises: (.*?); conclusion: (.*?) -->', body)
     if tt:
         body = body.replace(tt.group(0), '\n\nTTMARK\n\n', 1)
     body = re.sub(r'<!--.*?-->\n?', '', body)
     h = markdown.markdown(body, extensions=['tables'])
+    h = h.replace('<p>COINSIM</p>', '<div class="coinsim"></div>')
     for i, code in enumerate(mermaid):
         h = h.replace(f'<p>MERMAID{i}</p>', f'<div class="map"><pre class="mermaid">{html.escape(code)}</pre></div>')
     for i, block in enumerate(sfs):
