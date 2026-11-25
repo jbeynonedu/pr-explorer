@@ -4,7 +4,7 @@ title: The distinction between deductive and inductive arguments
 type: term
 units: [1]
 section: deduction
-status: checked
+status: approved
 related: [deduction, induction, valid, sound, strong-weak, classifying-arguments, limits-of-deduction, problem-of-induction, hypothetico-deductive]
 sources: [bland-reason-1-4, iep-shanahan-general-specific, forallx-ch2-inductive]
 ---

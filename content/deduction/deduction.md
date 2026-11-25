@@ -4,7 +4,7 @@ title: Deduction
 type: term
 units: [1]
 section: deduction
-status: checked
+status: approved
 related: [argument, induction, analogy, generalisation, deductive-vs-inductive, valid, sound, classifying-arguments, limits-of-deduction, modus-ponens, modus-tollens]
 sources: [bland-reason-ch1-deduction, iep-shanahan-definitions, forallx-ch2-success-view]
 ---

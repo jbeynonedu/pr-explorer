@@ -4,7 +4,7 @@ title: Deductively valid and invalid
 type: term
 units: [1]
 section: deduction
-status: checked
+status: approved
 related: [deduction, sound, modus-ponens, modus-tollens, affirming-the-consequent, denying-the-antecedent, logical-operators, classifying-arguments, hidden-premise]
 sources: [bland-reason-validity, forallx-ch2-validity]
 ---

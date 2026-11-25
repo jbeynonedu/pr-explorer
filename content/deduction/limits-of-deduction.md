@@ -4,7 +4,7 @@ title: Limitations of deduction
 type: term
 units: [1]
 section: deduction
-status: checked
+status: approved
 related: [deduction, valid, sound, deductive-vs-inductive, induction, problem-of-induction, hypothetico-deductive, conclusion]
 sources: [bland-reason-limits, forallx-ch2-limits]
 ---

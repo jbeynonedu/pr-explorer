@@ -2,7 +2,7 @@
 
 ## 1. Audience and voice
 - Readers: Year 11 and 12 students, including students meeting an idea for the first time. Entries also serve Year 12 exam revision.
-- Never oversimplify or overgeneralise. If a simplification is needed, say what it leaves out.
+- Never oversimplify or overgeneralise. If a simplification leaves out something significant, say so; otherwise describe what the entry covers without listing what it omits.
 - Clear, precise, calm. Address the reader as "you" sparingly. No slang, filler, hype or rhetorical questions as padding.
 - Define each technical term at first use and link it to its entry.
 - Sentences generally under 25 words; paragraphs of 2–4 sentences.
@@ -16,7 +16,7 @@
 - Claims are **true/false**; they may also be **plausible** or **credible** (syllabus terms). Arguments are not true or false.
 - Use "argument" in its technical sense only; for a disagreement say "debate" or "dispute".
 - Use the syllabus's own name for each item (e.g. "illicit appeal to popular opinion").
-- Sources (Bland, the syllabus, SEP) are credited in the entry's Sources list only. Entry text does not refer to Bland or *Reason* ("Bland's example", "Bland calls..."). The QCAA course may be mentioned only where needed to limit complexity, and avoided where possible; "at this level" or "not covered here" usually does the job.
+- Sources (Bland, the syllabus, SEP) are credited in the entry's Sources list only. Entry text does not refer to Bland or *Reason* ("Bland's example", "Bland calls..."). Do not comment on what the syllabus does or does not cover ("not in the syllabus", "beyond the syllabus", "not covered here"). The syllabus is a guide, not a hard line: the Explorer covers what it mentions, but may go beyond it or leave parts out. Describe what is covered instead. (John, 26 Nov 2026)
 - Add rules to this list whenever John flags a misuse.
 
 ## 3. Notation and standard form
@@ -26,6 +26,7 @@
 - Standard form, as in Bland: numbered premises `1.`, `2.`, conclusion labelled `C.`, hidden premises labelled `(HP)`.
 - Every standard-form argument goes in an ` ```sf ` block, one line per premise, with the conclusion `C.` always on its own line (the preview renders it below a rule). Never write a standard-form argument as a Markdown list.
 - Symbolic line form: `P ⊃ Q, ~Q ∴ ~P`.
+- Worked examples: set every argument out, never run it into a paragraph. Order: the English argument in an `sf` block; then `Dictionary:` as a list, one letter per line; then the symbolic form in its own `sf` block. (John, 26 Nov 2026)
 
 ## 4. Naming
 - Fallacies: Latin name first, as in the syllabus, with the English as a subtitle (e.g. **Ad hominem**, *attacking the person*).
@@ -65,7 +66,7 @@
 
 ## 9. Visuals
 - Use a visual only where it explains something prose cannot: truth tables (interactive for logic forms), Venn/Euler diagrams, argument maps, process diagrams (e.g. the falsification cycle), concept diagrams (e.g. state of nature → social contract).
-- Label every visual. Keep it accessible: text alternatives, no meaning carried by colour alone.
+- Label every visual. Keep it accessible: no meaning carried by colour alone. Add a text alternative only where the visual is not self-explanatory; a clearly labelled diagram or a caption usually suffices. (John, 26 Nov 2026)
 - Colour by branch: Reason cobalt, Philosophy coral.
 
 ## 10. Entry file format (repo)

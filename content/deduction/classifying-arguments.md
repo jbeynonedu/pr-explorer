@@ -4,7 +4,7 @@ title: Classifying arguments
 type: term
 units: [1, 2, 3, 4]
 section: deduction
-status: checked
+status: approved
 related: [deduction, induction, deductive-vs-inductive, valid, modus-ponens, modus-tollens, hypothetical-syllogism, disjunctive-syllogism, constructive-dilemma, affirming-the-consequent, denying-the-antecedent, analogy, generalisation, standard-form, hidden-premise]
 sources: [bland-reason-classifying, bland-reason-ch2-form-boxes, iep-indicator-words]
 ---

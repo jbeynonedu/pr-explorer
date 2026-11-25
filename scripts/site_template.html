@@ -150,10 +150,14 @@ if(preview){const b=document.getElementById('banner');b.hidden=false;
 // ---------- state ----------
 let view='bubbles';try{view=localStorage.getItem('pr-view')||'bubbles'}catch(e){}
 const main=document.getElementById('main'),crumbs=document.getElementById('crumbs');
+// The current page is kept in `here`; updating the address bar is best-effort, because
+// sandboxed previews (e.g. a file opened inside an app) can block history.pushState.
+let here=null;
 const go=id=>{const h=id==='home'?'':id;
- const run=()=>{if(location.hash.slice(1)!==h)history.pushState(null,'',h?'#'+h:location.pathname+location.search);render()};
+ const run=()=>{here=id;try{if(location.hash.slice(1)!==h)history.pushState(null,'',h?'#'+h:location.pathname+location.search)}catch(e){}render()};
  if(document.startViewTransition&&!matchMedia('(prefers-reduced-motion: reduce)').matches)document.startViewTransition(run);else run()};
-const cur=()=>{const h=decodeURIComponent(location.hash.slice(1));return byId[h]?h:'home'};
+const fromHash=()=>{try{const h=decodeURIComponent(location.hash.slice(1));return byId[h]?h:'home'}catch(e){return 'home'}};
+const cur=()=>here&&byId[here]?here:fromHash();
 // ---------- render ----------
 function render(){
  const id=cur(),n=byId[id],path=pathTo(id);
@@ -251,7 +255,7 @@ document.addEventListener('click',e=>{const b=e.target.closest('[data-go]');if(b
 const setView=v=>{view=v;try{localStorage.setItem('pr-view',v)}catch(e){};render()};
 document.getElementById('vb').addEventListener('click',()=>setView('bubbles'));
 document.getElementById('vc').addEventListener('click',()=>setView('cards'));
-window.addEventListener('popstate',render);window.addEventListener('hashchange',render);
+window.addEventListener('popstate',()=>{here=null;render()});window.addEventListener('hashchange',()=>{here=null;render()});
 let rw=innerWidth,rt;addEventListener('resize',()=>{if(innerWidth===rw)return;rw=innerWidth;clearTimeout(rt);rt=setTimeout(()=>{const n=byId[cur()];if(view==='bubbles'&&!isLeaf(n)&&n.id!=='home')render()},120)});
 render();
 }

@@ -4,7 +4,7 @@ title: Necessary and sufficient conditions
 type: term
 units: [1, 2, 3, 4]
 section: deduction
-status: checked
+status: approved
 related: [logical-operators, translating-symbolising, affirming-the-consequent, denying-the-antecedent, searle-chinese-room, cause]
 sources: [bland-reason-3-2, forallx-ch5-conditional-biconditional]
 ---

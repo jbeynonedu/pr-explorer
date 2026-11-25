@@ -4,7 +4,7 @@ title: Sound and unsound
 type: term
 units: [1]
 section: deduction
-status: checked
+status: approved
 related: [valid, deduction, premise, true-false, plausible, credible, strong-weak]
 sources: [bland-reason-soundness, forallx-ch2-sound, iep-shanahan-cogent]
 ---
