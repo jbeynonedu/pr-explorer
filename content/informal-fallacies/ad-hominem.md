@@ -4,7 +4,7 @@ title: Ad hominem (abusive and circumstantial)
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: checked
+status: approved
 related: [tu-quoque, ad-verecundiam, straw-man, credible, sound, strong-weak, justification-persuasion, informal-fallacy]
 sources: [bland-reason-ch4-adhom, hansard-1991-04-18-keating, sep-fallacies, iep-fallacies]
 ---

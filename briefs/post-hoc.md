@@ -21,7 +21,7 @@ Units 2–4, every topic: "identify any formal or informal fallacies"
 Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026).
 
 ## Exemplar
-Ad hominem is drafted first as the fallacy exemplar (John, 26 Nov 2026); the other entries follow its shape once approved.
+Approved ad hominem entry (John, 26 Nov 2026): follow its shape.
 
 ## Proposed scope (400–600 words)
 1. **Definition** (Bland pp. 80–81 and fn. 19): inferring that A caused B on insufficient grounds. *Post hoc ergo propter hoc* ("after this, therefore because of this"): because B followed A. *Cum hoc ergo propter hoc* ("with this..."): because A and B occur together. "False cause" names the wider family.

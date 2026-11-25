@@ -20,7 +20,7 @@ Added by John, 26 Nov 2026.
 Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026).
 
 ## Exemplar
-Ad hominem, once approved.
+Approved ad hominem entry (John, 26 Nov 2026): follow its shape.
 
 ## Proposed scope (300–450 words)
 1. **Definition** (Bland pp. 74–75): replacing an opponent's actual argument or position with a weaker or more extreme version, then attacking that version as if it were theirs. No Latin name, so English only.

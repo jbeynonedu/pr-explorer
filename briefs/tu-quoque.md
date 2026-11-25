@@ -21,7 +21,7 @@ Units 2–4, every topic: "identify any formal or informal fallacies"
 Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026).
 
 ## Exemplar
-Ad hominem is drafted first as the fallacy exemplar (John, 26 Nov 2026); the other entries follow its shape once approved.
+Approved ad hominem entry (John, 26 Nov 2026): follow its shape.
 
 ## Proposed scope (300–450 words)
 1. **Definition** (Bland pp. 71–72): rejecting an argument or claim because the person making it does not act consistently with it ("you too"). The fallacy is committed by the one who responds, not by the hypocrite.

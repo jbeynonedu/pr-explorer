@@ -21,7 +21,7 @@ Units 2–4, every topic: "identify any formal or informal fallacies"
 Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026).
 
 ## Exemplar
-Ad hominem is drafted first as the fallacy exemplar (John, 26 Nov 2026); the other entries follow its shape once approved.
+Approved ad hominem entry (John, 26 Nov 2026): follow its shape.
 
 ## Proposed scope (350–550 words)
 1. **Definitions** (Bland pp. 84–85): *composition*: inferring that a whole has a property because its parts have it. *Division*: inferring that each part has a property because the whole has it. One entry, two halves, as the syllabus lists them together.

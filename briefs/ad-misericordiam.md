@@ -21,7 +21,7 @@ Units 2–4, every topic: "identify any formal or informal fallacies"
 Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026).
 
 ## Exemplar
-Ad hominem is drafted first as the fallacy exemplar (John, 26 Nov 2026); the other entries follow its shape once approved.
+Approved ad hominem entry (John, 26 Nov 2026): follow its shape.
 
 ## Proposed scope (300–500 words)
 1. **Definition** (Bland p. 73): trying to secure acceptance of a conclusion by arousing emotion, classically pity (*misericordia*), where the emotion is not a relevant reason. The syllabus's English name is wider than the Latin; the entry covers pity as the central case and other emotions (fear, guilt, outrage) briefly (see Q1).
