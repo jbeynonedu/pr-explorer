@@ -18,7 +18,8 @@ Syllabus extracts © State of Queensland (QCAA) 2026, CC BY 4.0. Material adapte
 ## Preview (single entries)
 `python3 scripts/build_preview.py .work/preview.html <id> ...` builds a single review page (interactive truth tables, Mermaid argument maps) from `content/`. Phase 0 exemplar preview: https://claude.ai/artifact/WuKi8KEsjgzTUge826Uys2 (private to John).
 
-## Where the next chat picks up (25 Nov 2026)
-1. **Site shell: built.** Preview republished at the bubble prototype's link. John to look it over (layout, section blurbs in `build_site.py`, footer wording). GitHub Pages at launch: build with `--public` to `docs/index.html` and enable Pages from `/docs`.
-2. **Phase 1, Section 1: Building blocks — complete.** All nine entries approved by John (25 Nov 2026). Not yet live: publish with `--public` at launch.
-3. **Next: Phase 1, Section 2: Deduction.** Start at the Briefed stage (seven entries; see `tracker.csv`).
+## Where the next chat picks up (26 Nov 2026)
+1. **Phase 1, Sections 1–2: complete.** All entries approved by John. Not yet live: publish with `--public` at launch.
+2. **Phase 1, Section 3: Symbolic logic.** Modus tollens approved. The other eight entries are **checked** (two independent checks, all fixes applied) and in the review preview. Next: John reviews and approves (or requests changes).
+3. **Truth-table widget:** `scripts/tt_widget.js` (shared by both builds); marker forms in `scripts/tt_forms.py`. Supports `mt mp da ac ds ad hs cd dd`.
+4. **After Section 3:** Phase 1, Section 4: Informal fallacies, starting at Briefed.
