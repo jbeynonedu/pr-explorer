@@ -33,5 +33,9 @@ P. D. Magnus, Tim Button, Robert Trueman, Richard Zach, *forall x: Calgary*, Fal
 
 True conclusion does not make an argument sound (or valid): London/Beijing/Paris example, valid pack.
 
-## cogent (mention, not focus; John 25 Nov 2026)
-Not in Bland or the syllabus. IEP §1 (search snippet, 25 Nov 2026): inductive arguments "are said to be strong or weak, and, although terminology varies, they may also be considere[d]..." (snippet truncated). **To source at Checked:** fetch IEP §1 for the sentence naming "cogent", or drop the mention.
+## iep-shanahan-cogent (mention, not focus; John 25 Nov 2026)
+Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*, §1. https://iep.utm.edu/deductive-inductive-arguments/ . In copyright: short quotations only. Fetched 25 Nov 2026 via WebFetch (excerpts of at most 125 characters). **Re-verify at Checked.**
+- Inductive arguments are said to be strong or weak and, terminology varying, may also be called cogent or not cogent (tool's paraphrase of the longer sentence).
+- "A strong inductive argument is said to be one whose premises render the conclusion likely."
+- "A cogent argument is a strong argument with true premises."
+Not a syllabus term and not in Bland.

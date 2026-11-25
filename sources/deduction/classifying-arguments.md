@@ -11,7 +11,7 @@ Greg Bland, *Reason: A Guide to Argument and Critical Reasoning*, Revised Editio
 
 > Inductive arguments take many different forms. Some involve reasoning from observations of specific cases to a more general conclusion, while others involve drawing conclusions about new cases by analogy with familiar ones. We will examine the two most important inductive argument types — arguments from analogy and arguments by generalisation — in detail in Chapter 5. (p. 20)
 
-Named forms (Bland ch. 2, pp. 25–33): modus ponens, modus tollens, hypothetical syllogism, disjunctive syllogism, constructive dilemma (valid); affirming the consequent, denying the antecedent (invalid). Symbolic lines to be taken from the approved modus tollens entry and checked by code at Checked.
+Named forms (Bland ch. 2, pp. 25–33): modus ponens, modus tollens, hypothetical syllogism, disjunctive syllogism, constructive dilemma (valid); affirming the consequent, denying the antecedent (invalid). Symbolic lines: see form boxes below; validity of each checked by code at Checked.
 
 Categorical syllogisms (one line, John 25 Nov 2026):
 > In addition to the propositional logic we have studied so far, there is another important type of deductive argument worth exploring: the categorical syllogism. A categorical syllogism is a specific kind of deductive argument that uses categorical propositions—statements that relate two categories of things or people through inclusion, exclusion, or partial overlap—to support a categorical conclusion. While not explicitly mentioned in the 2025 Philosophy and Reason syllabus, categorical syllogisms have a storied history in the field of logic. Introduced by Aristotle in his seminal text Prior Analytics around 350 BCE, they formed the foundation of classical deductive reasoning and influenced the later development of modern predicate logic. (p. 56)
@@ -23,3 +23,12 @@ See deductive-vs-inductive pack: indicator words "are far from infallible guides
 
 ## Charity
 Principle of charity: from the approved `hidden-premise` entry; syllabus p. 7 ("applying the principle of charity").
+
+## bland-reason-ch2-form-boxes
+Form boxes, Bland ch. 2 (copied by script). Modus tollens box: see the approved modus-tollens pack (p. 27).
+- MODUS PONENS 1. If P, then Q. 2. P. C. Therefore, Q. (p. 26)
+- HYPOTHETICAL SYLLOGISM 1. If P, then Q. 2. If Q, then R. C. Therefore, if P then R. (p. 28)
+- DISJUNCTIVE SYLLOGISM 1. P or Q. 2. Not P. C. Therefore, Q. (p. 29)
+- CONSTRUCTIVE DILEMMA 1. If P then Q. 2. If R then S. 3. P or R. C. Therefore, Q or S. (p. 29)
+- AFFIRMING THE CONSEQUENT (FORMAL FALLACY) 1. If P then Q. 2. Q. C. Therefore, P. (p. 32)
+- DENYING THE ANTECEDENT (FORMAL FALLACY) 1. If P then Q. 2. Not P. C. Therefore, not Q. (p. 33)
