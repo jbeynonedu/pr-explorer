@@ -51,3 +51,4 @@ Hansard showed the Keating passage is not pure abuse (a tu quoque-shaped reason 
 
 ## Check (independent subagent, 26 Nov 2026)
 12 findings (5 must-fix): unsourced Latin gloss cut; "irrelevant to whether P is true" narrowed; circumstantial definition broadened (tu quoque now fits); ad verecundiam link corrected; Keating line framed as part of a longer reply with reasons. Suggestions applied (charitable reading, clearer abusive example, sound/strong, sources trimmed). Re-check: all resolved; 4 minor follow-ups applied. Open for John: the entry does not treat the Keating line as a clear abusive case (Bland p. 71 does).
+Keating classification (John, 26 Nov 2026): happy with the small clash with Bland p. 71; keep as drafted.

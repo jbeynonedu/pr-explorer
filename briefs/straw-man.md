@@ -4,7 +4,7 @@ type: fallacy
 section: informal-fallacies
 units: [1]
 stage: briefed
-approved_scope: pending
+approved_scope: yes
 ---
 
 # Brief: Straw man (fallacy)
@@ -39,3 +39,6 @@ None.
 
 ## Questions for John
 None.
+
+## Scope decision (John, 26 Nov 2026)
+Approved.
