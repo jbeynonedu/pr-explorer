@@ -4,20 +4,37 @@ title: Translating and symbolising propositions
 type: term
 units: [1, 2, 3, 4]
 section: symbolic-logic
-status: checked
+status: approved
 related: [logical-operators, proposition, standard-form, necessary-sufficient, modus-tollens, searle-chinese-room]
 sources: [bland-reason-dictionary, bland-reason-wordings, bland-reason-chart, bland-reason-brackets, bland-reason-brendon, forallx-ch5-but-although, forallx-5-6-unless, forallx-5-3-neither, forallx-10-2-symbolising-vs-translating, searle-1990-axiom3]
 ---
 
 # Translating and symbolising propositions
 
-**To symbolise a proposition is to write it with capital letters for its simple propositions and [logical operators](logical-operators) for the connections between them. Translating also runs the other way: reading a symbolic expression back into English.** With `R = "It is raining."` and `J = "I will go for a jog."`, `~R ⊃ J` reads "If it is not raining, then I will go for a jog." Symbolising shows an argument's form, so it can be named or tested with a truth table.
+**To symbolise a proposition is to write it with capital letters for its simple propositions and [logical operators](logical-operators) for the connections between them. Translating also runs the other way: reading a symbolic expression back into English.** Symbolising shows an argument's form, so it can be named or tested with a truth table.
+
+For example, with this dictionary:
+
+- `R = "It is raining."`
+- `J = "I will go for a jog."`
+
+`~R ⊃ J` reads: "If it is not raining, then I will go for a jog."
 
 ## Step 1: the dictionary
 
 A dictionary lists each simple proposition and the letter that stands for it. One letter stands for one proposition, with the same wording every time it appears.
 
-It is good practice to state each proposition positively and write negatives with `~`. With `R = "It is raining."`, "It is not raining" is `~R`. A separate letter for the negative (`N = "It is not raining."`) hides the link between the two, and can make a valid form harder to see.
+It is good practice to state each proposition positively and write negatives with `~`.
+
+"It is not raining."
+
+Dictionary:
+
+- `R = "It is raining."`
+
+Symbolic form: `~R`
+
+A separate letter for the negative (`N = "It is not raining."`) hides the link between the two, and can make a valid form harder to see.
 
 ## Step 2: match the wording to an operator
 
@@ -29,12 +46,53 @@ It is good practice to state each proposition positively and write negatives wit
 | P only if Q; P is sufficient for Q; Q is necessary for P | `P ⊃ Q` |
 
 ## Tricky cases
+**"Only if."** The part after "only if" is the consequent. See [necessary and sufficient conditions](necessary-sufficient).
 
-- **"Only if."** "You can sit the exam only if you have your student card" (`E = "You can sit the exam."`, `C = "You have your student card."`) is `E ⊃ C`, not `C ⊃ E`. The part after "only if" is the consequent. See [necessary and sufficient conditions](necessary-sufficient).
-- **"Unless."** "P unless Q" is usually read as "if not Q, then P": `~Q ⊃ P`, which is equivalent to `P ∨ Q`. "I'll go for a jog unless it is raining" (`J = "I will go for a jog."`, `R = "It is raining."`) is `~R ⊃ J`. Speakers sometimes mean more than this ("if and only if it is not raining"), so check the context when interpreting someone else.
-- **"Neither … nor."** "Neither P nor Q" is `~(P ∨ Q)`, or equivalently `~P & ~Q`.
-- **"Not both."** "Not both P and Q" is `~(P & Q)`, or equivalently `~P ∨ ~Q`. "You will not have both the pie and the sausage roll" (`I = "You will have the pie."`, `S = "You will have the sausage roll."`) is `~(I & S)`: you may have one, or neither. It is not the same as "neither".
-- **"Q if P."** "The game is cancelled if it storms" (`G = "The game is cancelled."`, `T = "It storms."`) is `T ⊃ G`. The part after "if" is the antecedent, wherever it comes in the sentence.
+"You can sit the exam only if you have your student card."
+
+Dictionary:
+
+- `E = "You can sit the exam."`
+- `C = "You have your student card."`
+
+Symbolic form: `E ⊃ C`, not `C ⊃ E`.
+
+**"Unless."** "P unless Q" is usually read as "if not Q, then P": `~Q ⊃ P`, which is equivalent to `P ∨ Q`.
+
+"I'll go for a jog unless it is raining."
+
+Dictionary:
+
+- `J = "I will go for a jog."`
+- `R = "It is raining."`
+
+Symbolic form: `~R ⊃ J`
+
+Speakers sometimes mean more than this ("if and only if it is not raining"), so check the context when interpreting someone else.
+
+**"Neither … nor."** "Neither P nor Q" is `~(P ∨ Q)`, or equivalently `~P & ~Q`.
+
+**"Not both."** "Not both P and Q" is `~(P & Q)`, or equivalently `~P ∨ ~Q`. It is not the same as "neither".
+
+"You will not have both the pie and the sausage roll."
+
+Dictionary:
+
+- `I = "You will have the pie."`
+- `S = "You will have the sausage roll."`
+
+Symbolic form: `~(I & S)`. You may have one, or neither.
+
+**"Q if P."** The part after "if" is the antecedent, wherever it comes in the sentence.
+
+"The game is cancelled if it storms."
+
+Dictionary:
+
+- `G = "The game is cancelled."`
+- `T = "It storms."`
+
+Symbolic form: `T ⊃ G`
 
 ## Step 3: brackets
 With more than one operator, brackets show the structure. Build the formula from the parts outwards. "If the bus is late and it is raining, then I will walk":
@@ -67,7 +125,16 @@ Symbolic form: `~(C ∨ S)`, or equivalently `~C & ~S`. See [Searle's Chinese ro
 
 ## What symbolising leaves out
 
-With `D = "Brendon is a dangerous driver."` and `P = "Brendon passed his driving test."`, "Brendon is a dangerous driver, yet he passed his driving test" and "Brendon is a dangerous driver and he passed his driving test" are both `D & P`. The surprise carried by "yet" is lost. A symbolic expression keeps only the truth value of the English: it is true in exactly the cases where the English is true. For this reason some logicians prefer to speak of *symbolising* rather than *translating*.
+"Brendon is a dangerous driver, yet he passed his driving test."
+
+"Brendon is a dangerous driver and he passed his driving test."
+
+Dictionary:
+
+- `D = "Brendon is a dangerous driver."`
+- `P = "Brendon passed his driving test."`
+
+Both are `D & P`. The surprise carried by "yet" is lost. A symbolic expression keeps only the truth value of the English: it is true in exactly the cases where the English is true. For this reason some logicians prefer to speak of *symbolising* rather than *translating*.
 
 ## Related concepts
 [Logical operators](logical-operators) · [Proposition](proposition) · [Standard form](standard-form) · [Necessary and sufficient conditions](necessary-sufficient) · [Modus tollens](modus-tollens) · [Searle's Chinese room argument](searle-chinese-room)

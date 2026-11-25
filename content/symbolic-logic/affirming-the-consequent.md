@@ -4,7 +4,7 @@ title: Affirming the consequent
 type: logic-form
 units: [1]
 section: symbolic-logic
-status: checked
+status: approved
 related: [modus-ponens, denying-the-antecedent, modus-tollens, valid, necessary-sufficient, hidden-premise, hypothetico-deductive]
 sources: [bland-reason-ch2-ac, bland-reason-ch3-ac-table, forallx-5-5-iff, sep-confirmation]
 ---

@@ -56,7 +56,14 @@ When each condition guarantees the other, A is necessary *and* sufficient for B.
 
 Watch which part follows which word. The part after "if" is the antecedent; the part after "only if" is the consequent.
 
-Take "A student can attend the formal only if they are in Year 12". Dictionary: `F = "The student can attend the formal."` `Y = "The student is in Year 12."` The sentence is `F ⊃ Y`: being in Year 12 is necessary for attending. It does not say that being in Year 12 is sufficient.
+Take "A student can attend the formal only if they are in Year 12".
+
+Dictionary:
+
+- `F = "The student can attend the formal."`
+- `Y = "The student is in Year 12."`
+
+The sentence is `F ⊃ Y`: being in Year 12 is necessary for attending. It does not say that being in Year 12 is sufficient.
 
 ## Kinds of connection
 

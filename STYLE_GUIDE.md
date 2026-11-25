@@ -27,6 +27,7 @@
 - Every standard-form argument goes in an ` ```sf ` block, one line per premise, with the conclusion `C.` always on its own line (the preview renders it below a rule). Never write a standard-form argument as a Markdown list.
 - Symbolic line form: `P ⊃ Q, ~Q ∴ ~P`.
 - Worked examples: set every argument out, never run it into a paragraph. Order: the English argument in an `sf` block; then `Dictionary:` as a list, one letter per line; then the symbolic form in its own `sf` block. (John, 26 Nov 2026)
+- Never put a dictionary on the same line as the English or the symbols, in any entry. A single proposition being symbolised is set out on separate lines too (no box needed): the English sentence on its own line; then `Dictionary:` as a list, one letter per line; then `Symbolic form: ...` on its own line. (John, 26 Nov 2026)
 
 ## 4. Naming
 - Fallacies: Latin name first, as in the syllabus, with the English as a subtitle (e.g. **Ad hominem**, *attacking the person*).

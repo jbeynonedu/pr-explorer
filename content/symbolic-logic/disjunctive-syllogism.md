@@ -4,7 +4,7 @@ title: Disjunctive syllogism
 type: logic-form
 units: [1]
 section: symbolic-logic
-status: checked
+status: approved
 related: [logical-operators, constructive-dilemma, modus-ponens, valid, sound, hidden-premise]
 sources: [bland-reason-ch2-ds, forallx-19-1, iep-prop-logic-ds, wilson-good-reasoning-12, fallacy-files-affirming-a-disjunct, conan-doyle-1890, conan-doyle-dates]
 ---

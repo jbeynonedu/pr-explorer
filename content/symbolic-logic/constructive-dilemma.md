@@ -4,7 +4,7 @@ title: Constructive dilemma
 type: logic-form
 units: [1]
 section: symbolic-logic
-status: checked
+status: approved
 related: [modus-ponens, disjunctive-syllogism, hypothetical-syllogism, modus-tollens, sound, hidden-premise, valid]
 sources: [bland-reason-ch2-cd, iep-prop-logic-cd, wilson-good-reasoning-12-3]
 ---

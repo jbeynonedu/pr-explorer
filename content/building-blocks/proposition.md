@@ -37,7 +37,12 @@ A proposition is what a declarative sentence says, not the words used to say it.
 
 ## Propositions in symbolic logic
 
-A compound proposition connects two or more propositions with a [logical operator](logical-operators); negation (`~`) applies an operator to a single proposition. Each simple proposition gets a letter in a *dictionary* (`L = "I win the lotto."` `W = "I am wealthy."`), so "If I win the lotto, then I am wealthy" becomes `L ⊃ W`. See [translating and symbolising propositions](translating-symbolising).
+A compound proposition connects two or more propositions with a [logical operator](logical-operators); negation (`~`) applies an operator to a single proposition. Each simple proposition gets a letter in a *dictionary*:
+
+- `L = "I win the lotto."`
+- `W = "I am wealthy."`
+
+So "If I win the lotto, then I am wealthy" becomes `L ⊃ W`. See [translating and symbolising propositions](translating-symbolising).
 
 ## Related concepts
 [Argument](argument) · [Claim](claim) · [Premise](premise) · [Conclusion](conclusion) · [True and false](true-false) · [Logical operators](logical-operators) · [Descriptive and normative claims](descriptive-normative)

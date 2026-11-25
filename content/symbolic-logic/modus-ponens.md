@@ -4,7 +4,7 @@ title: Modus ponens
 type: logic-form
 units: [1]
 section: symbolic-logic
-status: checked
+status: approved
 related: [modus-tollens, affirming-the-consequent, denying-the-antecedent, hypothetical-syllogism, valid, sound, logical-operators, translating-symbolising]
 sources: [bland-reason-ch2-mp, bland-reason-confusion, forallx-17-4, carroll-1895, carroll-dates]
 ---
@@ -131,7 +131,7 @@ Carroll's A, B and Z are steps from Euclid's geometry:
 
 Carroll, "What the Tortoise Said to Achilles", p. 278.
 
-With C, and taking A and B together, the step to Z has the form of modus ponens: `(A & B) ⊃ Z, A & B ∴ Z`. The Tortoise then asks for that step to be written down as a further premise, then another, and the list never ends. On the standard reading, the regress shows that a rule of inference such as modus ponens cannot work as just one more premise. However many premises are written down, the step from premises to conclusion still has to be taken.
+With C, and taking A and B together, the step to Z has the form of modus ponens: `(A & B) ⊃ Z, A & B ∴ Z`.
 
 ## Related concepts
 [Modus tollens](modus-tollens) · [Affirming the consequent](affirming-the-consequent) · [Denying the antecedent](denying-the-antecedent) · [Hypothetical syllogism](hypothetical-syllogism) · [Deductively valid and invalid](valid) · [Sound and unsound](sound) · [Logical operators](logical-operators) · [Translating and symbolising propositions](translating-symbolising)

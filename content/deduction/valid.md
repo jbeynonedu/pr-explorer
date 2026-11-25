@@ -48,9 +48,18 @@ If an argument fits one of the valid named forms (see [classifying arguments](cl
 
 A truth table tests validity that depends on the logical operators (`~`, `&`, `∨`, `⊃`). It cannot test arguments whose validity depends on words such as "all" and "some"; see [classifying arguments](classifying-arguments).
 
-> If it is raining, then the oval is wet. The oval is wet. Therefore, it is raining.
+```sf
+1. If it is raining, then the oval is wet.
+2. The oval is wet.
+C. Therefore, it is raining.
+```
 
-Dictionary: `R = "It is raining."` `W = "The oval is wet."` Form: `R ⊃ W, W ∴ R`. This is the formal fallacy of [affirming the consequent](affirming-the-consequent). In the table, 1 = true and 0 = false.
+Dictionary:
+
+- `R = "It is raining."`
+- `W = "The oval is wet."`
+
+Form: `R ⊃ W, W ∴ R`. This is the formal fallacy of [affirming the consequent](affirming-the-consequent). In the table, 1 = true and 0 = false.
 
 | R | W | Premise 1: `R ⊃ W` | Premise 2: `W` | Conclusion: `R` |
 | --- | --- | --- | --- | --- |

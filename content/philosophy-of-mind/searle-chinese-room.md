@@ -34,7 +34,10 @@ In other words: Searle is doing exactly what a computer does, manipulating symbo
 
 ### Version 1: the thought experiment (1980)
 
-Dictionary: `S = "Strong AI is true."` `U = "Searle in the room understands Chinese."`
+Dictionary:
+
+- `S = "Strong AI is true."`
+- `U = "Searle in the room understands Chinese."`
 
 ```sf
 1. If strong AI is true, then any system that runs the right program for Chinese understands Chinese.
@@ -64,7 +67,13 @@ To make the inference to "not sufficient" explicit, you need two hidden premises
 - (HP1) If programs are purely syntactic and syntax is not sufficient for semantics, then programs are not sufficient for semantics.
 - (HP2) If minds have semantics and programs are not sufficient for semantics, then programs are not sufficient for minds.
 
-Dictionary: `A = "Programs are purely syntactic."` `B = "Minds have semantics."` `D = "Syntax is sufficient for semantics."` `E = "Programs are sufficient for semantics."` `M = "Programs are sufficient for minds."`
+Dictionary:
+
+- `A = "Programs are purely syntactic."`
+- `B = "Minds have semantics."`
+- `D = "Syntax is sufficient for semantics."`
+- `E = "Programs are sufficient for semantics."`
+- `M = "Programs are sufficient for minds."`
 
 `A, B, ~D, (A & ~D) ⊃ ~E, (B & ~E) ⊃ ~M ∴ ~M`
 

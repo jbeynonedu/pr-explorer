@@ -23,9 +23,16 @@ Some logic texts take a different approach. They sort every argument only by whe
 
 ## Example
 
-> If a cyclone warning is issued for Cairns, then Cairns schools will close. A cyclone warning has been issued for Cairns. Therefore, Cairns schools will close.
+```sf
+1. If a cyclone warning is issued for Cairns, then Cairns schools will close.
+2. A cyclone warning has been issued for Cairns.
+C. Therefore, Cairns schools will close.
+```
 
-Dictionary: `W = "A cyclone warning is issued for Cairns."` `S = "Cairns schools will close."`
+Dictionary:
+
+- `W = "A cyclone warning is issued for Cairns."`
+- `S = "Cairns schools will close."`
 
 ```sf
 1. W ⊃ S

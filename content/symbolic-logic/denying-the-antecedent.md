@@ -4,7 +4,7 @@ title: Denying the antecedent
 type: logic-form
 units: [1]
 section: symbolic-logic
-status: checked
+status: approved
 related: [modus-tollens, affirming-the-consequent, modus-ponens, valid, necessary-sufficient, hidden-premise]
 sources: [bland-reason-ch2-da, forallx-5-5-iff]
 ---

@@ -4,7 +4,7 @@ title: Hypothetical syllogism
 type: logic-form
 units: [1]
 section: symbolic-logic
-status: checked
+status: approved
 related: [modus-ponens, modus-tollens, constructive-dilemma, slippery-slope, valid, logical-operators]
 sources: [bland-reason-ch2-hs, bland-reason-ch3-hs-table, iep-prop-logic-hs]
 ---
