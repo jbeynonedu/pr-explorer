@@ -15,15 +15,15 @@ sound,Sound and unsound,term,1,2,Deduction,approved,,Approved by John 26 Nov 202
 necessary-sufficient,Necessary and sufficient conditions,term,1;2;3;4,2,Deduction,approved,,Approved by John 26 Nov 2026.
 classifying-arguments,Classifying arguments,term,1;2;3;4,2,Deduction,approved,,"Syllabus: classify arguments, e.g. inductive/deductive, argument type. Approved by John 26 Nov 2026."
 limits-of-deduction,Limitations of deduction,term,1,2,Deduction,approved,,Approved by John 26 Nov 2026.
-logical-operators,"Logical operators (~, &, ∨, ⊃)",term,1;2;3;4,3,Symbolic logic,briefed,,Includes operator truth tables
-translating-symbolising,Translating and symbolising propositions,term,1;2;3;4,3,Symbolic logic,briefed,,
-modus-ponens,Modus ponens,logic-form,1,3,Symbolic logic,briefed,,
+logical-operators,"Logical operators (~, &, ∨, ⊃)",term,1;2;3;4,3,Symbolic logic,sourced,,Includes operator truth tables
+translating-symbolising,Translating and symbolising propositions,term,1;2;3;4,3,Symbolic logic,sourced,,
+modus-ponens,Modus ponens,logic-form,1,3,Symbolic logic,sourced,,
 modus-tollens,Modus tollens,logic-form,1,3,Symbolic logic,approved,yes,Approved by John 25 Nov 2026.
-hypothetical-syllogism,Hypothetical syllogism,logic-form,1,3,Symbolic logic,briefed,,
-disjunctive-syllogism,Disjunctive syllogism,logic-form,1,3,Symbolic logic,briefed,,
-constructive-dilemma,Constructive dilemma,logic-form,1,3,Symbolic logic,briefed,,
-affirming-the-consequent,Affirming the consequent,logic-form,1,3,Symbolic logic,briefed,,Formal fallacy
-denying-the-antecedent,Denying the antecedent,logic-form,1,3,Symbolic logic,briefed,,Formal fallacy
+hypothetical-syllogism,Hypothetical syllogism,logic-form,1,3,Symbolic logic,sourced,,
+disjunctive-syllogism,Disjunctive syllogism,logic-form,1,3,Symbolic logic,sourced,,
+constructive-dilemma,Constructive dilemma,logic-form,1,3,Symbolic logic,sourced,,
+affirming-the-consequent,Affirming the consequent,logic-form,1,3,Symbolic logic,sourced,,Formal fallacy
+denying-the-antecedent,Denying the antecedent,logic-form,1,3,Symbolic logic,sourced,,Formal fallacy
 ad-populum,Ad populum (illicit appeal to popular opinion/bandwagon fallacy),fallacy,1,4,Informal fallacies,not-started,,
 appeal-to-nature,Illicit appeal to nature,fallacy,1,4,Informal fallacies,not-started,,
 tu-quoque,Tu quoque (illicit appeal to hypocrisy),fallacy,1,4,Informal fallacies,not-started,,
