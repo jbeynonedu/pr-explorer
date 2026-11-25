@@ -4,7 +4,7 @@ title: Purposes of argument (explain, justify, analyse, evaluate)
 type: term
 units: [1]
 section: building-blocks
-status: checked
+status: approved
 related: [argument, claim, standard-form, hidden-premise, justification-persuasion, valid, sound, strong-weak]
 sources: [qcaa-cognitive-verb-framework, syllabus-objectives, bland-reason-ch1-qcaa, vancleave-1-3]
 ---

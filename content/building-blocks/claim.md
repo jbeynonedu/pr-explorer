@@ -4,7 +4,7 @@ title: Claim
 type: term
 units: [1]
 section: building-blocks
-status: checked
+status: approved
 related: [proposition, argument, premise, conclusion, true-false, plausible, credible, descriptive-normative]
 sources: [bland-reason-ch1-claim, syllabus-p7]
 ---

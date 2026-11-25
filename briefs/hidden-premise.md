@@ -45,3 +45,6 @@ Two short `sf` pairs (before/after). No diagram.
 
 ## Scope decision (John, 25 Nov 2026)
 Approved. Q1: include the most-plausible-premise guidance and the principle of charity. Q2: include the warning about a hidden premise that just restates "if the premises, then the conclusion", as a common mistake. Hidden conclusions are covered properly here.
+
+## Approval (John, 25 Nov 2026)
+Entry approved. Length (~435 words incl. sf blocks) accepted.

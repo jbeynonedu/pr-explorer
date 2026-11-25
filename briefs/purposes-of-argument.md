@@ -45,3 +45,6 @@ Possibly a small 2×2 table (purpose / question it answers / example). No diagra
 
 ## Scope decision (John, 25 Nov 2026)
 Approved. Q1: one entry with four short sections. Q2: an explanation has the same premise-conclusion structure but a different purpose. Q3: adapt the QCAA cognitive-verb definitions, credited, rather than quote them as definitions of the purposes.
+
+## Approval (John, 25 Nov 2026)
+Entry approved.

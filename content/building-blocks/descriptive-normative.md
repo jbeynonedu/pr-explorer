@@ -4,7 +4,7 @@ title: Descriptive and normative claims
 type: term
 units: [1]
 section: building-blocks
-status: checked
+status: approved
 related: [proposition, claim, hidden-premise, is-ought, morality, value]
 sources: [bland-reason-ch1-desc, sep-moral-cognitivism]
 ---

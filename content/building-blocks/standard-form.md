@@ -4,7 +4,7 @@ title: Standard form
 type: term
 units: [1]
 section: building-blocks
-status: checked
+status: approved
 related: [argument, premise, conclusion, hidden-premise, translating-symbolising, deduction, induction]
 sources: [bland-reason-ch1-sf, bland-reason-ch3-mistakes, syllabus-p7, forallx-calgary-ch1]
 ---

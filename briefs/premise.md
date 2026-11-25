@@ -41,3 +41,6 @@ None.
 
 ## Scope decision (John, 25 Nov 2026)
 Approved. Q1: indicator words sourced from forall x: Calgary. Q2: premise indicators here, conclusion indicators in *conclusion*, both used in *standard form*.
+
+## Approval (John, 25 Nov 2026)
+Entry approved.

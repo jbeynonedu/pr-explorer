@@ -38,3 +38,6 @@ One `sf` block showing IC1, IC2 and C (Bland's pool/swim example, p. 15, recast)
 
 ## Scope decision (John, 25 Nov 2026)
 Approved. Q1: hidden conclusions mentioned here briefly or not at all; covered properly in *hidden premise*. Conclusion indicators from forall x: Calgary (see *premise* decision).
+
+## Approval (John, 25 Nov 2026)
+Entry approved.

@@ -45,3 +45,6 @@ One `sf` block (the worked example). No diagram.
 
 ## Scope decision (John, 25 Nov 2026)
 Approved. Q1: define without "factual" (the conclusion can be any proposition). Q2: yes, say a bad argument is still an argument.
+
+## Approval (John, 25 Nov 2026)
+Entry approved. Butler example (forall x) in place of Bland's Penny example accepted.

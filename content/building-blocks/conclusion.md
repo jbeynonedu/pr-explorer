@@ -4,7 +4,7 @@ title: Conclusion
 type: term
 units: [1]
 section: building-blocks
-status: checked
+status: approved
 related: [premise, argument, claim, standard-form, hidden-premise]
 sources: [bland-reason-ch1-conclusion, forallx-calgary-ch1]
 ---

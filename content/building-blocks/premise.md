@@ -4,7 +4,7 @@ title: Premise
 type: term
 units: [1]
 section: building-blocks
-status: checked
+status: approved
 related: [conclusion, argument, claim, hidden-premise, standard-form, sound, strong-weak]
 sources: [bland-reason-ch1-premise, forallx-calgary-ch1]
 ---

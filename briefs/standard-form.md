@@ -46,3 +46,6 @@ Out of scope for this entry (linked instead): symbolising (section 3); evaluatio
 
 ## Scope decision (John, 25 Nov 2026)
 Approved, 250–450 words. Q1: `1.` / `C.` throughout, confirmed. Q2: include an argument map (Mermaid) for a chain with intermediate conclusions (John clarified 25 Nov).
+
+## Approval (John, 25 Nov 2026)
+Entry approved. Phones-in-class example kept.

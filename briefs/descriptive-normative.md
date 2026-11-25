@@ -41,3 +41,6 @@ None.
 
 ## Scope decision (John, 25 Nov 2026)
 Approved. Q1: leave analytic/synthetic out. Q2: keep the single normative (evaluative) category.
+
+## Approval (John, 25 Nov 2026)
+Entry approved.

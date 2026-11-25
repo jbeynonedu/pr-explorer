@@ -4,7 +4,7 @@ title: Hidden premise
 type: term
 units: [1]
 section: building-blocks
-status: checked
+status: approved
 related: [premise, conclusion, standard-form, descriptive-normative, is-ought, valid]
 sources: [bland-reason-ch1-hidden, syllabus-p7, vancleave-1-9, trivial-conditional]
 ---

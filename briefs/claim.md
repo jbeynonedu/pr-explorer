@@ -41,3 +41,6 @@ None.
 
 ## Scope decision (John, 25 Nov 2026)
 Approved. Q1: use "a claim on its own gives no reason to accept it". Q2: yes, mention that an essay's central thesis is a claim, briefly.
+
+## Approval (John, 25 Nov 2026)
+Entry approved. Phones-in-class example kept.

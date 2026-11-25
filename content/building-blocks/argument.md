@@ -4,7 +4,7 @@ title: Argument
 type: term
 units: [1]
 section: building-blocks
-status: checked
+status: approved
 related: [claim, proposition, premise, conclusion, standard-form, hidden-premise, purposes-of-argument, deduction, induction]
 sources: [bland-reason-ch1-argument, forallx-calgary-ch1, syllabus-p7]
 ---
