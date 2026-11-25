@@ -19,11 +19,11 @@ Why this matters:
 
 
 ## forallx-ch2-limits
-P. D. Magnus, Tim Button, Robert Trueman, Richard Zach, *forall x: Calgary*, Fall 2025 edition. CC BY 4.0. Text copied by script from the LaTeX source, github.com/rzach/forallx-yyc, commit bb86fe9 (22 Oct 2026); LaTeX markup removed; **notation converted** to syllabus symbols (`⊃`, `&`). Locators are chapter/section in the LaTeX source (chapter numbers inferred from the order of files in `forallx-yyc-content.tex`; confirm against the PDF); PDF page numbers to be added from John's PDF (`forallxyyc.pdf`) at Checked.
+P. D. Magnus, Tim Button, Robert Trueman, Richard Zach, *forall x: Calgary*, Fall 2025 edition. CC BY 4.0. Text copied by script from the LaTeX source, github.com/rzach/forallx-yyc, commit bb86fe9 (22 Oct 2026); LaTeX markup removed; **notation converted** to syllabus symbols (`⊃`, `&`). Wording and page numbers checked by script against the Fall 2025 PDF in the Project (`forallxyyc.pdf`), 25 Nov 2026; chapter numbers confirmed from its running heads.
 
-> Arguments in this sense are used all the time in everyday and scientific discourse. When they are, arguments are given to support or even prove their conclusions. Now, if an argument is valid, it will support its conclusion, but only if its premises are all true. Validity rules out the possibility that the premises are true and the conclusion is not true at the same time. It does not, by itself, rule out the possibility that the conclusion is not true, period. In other words, it is perfectly possibly for a valid argument to have a conclusion that isn't true! (ch. 2 §2.4)
+> Arguments in this sense are used all the time in everyday and scientific discourse. When they are, arguments are given to support or even prove their conclusions. Now, if an argument is valid, it will support its conclusion, but only if its premises are all true. Validity rules out the possibility that the premises are true and the conclusion is not true at the same time. It does not, by itself, rule out the possibility that the conclusion is not true, period. In other words, it is perfectly possibly for a valid argument to have a conclusion that isn’t true! (ch. 2 §2.4, p. 14)
 
-> The flip side of this is that when you want to rebut an argument, you have two options: you can show that (one or more of) the premises are not true, or you can show that the argument is not valid. Logic, however, will only help you with the latter! (ch. 2 §2.4)
+> The flip side of this is that when you want to rebut an argument, you have two options: you can show that (one or more of) the premises are not true, or you can show that the argument is not valid. Logic, however, will only help you with the latter! (ch. 2 §2.4, p. 15)
 
 (Supports "validity is not truth" and "logic alone cannot settle whether premises are true".)
 

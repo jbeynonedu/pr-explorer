@@ -50,11 +50,11 @@ Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of
 Supports brief item 5 (John approved, 25 Nov 2026). An extra counterexample worth using: forall x's Calgary snow argument (below) is inductive and runs from particular past cases to a particular future case.
 
 ## forallx-ch2-inductive
-P. D. Magnus, Tim Button, Robert Trueman, Richard Zach, *forall x: Calgary*, Fall 2025 edition. CC BY 4.0. Text copied by script from the LaTeX source, github.com/rzach/forallx-yyc, commit bb86fe9 (22 Oct 2026); LaTeX markup removed; **notation converted** to syllabus symbols (`⊃`, `&`). Locators are chapter/section in the LaTeX source (chapter numbers inferred from the order of files in `forallx-yyc-content.tex`; confirm against the PDF); PDF page numbers to be added from John's PDF (`forallxyyc.pdf`) at Checked.
+P. D. Magnus, Tim Button, Robert Trueman, Richard Zach, *forall x: Calgary*, Fall 2025 edition. CC BY 4.0. Text copied by script from the LaTeX source, github.com/rzach/forallx-yyc, commit bb86fe9 (22 Oct 2026); LaTeX markup removed; **notation converted** to syllabus symbols (`⊃`, `&`). Wording and page numbers checked by script against the Fall 2025 PDF in the Project (`forallxyyc.pdf`), 25 Nov 2026; chapter numbers confirmed from its running heads.
 
-> Many good arguments are invalid. Consider this one: (ch. 2 §2.5)
+> Many good arguments are invalid. Consider this one: (ch. 2 §2.5, p. 16)
 
-Example (ch. 2 §2.5): "Every winter so far, it has snowed in Calgary. ∴ It will snow in Calgary this coming winter."
-> The point of all this is that inductive arguments—even good inductive arguments—are not (deductively) valid. They are not watertight. Unlikely though it might be, it is possible for their conclusion to be false, even when all of their premises are true. In this book, we will set aside (entirely) the question of what makes for a good inductive argument. Our interest is simply in sorting the (deductively) valid arguments from the invalid ones. (ch. 2 §2.5)
+Example (ch. 2 §2.5, p. 16): "Every winter so far, it has snowed in Calgary. ∴ It will snow in Calgary this coming winter."
+> The point of all this is that inductive arguments—even good inductive arguments—are not (deductively) valid. They are not watertight. Unlikely though it might be, it is possible for their conclusion to be false, even when all of their premises are true. In this book, we will set aside (entirely) the question of what makes for a good inductive argument. Our interest is simply in sorting the (deductively) valid arguments from the invalid ones. (ch. 2 §2.5, p. 16)
 
 **Terminology flag:** as in the deduction pack; forall x calls inductive arguments "invalid". Not house style.

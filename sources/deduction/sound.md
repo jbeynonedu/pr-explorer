@@ -25,11 +25,11 @@ Greg Bland, *Reason: A Guide to Argument and Critical Reasoning*, Revised Editio
 
 
 ## forallx-ch2-sound
-P. D. Magnus, Tim Button, Robert Trueman, Richard Zach, *forall x: Calgary*, Fall 2025 edition. CC BY 4.0. Text copied by script from the LaTeX source, github.com/rzach/forallx-yyc, commit bb86fe9 (22 Oct 2026); LaTeX markup removed; **notation converted** to syllabus symbols (`⊃`, `&`). Locators are chapter/section in the LaTeX source (chapter numbers inferred from the order of files in `forallx-yyc-content.tex`; confirm against the PDF); PDF page numbers to be added from John's PDF (`forallxyyc.pdf`) at Checked.
+P. D. Magnus, Tim Button, Robert Trueman, Richard Zach, *forall x: Calgary*, Fall 2025 edition. CC BY 4.0. Text copied by script from the LaTeX source, github.com/rzach/forallx-yyc, commit bb86fe9 (22 Oct 2026); LaTeX markup removed; **notation converted** to syllabus symbols (`⊃`, `&`). Wording and page numbers checked by script against the Fall 2025 PDF in the Project (`forallxyyc.pdf`), 25 Nov 2026; chapter numbers confirmed from its running heads.
 
-> When we use an argument to prove that its conclusion is true, then, we need two things. First, we need the argument to be valid; i.e., we need the conclusion to follow from the premises. But we also need the premises to be true. We will say that an argument is sound if and only if it is both valid and all of its premises are true. (ch. 2 §2.4 'Sound arguments')
+> When we use an argument to prove that its conclusion is true, then, we need two things. First, we need the argument to be valid; i.e., we need the conclusion to follow from the premises. But we also need the premises to be true. We will say that an argument is sound if and only if it is both valid and all of its premises are true. (ch. 2 §2.4 'Sound arguments', p. 15)
 
-> The flip side of this is that when you want to rebut an argument, you have two options: you can show that (one or more of) the premises are not true, or you can show that the argument is not valid. Logic, however, will only help you with the latter! (ch. 2 §2.4)
+> The flip side of this is that when you want to rebut an argument, you have two options: you can show that (one or more of) the premises are not true, or you can show that the argument is not valid. Logic, however, will only help you with the latter! (ch. 2 §2.4, p. 15)
 
 True conclusion does not make an argument sound (or valid): London/Beijing/Paris example, valid pack.
 

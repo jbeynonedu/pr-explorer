@@ -23,18 +23,18 @@ Boxes (pp. 42–43): NECESSITY "If A is necessary for B, then we can say: B ⊃ 
 - `≡` not a syllabus operator. John's decision: `(A ⊃ B) & (B ⊃ A)`, with `≡` in a note. forall x supports this form (below).
 
 ## forallx-ch5-conditional-biconditional
-P. D. Magnus, Tim Button, Robert Trueman, Richard Zach, *forall x: Calgary*, Fall 2025 edition. CC BY 4.0. Text copied by script from the LaTeX source, github.com/rzach/forallx-yyc, commit bb86fe9 (22 Oct 2026); LaTeX markup removed; **notation converted** to syllabus symbols (`⊃`, `&`). Locators are chapter/section in the LaTeX source (chapter numbers inferred from the order of files in `forallx-yyc-content.tex`; confirm against the PDF); PDF page numbers to be added from John's PDF (`forallxyyc.pdf`) at Checked.
+P. D. Magnus, Tim Button, Robert Trueman, Richard Zach, *forall x: Calgary*, Fall 2025 edition. CC BY 4.0. Text copied by script from the LaTeX source, github.com/rzach/forallx-yyc, commit bb86fe9 (22 Oct 2026); LaTeX markup removed; **notation converted** to syllabus symbols (`⊃`, `&`). Wording and page numbers checked by script against the Fall 2025 PDF in the Project (`forallxyyc.pdf`), 25 Nov 2026; chapter numbers confirmed from its running heads.
 
-Example sentences (ch. 5 §5.4 'Conditional'): "If Jean is in Paris, then Jean is in France." / "Jean is in France only if Jean is in Paris."
-> In fact, [sentence 2] can be paraphrased as ‘If Jean is in France, then Jean is in Paris’. So we can symbolize it by ‘(F ⊃ P)’. A sentence can be symbolized as (A ⊃ B) if it can be paraphrased in English as ‘If A, then B’ or ‘A only if B’. (ch. 5 §5.4)
+Example sentences (ch. 5 §5.4 'Conditional', p. 40): "25. If Jean is in Paris, then Jean is in France." / "26. Jean is in France only if Jean is in Paris."
+> In fact, sentence 26 can be paraphrased as ‘If Jean is in France, then Jean is in Paris’. So we can symbolize it by ‘(F ⊃ P)’. A sentence can be symbolized as (A ⊃ B) if it can be paraphrased in English as ‘If A, then B’ or ‘A only if B’. (ch. 5 §5.4, p. 40)
 
-Sentences (§5.4): "For Jean to be in Paris, it is necessary that Jean be in France." "It is a necessary condition on Jean's being in Paris that she be in France." "For Jean to be in France, it is sufficient that Jean be in Paris." "It is a sufficient condition on Jean's being in France that she be in Paris."
-> If we think about it, all four of these sentences mean the same as ‘If Jean is in Paris, then Jean is in France’. So they can all be symbolized by ‘(P ⊃ F)’. It is important to bear in mind that the connective ‘⊃’ tells us only that, if the antecedent is true, then the consequent is true. It says nothing about a causal connection between two events (for example). In fact, we lose a huge amount when we use ‘⊃’ to symbolize English conditionals. [...] (ch. 5 §5.4)
+Sentences (§5.4, pp. 40–41): "27. For Jean to be in Paris, it is necessary that Jean be in France." "28. It is a necessary condition on Jean's being in Paris that she be in France." "29. For Jean to be in France, it is sufficient that Jean be in Paris." "30. It is a sufficient condition on Jean's being in France that she be in Paris."
+> If we think about it, all four of these sentences mean the same as ‘If Jean is in Paris, then Jean is in France’. So they can all be symbolized by ‘(P ⊃ F)’. It is important to bear in mind that the connective ‘⊃’ tells us only that, if the antecedent is true, then the consequent is true. It says nothing about a causal connection between two events (for example). In fact, we lose a huge amount when we use ‘⊃’ to symbolize English conditionals. [...] (ch. 5 §5.4, p. 41)
 
 (The last sentence supports a caveat on Bland's "causal" kind: the conditional itself does not express causation.)
 
-Sentences (ch. 5 §5.5 'Biconditional'): "1. Laika is a dog only if she is a mammal. 2. Laika is a dog if she is a mammal. 3. Laika is a dog if and only if she is a mammal."
-> [Sentence 3] says something stronger than either [sentence 1] or [sentence 2]. It can be paraphrased as ‘Laika is a dog if Laika is a mammal, and Laika is a dog only if Laika is a mammal’. This is just the conjunction of [sentences 1 and 2]. So we can symbolize it as ‘(D ⊃ M) & (M ⊃ D)’. We call this a biconditional, because it amounts to stating both directions of the conditional. (ch. 5 §5.5)
+Sentences (ch. 5 §5.5 'Biconditional', p. 41): "31. Laika is a dog only if she is a mammal. 32. Laika is a dog if she is a mammal. 33. Laika is a dog if and only if she is a mammal."
+> Sentence 33 says something stronger than either sentence 31 or sentence 32. It can be paraphrased as ‘Laika is a dog if Laika is a mammal, and Laika is a dog only if Laika is a mammal’. This is just the conjunction of sentences 31 and 32. So we can symbolize it as ‘(D ⊃ M) & (M ⊃ D)’. We call this a biconditional, because it amounts to stating both directions of the conditional. (ch. 5 §5.5, p. 41)
 
 
 ## Searle link
