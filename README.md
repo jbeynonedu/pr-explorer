@@ -20,4 +20,4 @@ Syllabus extracts © State of Queensland (QCAA) 2026, CC BY 4.0. Material adapte
 
 ## Where the next chat picks up (25 Nov 2026)
 1. **Site shell: built.** Preview republished at the bubble prototype's link. John to look it over (layout, section blurbs in `build_site.py`, footer wording). GitHub Pages at launch: build with `--public` to `docs/index.html` and enable Pages from `/docs`.
-2. **Phase 1, Section 1: Building blocks.** Scope approved by John for all eight remaining entries (decisions at the foot of each brief). Next: Sourced (forall x: Calgary ch. 1 for indicator words and the argument definition; QCAA Cognitive verb framework; a source for the principle of charity and for argument vs explanation; Bland extracts from the Project file).
+2. **Phase 1, Section 1: Building blocks.** Scope approved (decisions at the foot of each brief). Seven entries **sourced** (`sources/building-blocks/`). *Purposes of argument* waits on the QCAA Cognitive verb framework PDF (QCAA site blocks the fetch tool; John to add it to the Project). Next: Drafted, one entry at a time, starting with Argument.
