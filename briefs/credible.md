@@ -4,7 +4,7 @@ type: term
 section: claims-real-world
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Credible (term)
@@ -35,7 +35,7 @@ Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026). 
 Optional: a short checklist box for judging a source. Proposed: yes, as a formatted list, not a diagram.
 
 ## Scope decision (John, 26 Nov 2026)
-See the section note: Q1 (plausible), Q2, Q3, Q4, Q5 and Q7 decided; Q6, Q8, Q9, Q11 and this entry's own questions pending.
+Scope approved: all section questions and this entry's questions decided; see the section note.
 
 ## Questions for John
 1. ~~Section Q1 and Q2~~ decided (plausible is face value, not source; source credibility matters for testimony, never for validity or strength).

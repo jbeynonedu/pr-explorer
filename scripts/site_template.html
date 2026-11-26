@@ -132,6 +132,8 @@ footer p{max-width:90ch;margin:0 auto 6px;text-align:center}
 .map-full .bar button{font:inherit;padding:6px 12px;border-radius:8px;border:1px solid currentColor;background:none;color:inherit;cursor:pointer}
 .map-full .canvas{flex:1;overflow:auto;padding:16px;touch-action:pan-x pan-y pinch-zoom}
 .map-full .canvas svg{display:block;margin:0 auto;max-width:none!important;height:auto}
+/* argument maps take the entry's branch colour (Reason cobalt, Philosophy coral; John, 26 Nov 2026) */
+:is(.map,.map-full) svg .node :is(rect,polygon,circle,ellipse,path){fill:var(--soft)!important;stroke:var(--c)!important}
 {{TABS_CSS}}</style>
 </head>
 <body>
@@ -277,7 +279,7 @@ document.addEventListener('click',e=>{
  const b=e.target.closest('.map-expand');if(!b)return;
  const svg=b.parentElement.querySelector('svg');if(!svg)return;
  const vb=(svg.getAttribute('viewBox')||'').split(/\s+/).map(Number),natW=vb[2]||svg.getBoundingClientRect().width;
- const o=document.createElement('div');o.className='map-full';o.setAttribute('role','dialog');o.setAttribute('aria-modal','true');o.setAttribute('aria-label','Argument map, full screen');
+ const o=document.createElement('div');o.className='map-full';{const art=b.closest('.entry');if(art)o.style.cssText=art.style.cssText}o.setAttribute('role','dialog');o.setAttribute('aria-modal','true');o.setAttribute('aria-label','Argument map, full screen');
  o.innerHTML='<div class="bar"><span>Argument map</span><button data-z="-1" aria-label="Zoom out">−</button><button data-z="1" aria-label="Zoom in">+</button><button data-z="0">Fit</button><button class="close">Close</button></div><div class="canvas"></div>';
  const c=o.querySelector('.canvas'),s=svg.cloneNode(true);s.removeAttribute('style');c.appendChild(s);
  const fit=()=>Math.max(natW,Math.min(window.innerWidth-40,natW*2.2));let w=fit();

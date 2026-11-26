@@ -62,15 +62,17 @@ Applies to all 7 entries. Entry briefs hold entry-specific scope and questions.
 11. **Drafting order.** Proposed: true-false → plausible → credible → justification-persuasion → cognitive-bias → confirmation-bias → misuse-of-argument (it links to all the others).
 
 ## Scope decision (John, 26 Nov 2026)
-1. **Plausible**: almost synonymous with possible; it makes sense on face value, and does *not* lean towards credibility. Plausibility is judged from the claim itself, not its source or support. Raised with John: "plausible" is usually stronger than "logically possible" (a possible claim can be implausible); wording to confirm (see `plausible.md`).
+1. **Plausible**: almost synonymous with possible; it makes sense on face value, and does *not* lean towards credibility. Plausibility is judged from the claim itself, not its source or support. Raised with John: "plausible" is usually stronger than "logically possible"; agreed wording in item list below.
 2. Agreed: source credibility never changes validity or strength; it matters when accepting a claim on someone's word.
 3. Agreed: correspondence as the working account; coherence and pragmatic in a sentence or two each. Not too detailed.
 4. Agreed: "Questions to explore" (2–3 open questions) in `justification-persuasion`, `cognitive-bias`, `confirmation-bias`, `misuse-of-argument`. Style guide §8 updated.
 5. Approved: `misuse-of-argument` at 900–1,300 words in four tabs. Style guide §8 updated.
-6. No answer yet (paired political examples; tobacco memo; Lord, Ross and Lepper).
+6. Agreed: paired constructed political examples; the tobacco memo (wording and date to verify); Lord, Ross and Lepper (1979).
 7. Agreed: three or four well-sourced biases, with heuristics explained.
-8. No answer yet (Hume, Plato, Bacon quotations).
-9. No answer yet (2-4-6 interactive).
+8. Proceeding with one short public-domain quotation each (Hume in `credible`, Plato in `justification-persuasion`, Bacon in `confirmation-bias`); John to remove any at review.
+9. Agreed: 2-4-6 interactive in `confirmation-bias`, if Wason's procedure is sourced exactly.
 10. No Unit 1 material of John's own (only a copyrighted text, not used). Bland plus the sources above stand in.
-11. No answer yet (drafting order).
-- Entry-level smaller questions ("true for me"; red herring; two-by-two grid): no answer yet.
+11. Agreed: true-false → plausible → credible → justification-persuasion → cognitive-bias → confirmation-bias → misuse-of-argument.
+- Agreed: "true for me" as a common mistake in `true-false`; red herring in one line in `misuse-of-argument`; the two-by-two grid in `justification-persuasion`.
+- Plausible wording confirmed: "A claim is plausible if it makes sense on face value: nothing about the claim itself makes it hard to believe. This is more than being merely possible, and less than being credible or true."
+- **Scope approved** (John, 26 Nov 2026). Next: Sourced.

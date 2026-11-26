@@ -4,7 +4,7 @@ type: term
 section: claims-real-world
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Plausible (term)
@@ -40,4 +40,4 @@ None proposed.
 ## Scope decision (John, 26 Nov 2026)
 Plausible is almost synonymous with possible: it makes sense on face value, and does not lean towards credibility.
 
-Raised with John (to confirm wording): "plausible" is usually stronger than "logically possible". "I will win the lottery every week this year" is possible but not plausible. Proposed definition sentence: "A claim is plausible if it makes sense on face value: nothing about the claim itself makes it hard to believe. This is more than being merely possible, and less than being credible or true." The approved `sound` gloss "(it appears to be true)" is consistent with this.
+Raised with John; wording **confirmed** 26 Nov 2026: "plausible" is usually stronger than "logically possible". "I will win the lottery every week this year" is possible but not plausible. Proposed definition sentence: "A claim is plausible if it makes sense on face value: nothing about the claim itself makes it hard to believe. This is more than being merely possible, and less than being credible or true." The approved `sound` gloss "(it appears to be true)" is consistent with this.

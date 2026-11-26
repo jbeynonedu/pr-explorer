@@ -70,7 +70,7 @@
 ## 9. Visuals
 - Use a visual only where it explains something prose cannot: truth tables (interactive for logic forms), Venn/Euler diagrams, argument maps, process diagrams (e.g. the falsification cycle), concept diagrams (e.g. state of nature → social contract).
 - Label every visual. Keep it accessible: no meaning carried by colour alone. Add a text alternative only where the visual is not self-explanatory; a clearly labelled diagram or a caption usually suffices. (John, 26 Nov 2026)
-- Colour by branch: Reason cobalt, Philosophy coral.
+- Colour by branch: Reason cobalt, Philosophy coral. Argument maps follow the entry's branch too (both templates set this; John, 26 Nov 2026).
 
 ## 10. Entry file format (repo)
 `content/<section>/<entry-id>.md` with front matter:

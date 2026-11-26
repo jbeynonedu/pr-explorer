@@ -4,7 +4,7 @@ type: term
 section: claims-real-world
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Confirmation bias (term)

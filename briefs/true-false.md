@@ -4,7 +4,7 @@ type: term
 section: claims-real-world
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: True and false (term)
@@ -36,7 +36,7 @@ Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026). 
 None proposed.
 
 ## Scope decision (John, 26 Nov 2026)
-See the section note: Q1 (plausible), Q2, Q3, Q4, Q5 and Q7 decided; Q6, Q8, Q9, Q11 and this entry's own questions pending.
+Scope approved: all section questions and this entry's questions decided; see the section note.
 
 ## Questions for John
 1. ~~Section Q3~~ decided: correspondence as the working account, others in a sentence or two; not too detailed.
