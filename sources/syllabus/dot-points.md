@@ -6,6 +6,8 @@ Copied from the syllabus PDF in the Project. Page numbers are the syllabus's own
 
 ## Unit 1, Topic 1: Fundamentals of reason (pp. 11–12)
 
+Topic description (p. 11): "In this topic, students examine the characteristics of deductive and inductive arguments, and the criteria for evaluating arguments and their constituent claims. Students use modern symbolic language as an effective system for the analysis and evaluation of arguments. Students identify common formal and informal fallacies of reasoning, and consider the impact of cognitive biases on effective reasoning. Students incorporate these principles in the construction of their own logical arguments."
+
 **Define and use terminology relating to**
 - the composition of argument, including argument, claim, proposition, premise, conclusion
 - the structure of argument, including deduction, induction, analogy, generalisation
@@ -23,6 +25,13 @@ Copied from the syllabus PDF in the Project. Page numbers are the syllabus's own
 - translate and symbolise propositions using logical operators: negation ( ~ ), conjunction ( & ), inclusive disjunction ( ∨ ), conditional ( ⊃ )
 - identify valid argument structures and symbolise using logical operators, including modus ponens, modus tollens, hypothetical syllogism, disjunctive syllogism, constructive dilemma
 - identify and symbolise using logical operators the formal fallacies of affirming the consequent and denying the antecedent
+
+**Generate questions and theses regarding issues such as** (p. 12)
+- the use and misuse of argument in contexts such as political discourse, advertising, scientific debate
+- the difference between justification and persuasion, and the resulting difference in the quality of argument
+- the impact of cognitive bias on reasoning, e.g. confirmation bias.
+
+**Synthesise** ideas and information from a range of sources such as print and digital media, film and television, and philosophical texts. (p. 12)
 
 **Evaluate** claims and arguments from a range of sources using appropriate criteria such as truth, validity, soundness and/or strength.
 
