@@ -4,7 +4,7 @@ type: argument
 section: philosophy-of-religion
 units: [2]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Ontological argument(s) (argument)
@@ -21,7 +21,7 @@ Unit 2 Topic 1, p. 14:
 Full text in `sources/syllabus/dot-points.md`.
 
 ## John's unit material
-Not yet in the Project (section Q1). Memory notes modal notation material for this argument.
+Religion OneNote (Project), summarised in the section note. Also: modal notation material for this argument.
 
 ## Proposed scope (1,500–2,200 words, in tabs)
 1. **The argument (tab)**: what makes it ontological: a priori, from the concept of God alone. Define *a priori* and *a posteriori* here once (other argument entries link to this). Anselm (dates to source), *Proslogion* 2: extract with gloss; ch. 3 (God cannot be conceived not to exist) briefly. Descartes, *Meditation* V: existence belongs to God's essence as three angles summing to two right angles belong to a triangle (wording from the fetched text).
@@ -48,3 +48,6 @@ Argument map (required). Standard-form blocks.
 1. Descartes's version: include (proposed yes, short)?
 2. Modal version: prose only, or □/◇ in a box (section Q4)?
 3. Malcolm's version: not proposed. Include?
+
+## Scope decision (John, 27 Nov 2026)
+Approved; see the section note "Scope decisions".

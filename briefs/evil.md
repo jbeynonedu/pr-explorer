@@ -4,7 +4,7 @@ type: term
 section: philosophy-of-religion
 units: [2; 3]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Evil (term)
@@ -22,7 +22,7 @@ Unit 3 Topic 1, p. 18:
 Full text in `sources/syllabus/dot-points.md`.
 
 ## John's unit material
-Not yet in the Project (section Q1). 
+Religion OneNote (Project), summarised in the section note. 
 
 ## Proposed scope (400–550 words)
 1. **Two uses**: broad (anything bad: suffering, harm, wrongdoing; the sense in the problem of evil) and narrow (extreme moral wrongdoing, as in "an evil act"; the sense debated in ethics).
@@ -40,3 +40,6 @@ None.
 
 ## Questions for John
 1. Augustine on privation here (proposed), with the theodicy itself in `problem-of-evil`?
+
+## Scope decision (John, 27 Nov 2026)
+Approved; see the section note "Scope decisions".

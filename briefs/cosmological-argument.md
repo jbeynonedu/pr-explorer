@@ -4,7 +4,7 @@ type: argument
 section: philosophy-of-religion
 units: [2]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Cosmological argument(s) (argument)
@@ -21,7 +21,7 @@ Unit 2 Topic 1, p. 14:
 Full text in `sources/syllabus/dot-points.md`.
 
 ## John's unit material
-Not yet in the Project (section Q1). Memory notes materials on Aquinas's Five Ways.
+Religion OneNote (Project), summarised in the section note. Also: materials on Aquinas's Five Ways.
 
 ## Proposed scope (1,500–2,200 words, in tabs)
 1. **The argument (tab)**: what cosmological arguments share: a posteriori, from the existence of the universe (or of change, causes, contingent things) to a first or necessary cause. Three versions:
@@ -51,3 +51,6 @@ Argument map (required).
 ## Questions for John
 1. Three versions (Aquinas, kalam, Leibniz), or two?
 2. All of Aquinas's first three Ways, or the Second and Third only?
+
+## Scope decision (John, 27 Nov 2026)
+Approved; see the section note "Scope decisions".

@@ -4,7 +4,7 @@ type: term
 section: philosophy-of-religion
 units: [2; 3]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Good (term)
@@ -22,7 +22,7 @@ Unit 3 Topic 1, p. 18:
 Full text in `sources/syllabus/dot-points.md`.
 
 ## John's unit material
-Not yet in the Project (section Q1). 
+Religion OneNote (Project), summarised in the section note. 
 
 ## Proposed scope (450–600 words)
 1. **Senses of "good"**: moral and non-moral (a good knife vs a good person); intrinsic and instrumental good. Good as a normative term (link `descriptive-normative`, `is-ought`; `appeal-to-nature` for "natural" ≠ "good", not repeated).
@@ -41,3 +41,6 @@ Optional: the Euthyphro dilemma as a two-branch diagram. Proposed: `sf` block on
 ## Questions for John
 1. Euthyphro here (proposed) or in a Unit 3 entry?
 2. Section Q6: one shared entry with a short Unit 3 part?
+
+## Scope decision (John, 27 Nov 2026)
+Approved; see the section note "Scope decisions".

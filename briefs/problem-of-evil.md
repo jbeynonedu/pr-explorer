@@ -4,7 +4,7 @@ type: argument
 section: philosophy-of-religion
 units: [2]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: The problem of evil/suffering (argument)
@@ -21,7 +21,7 @@ Unit 2 Topic 1, p. 14:
 Full text in `sources/syllabus/dot-points.md`.
 
 ## John's unit material
-Not yet in the Project (section Q1). 
+Religion OneNote (Project), summarised in the section note. 
 
 ## Proposed scope (1,500–2,200 words, in tabs)
 1. **The argument (tab)**: the problem stated (section Q10: "evil" in the broad sense, including all suffering; link `evil`, `suffering`). Hume, *Dialogues* X, the passage he gives as "Epicurus's old questions" (extract and gloss; note on the uncertain attribution, sourced). Moral and natural evil (link `evil`). The logical problem (an inconsistency) vs the evidential problem (evil makes God's existence improbable).
@@ -50,3 +50,6 @@ Argument map (required). Optional: truth-table check of the inconsistent triad, 
 ## Questions for John
 1. Four responses (free will, soul-making, Augustine, sceptical theism), or fewer?
 2. Title stays "The problem of evil/suffering" (section Q10)?
+
+## Scope decision (John, 27 Nov 2026)
+Approved; see the section note "Scope decisions".

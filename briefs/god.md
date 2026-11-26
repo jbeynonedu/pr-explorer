@@ -4,7 +4,7 @@ type: term
 section: philosophy-of-religion
 units: [2]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: God (term)
@@ -17,7 +17,7 @@ Unit 2 Topic 1, p. 14:
 Full text in `sources/syllabus/dot-points.md`.
 
 ## John's unit material
-Not yet in the Project (section Q1). 
+Religion OneNote (Project), summarised in the section note. 
 
 ## Proposed scope (400–550 words)
 1. **Definition and usage** (section Q5): "god" as a general term (a being worshipped as divine); "God" as the name of the God of classical theism (Judaism, Christianity, Islam). Polytheism, monotheism.
@@ -37,3 +37,6 @@ Optional: a small labelled diagram of the classical attributes, linking to each 
 ## Questions for John
 1. Title "God (god, gods)" (section Q5)?
 2. Include deism and pantheism?
+
+## Scope decision (John, 27 Nov 2026)
+Approved; see the section note "Scope decisions".

@@ -4,7 +4,7 @@ type: term
 section: philosophy-of-religion
 units: [2]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Omniscience (term)
@@ -17,7 +17,7 @@ Unit 2 Topic 1, p. 14:
 Full text in `sources/syllabus/dot-points.md`.
 
 ## John's unit material
-Not yet in the Project (section Q1). 
+Religion OneNote (Project), summarised in the section note. 
 
 ## Proposed scope (350–500 words)
 1. **Definition**: knowing all truths (and believing no falsehoods). Refinements named briefly: whether it includes knowledge of the future.
@@ -34,3 +34,6 @@ None beyond the `sf` block.
 
 ## Questions for John
 1. Foreknowledge and free will here, or in `free-will` (Section 9) with a link? Proposed: here, short; `free-will` links back.
+
+## Scope decision (John, 27 Nov 2026)
+Approved; see the section note "Scope decisions".

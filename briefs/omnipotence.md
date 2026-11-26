@@ -4,7 +4,7 @@ type: term
 section: philosophy-of-religion
 units: [2]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Omnipotence (term)
@@ -17,7 +17,7 @@ Unit 2 Topic 1, p. 14:
 Full text in `sources/syllabus/dot-points.md`.
 
 ## John's unit material
-Not yet in the Project (section Q1). 
+Religion OneNote (Project), summarised in the section note. 
 
 ## Proposed scope (350–500 words)
 1. **Definition**: being all-powerful. The standard refinement: able to do anything logically possible (Aquinas, *ST* I q. 25 a. 3, quoted if public domain).
@@ -36,3 +36,6 @@ None beyond the `sf` block.
 
 ## Questions for John
 1. Include the paradox of the stone in standard form (proposed yes)?
+
+## Scope decision (John, 27 Nov 2026)
+Approved; see the section note "Scope decisions".

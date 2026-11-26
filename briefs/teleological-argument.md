@@ -4,7 +4,7 @@ type: argument
 section: philosophy-of-religion
 units: [2]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Teleological argument(s) (argument)
@@ -21,7 +21,7 @@ Unit 2 Topic 1, p. 14:
 Full text in `sources/syllabus/dot-points.md`.
 
 ## John's unit material
-Not yet in the Project (section Q1). Memory notes materials on Paley's *Natural Theology* and a Swinburne reconstruction. Bland pp. 95–97 (section note) runs Paley through the five criteria but ends with a verdict the Explorer cannot adopt.
+Religion OneNote (Project), summarised in the section note. Also: materials on Paley's *Natural Theology* and a Swinburne reconstruction. Bland pp. 95–97 (section note) runs Paley through the five criteria but ends with a verdict the Explorer cannot adopt.
 
 ## Proposed scope (1,500–2,200 words, in tabs)
 1. **The argument (tab)**: arguments from order or purpose (*telos*) in nature to a designer. Versions:
@@ -53,3 +53,6 @@ Argument map (required). Optional: a criteria table, as in `analogy`.
 ## Questions for John
 1. Include fine-tuning (proposed yes)?
 2. The Nieuwentyt plagiarism note (Bland n. 23): include one sourced line, or leave out?
+
+## Scope decision (John, 27 Nov 2026)
+Approved; see the section note "Scope decisions".

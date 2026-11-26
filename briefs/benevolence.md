@@ -4,7 +4,7 @@ type: term
 section: philosophy-of-religion
 units: [2]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Benevolence (term)
@@ -17,7 +17,7 @@ Unit 2 Topic 1, p. 14:
 Full text in `sources/syllabus/dot-points.md`.
 
 ## John's unit material
-Not yet in the Project (section Q1). 
+Religion OneNote (Project), summarised in the section note. 
 
 ## Proposed scope (300–450 words)
 1. **Definition**: goodwill; willing and acting for the good of others. Omnibenevolence: perfect or unlimited goodness. Distinguish God's moral goodness (benevolence towards creatures) from goodness as perfection (God as the standard of good), with a link to `good`.
@@ -32,3 +32,6 @@ None.
 
 ## Questions for John
 1. Title "Benevolence (omnibenevolence)"?
+
+## Scope decision (John, 27 Nov 2026)
+Approved; see the section note "Scope decisions".
