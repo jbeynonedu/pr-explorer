@@ -12,12 +12,50 @@ Copied from the syllabus PDF in the Project. Page numbers are the syllabus's own
 - the quality of arguments and claims, including deductively valid, deductively invalid, sound, unsound, inductively strong, inductively weak, true, false, plausible, credible
 - the purpose of argument, including explain, justify, analyse, evaluate.
 
+**Explain**
+- how arguments are structured
+- the distinction between deductive and inductive arguments
+- the distinction between necessary and sufficient conditions
+- the use of analogy and generalisation in induction
+- the limitations of deduction and induction, including David Hume’s problem of induction.
+
 **Interpret and analyse arguments, ideas and information in order to**
 - translate and symbolise propositions using logical operators: negation ( ~ ), conjunction ( & ), inclusive disjunction ( ∨ ), conditional ( ⊃ )
 - identify valid argument structures and symbolise using logical operators, including modus ponens, modus tollens, hypothetical syllogism, disjunctive syllogism, constructive dilemma
 - identify and symbolise using logical operators the formal fallacies of affirming the consequent and denying the antecedent
 
 **Evaluate** claims and arguments from a range of sources using appropriate criteria such as truth, validity, soundness and/or strength.
+
+## Unit 2, Topic 2: Philosophy of science (p. 15)
+
+Topic description: "In this topic, students will explore and demonstrate how the fundamentals of reason are used within science to create new knowledge. This includes the use of deduction through the hypothetico–deductive method (falsification) and the use of induction through the use of analogy and generalisation. Students will use this knowledge to assess the status of knowledge claims within science."
+
+**Define and use terminology relating to**
+- science, including falsification, fallibility, realism, empiricism, hypothesis, proof, cause, pseudoscience
+- the composition, structure, quality and purpose of argument, as listed in Unit 1.
+
+**Explain**
+- the use of analogy, generalisation and deduction in science
+- the nature, composition and purpose of philosophical arguments about the status of scientific knowledge, including
+  - the problem of induction
+  - Karl Popper’s demarcation problem and the hypothetico–deductive method.
+
+**Interpret and analyse philosophical arguments, ideas and information about the status of scientific knowledge in order to**
+- identify the components of arguments, including premises and conclusions
+- identify hidden premises or assumptions
+- identify and distinguish between any necessary and sufficient conditions
+- translate and symbolise propositions using logical operators
+- classify arguments, e.g. inductive/deductive, argument type
+- identify any formal or informal fallacies
+- determine relationships within and between ideas and arguments.
+
+**Generate questions and theses regarding issues such as**
+- the nature of knowledge
+- the relationship between scientific and religious thinking
+- public funding of pseudoscience
+- public scientific literacy/confidence in the context of fallibility.
+
+**Evaluate** claims and arguments inherent in philosophical theories and views about the status of scientific knowledge, using appropriate criteria such as truth, validity, soundness and/or strength.
 
 ## Unit 2, Topic 3: Philosophy of mind (p. 16)
 
