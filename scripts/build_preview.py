@@ -41,7 +41,7 @@ def render(eid):
     h = markdown.markdown(body, extensions=['tables'])
     h = h.replace('<p>COINSIM</p>', '<div class="coinsim"></div>')
     for i, code in enumerate(mermaid):
-        h = h.replace(f'<p>MERMAID{i}</p>', f'<div class="map"><pre class="mermaid">{html.escape(code)}</pre></div>')
+        h = h.replace(f'<p>MERMAID{i}</p>', f'<div class="map"><button type="button" class="map-expand" aria-label="Open the argument map full screen">⤢ Full screen</button><pre class="mermaid">{html.escape(code)}</pre></div>')
     for i, block in enumerate(sfs):
         rows = []
         for line in block.strip().splitlines():

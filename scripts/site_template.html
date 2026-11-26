@@ -121,6 +121,15 @@ footer{border-top:1px solid var(--line);padding:18px max(5vw,16px) 28px;font-siz
 footer p{max-width:90ch;margin:0 auto 6px;text-align:center}
 @media(max-width:600px){header h1{font-size:19px}.bub.centre{font-size:17px}table{font-size:14px}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important}::view-transition-group(*){animation:none!important}}
+.map{position:relative}
+.map-expand{position:absolute;top:8px;right:8px;z-index:1;font:inherit;font-size:.85rem;padding:4px 10px;border-radius:8px;border:1px solid currentColor;background:var(--panel);color:inherit;cursor:pointer;opacity:.85}
+.map-expand:hover,.map-expand:focus-visible{opacity:1}
+.map-full{position:fixed;inset:0;z-index:1000;background:var(--bg,#fff);display:flex;flex-direction:column}
+.map-full .bar{display:flex;gap:8px;align-items:center;justify-content:flex-end;padding:10px 14px;border-bottom:1px solid rgba(127,127,127,.3)}
+.map-full .bar span{margin-right:auto;font-weight:600}
+.map-full .bar button{font:inherit;padding:6px 12px;border-radius:8px;border:1px solid currentColor;background:none;color:inherit;cursor:pointer}
+.map-full .canvas{flex:1;overflow:auto;padding:16px;touch-action:pan-x pan-y pinch-zoom}
+.map-full .canvas svg{display:block;margin:0 auto;max-width:none!important;height:auto}
 </style>
 </head>
 <body>
@@ -247,6 +256,23 @@ window.addEventListener('popstate',()=>{here=null;render()});window.addEventList
 let rw=innerWidth,rt;addEventListener('resize',()=>{if(innerWidth===rw)return;rw=innerWidth;clearTimeout(rt);rt=setTimeout(()=>{const n=byId[cur()];if(view==='bubbles'&&!isLeaf(n)&&n.id!=='home')render()},120)});
 render();
 }
+</script>
+<script>
+// ---------- argument map: full-screen view ----------
+document.addEventListener('click',e=>{
+ const b=e.target.closest('.map-expand');if(!b)return;
+ const svg=b.parentElement.querySelector('svg');if(!svg)return;
+ const vb=(svg.getAttribute('viewBox')||'').split(/\s+/).map(Number),natW=vb[2]||svg.getBoundingClientRect().width;
+ const o=document.createElement('div');o.className='map-full';o.setAttribute('role','dialog');o.setAttribute('aria-modal','true');o.setAttribute('aria-label','Argument map, full screen');
+ o.innerHTML='<div class="bar"><span>Argument map</span><button data-z="-1" aria-label="Zoom out">−</button><button data-z="1" aria-label="Zoom in">+</button><button data-z="0">Fit</button><button class="close">Close</button></div><div class="canvas"></div>';
+ const c=o.querySelector('.canvas'),s=svg.cloneNode(true);s.removeAttribute('style');c.appendChild(s);
+ const fit=()=>Math.max(natW,Math.min(window.innerWidth-40,natW*2.2));let w=fit();
+ const set=()=>{s.setAttribute('width',Math.round(w));s.removeAttribute('height')};set();
+ const close=()=>{o.remove();document.removeEventListener('keydown',key);b.focus()};
+ const key=ev=>{if(ev.key==='Escape')close()};
+ o.addEventListener('click',ev=>{const z=ev.target.closest('[data-z]');if(z){const d=+z.dataset.z;w=d?w*(d>0?1.25:0.8):fit();set()}else if(ev.target.closest('.close'))close()});
+ document.addEventListener('keydown',key);document.body.appendChild(o);o.querySelector('.close').focus();
+});
 </script>
 </body>
 </html>

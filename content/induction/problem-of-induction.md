@@ -134,19 +134,19 @@ C. ~K
 <!-- diagram: argument-map, branch: reason -->
 ```mermaid
 flowchart TD
-  F["1. Hume's fork"] --> IC3["IC3. The uniformity principle cannot be supported by any argument"]
-  P23["2–3. Its denial is not a contradiction"] --> IC1["IC1. No demonstrative argument for it"]
-  P45["4–5. A probable argument would presuppose it: circular"] --> IC2["IC2. No probable argument for it"]
+  F["1. Hume's fork"] --> IC3["IC3. The uniformity principle<br/>cannot be supported<br/>by any argument"]
+  P23["2–3. Its denial is<br/>not a contradiction"] --> IC1["IC1. No demonstrative<br/>argument for it"]
+  P45["4–5. A probable argument<br/>would presuppose it:<br/>circular"] --> IC2["IC2. No probable<br/>argument for it"]
   IC1 --> IC3
   IC2 --> IC3
-  IC3 --> IC4["IC4. Inductive inferences are not founded on reasoning"]
-  P67["6–7. Inductive inferences presuppose the principle; (HP) if founded on reasoning, it could be supported"] --> IC4
-  IC4 --> C["C. Inductive inferences are not justified"]
-  P8["8. (HP) If not founded on reasoning, not justified"] --> C
-  IJ["Inductive justification"] -.->|rejects| P45
-  OL["Ordinary language reply"] -.->|rejects| P8
-  PV["Pragmatic vindication"] -.->|rejects| P8
-  PO["Popper"] -.->|accepts C; limits its reach| C
+  IC3 --> IC4["IC4. Inductive inferences<br/>are not founded<br/>on reasoning"]
+  P67["6–7. Inductive inferences<br/>presuppose the principle;<br/>(HP) if founded on reasoning,<br/>it could be supported"] --> IC4
+  IC4 --> C["C. Inductive inferences<br/>are not justified"]
+  P8["8. (HP) If not founded<br/>on reasoning,<br/>not justified"] --> C
+  IJ["Inductive<br/>justification"] -.->|rejects| P45
+  OL["Ordinary language<br/>reply"] -.->|rejects| P8
+  PV["Pragmatic<br/>vindication"] -.->|rejects| P8
+  PO["Popper"] -.->|accepts C;<br/>limits its reach| C
 ```
 *Text alternative:* Premises 2–3 support IC1 and premises 4–5 support IC2. With Hume's fork, these support IC3. IC3 with premises 6–7 supports IC4, and IC4 with premise 8 supports the conclusion. The inductive justification of induction rejects premise 5 (that circularity rules out support). The ordinary language reply and the pragmatic vindication reject premise 8. Popper accepts the conclusion but denies that science needs inductive inference.
 
