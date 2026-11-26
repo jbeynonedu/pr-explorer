@@ -4,7 +4,7 @@ title: Induction
 type: term
 units: [1]
 section: induction
-status: checked
+status: approved
 related: [deduction, deductive-vs-inductive, strong-weak, generalisation, analogy, cause, post-hoc, problem-of-induction, hasty-generalisation, classifying-arguments]
 sources: [bland-reason-induction, bland-reason-5-1, sep-henderson, black-swans]
 ---

@@ -19,7 +19,9 @@ Syllabus extracts © State of Queensland (QCAA) 2026, CC BY 4.0. Material adapte
 `python3 scripts/build_preview.py .work/preview.html <id> ...` builds a single review page (interactive truth tables, Mermaid argument maps) from `content/`. Phase 0 exemplar preview: https://claude.ai/artifact/WuKi8KEsjgzTUge826Uys2 (private to John).
 
 ## Where the next chat picks up (26 Nov 2026)
-1. **Phase 1, Sections 1–3: complete.** All entries approved by John. Not yet live: publish with `--public` at launch.
-2. **Phase 1, Section 3: Symbolic logic — complete.** All nine entries approved by John (26 Nov 2026).
-3. **Truth-table widget:** `scripts/tt_widget.js` (shared by both builds); marker forms in `scripts/tt_forms.py`. Supports `mt mp da ac ds ad hs cd dd`.
-4. **Next: Phase 1, Section 4: Informal fallacies**, starting at Briefed (14 entries; see `tracker.csv`).
+1. **Phase 1, Sections 1–5: complete.** All entries approved by John. Not yet live: publish with `--public` at launch.
+2. **Section 5: Induction — complete** (26 Nov 2026): induction, strong-weak, generalisation, analogy, problem-of-induction (uniformity of nature merged into it). The problem of induction is split into tabs (style guide §8).
+3. **Site features:** full-screen view for argument maps (zoom, fit, Esc); entry tabs via `<!-- tab: Label -->` / `<!-- tabs-end -->` (`scripts/tabs.py`, shared by both builds); a Back button in the app.
+4. **Workflow:** shared checker prompt in `briefs/_checker-prompt.md`; run one checker per entry in parallel, then one re-checker. Without a browser, WebFetch gives only short exact snippets: ask John to paste full pages (select all) for key secondary sources; commit only the extracts needed (the repo is public), keep full copies out of the repo.
+5. **Open items:** (a) verify the IEP (Shanahan) lines in `sources/induction/iep-shanahan.md` against the page text (John to paste the page); they support "cogent" and "new evidence can strengthen or weaken" in strong-weak and sound. (b) John to decide whether Reason entries' argument maps use cobalt instead of coral (style guide §9).
+6. **Next: Phase 1, Section 6: Claims and reason in the real world**, starting at Briefed (7 entries: true-false, plausible, credible, justification-persuasion, cognitive-bias, confirmation-bias, misuse-of-argument; see `tracker.csv`).

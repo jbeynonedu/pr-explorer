@@ -4,7 +4,7 @@ title: Hume's problem of induction
 type: argument
 units: [1, 2]
 section: induction
-status: checked
+status: approved
 related: [induction, strong-weak, generalisation, deductive-vs-inductive, limits-of-deduction, hidden-premise, begging-the-question, modus-tollens, modus-ponens, hypothetico-deductive, induction-in-science]
 sources: [hume-enquiry, hume-treatise, sep-henderson, russell-problems, bland-induction, thinker-dates]
 ---
@@ -13,9 +13,10 @@ sources: [hume-enquiry, hume-treatise, sep-henderson, russell-problems, bland-in
 
 **David Hume (1711–1776) argued that our inferences from past experience to the future are not founded on reasoning.** Every such inference seems to assume that nature will continue as it has. Hume argued that this assumption cannot be supported by any argument without arguing in a circle. The challenge of answering him has become known as "the problem of induction".
 
+<!-- tab: The argument -->
 ## Context
 
-Hume first set out the argument in *A Treatise of Human Nature* (1739), Book 1, Part 3, Section 6. He gave a shorter version in Section IV of *An Enquiry Concerning Human Understanding* (1748), the source of most quotations below. The name "problem of induction" is a later label, not Hume's own.
+Hume first set out the argument in *A Treatise of Human Nature* (1739), Book 1, Part 3, Section 6. He gave a shorter version in Section IV of *An Enquiry Concerning Human Understanding* (1748), the source of most quotations in this entry. The name "problem of induction" is a later label, not Hume's own.
 
 The argument rests on a distinction now called **Hume's fork**. *Relations of ideas*, such as the truths of geometry and arithmetic, can be known by thought alone, and denying one involves a contradiction. *Matters of fact* are different:
 
@@ -80,6 +81,7 @@ Hume considers the two kinds of reasoning in turn.
 
 In other words: "the future has resembled the past in the past, so it will in future" uses the very principle it is meant to support (compare [begging the question](begging-the-question)).
 
+<!-- tab: Standard form and map -->
 ## Standard form
 
 ```sf
@@ -150,6 +152,7 @@ flowchart TD
 ```
 *Text alternative:* Premises 2–3 support IC1 and premises 4–5 support IC2. With Hume's fork, these support IC3. IC3 with premises 6–7 supports IC4, and IC4 with premise 8 supports the conclusion. The inductive justification of induction rejects premise 5 (that circularity rules out support). The ordinary language reply and the pragmatic vindication reject premise 8. Popper accepts the conclusion but denies that science needs inductive inference.
 
+<!-- tab: Responses -->
 ## Hume's own response: custom
 
 Hume does not conclude that we should stop reasoning from experience. Instead he explains why we do it. After two things have been constantly joined, the mind is simply led by habit to expect the one when it meets the other:
@@ -177,6 +180,7 @@ Bertrand Russell (1872–1970) gave a well-known illustration in *The Problems o
 **4. Science does not need induction.** Karl Popper (1902–1994) regarded the problem as unsolvable, but argued that science does not rely on inductive inference at all. On his view, science proceeds by bold conjectures and attempts to refute them, using modus tollens, which is deductive. See the [hypothetico-deductive method](hypothetico-deductive) and [the problem of induction and scientific knowledge](induction-in-science).
 *Reply:* at any time many hypotheses remain unrefuted, and scientists still judge one better supported than another. Popper's notion of "corroboration" seems to bring back something more than deduction.
 
+<!-- tab: Evaluating it -->
 ## How to evaluate it
 
 1. **Classify it.** The argument is deductive, so ask whether it is valid and sound.
@@ -194,6 +198,7 @@ The Explorer does not give a verdict. Many solutions have been proposed, and man
 - If no argument shows that the future will resemble the past, in what sense is scientific knowledge *knowledge*?
 - Scientists describe theories as well supported rather than proven. How should the public judge scientific claims, given that inductive conclusions are fallible?
 
+<!-- tabs-end -->
 ## Related concepts
 [Induction](induction) · [Inductively strong and weak](strong-weak) · [Generalisation](generalisation) · [Deductive and inductive arguments](deductive-vs-inductive) · [Limitations of deduction](limits-of-deduction) · [Hidden premise](hidden-premise) · [Begging the question](begging-the-question) · [Modus tollens](modus-tollens) · [Modus ponens](modus-ponens) · [Hypothetico-deductive method](hypothetico-deductive) · [The problem of induction and scientific knowledge](induction-in-science)
 

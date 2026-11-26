@@ -62,6 +62,7 @@
 | Argument | Primary-text extract; context; standard form; argument map; objections and replies; how to evaluate it | 800–1,500 words |
 | Theory / thinker | Core principles; primary extracts; how it works; applied to a dilemma; criticisms and replies; links | 1,200–2,500 words, split into sub-entries |
 
+- Long entries (argument and theory entries over the typical length) are split into tabs: mark each tab with `<!-- tab: Label -->` and close with `<!-- tabs-end -->` before Related concepts. Detail is kept, not cut, when it serves later complex-argument work. (John, 26 Nov 2026)
 - "Common mistakes" and "exam tips" only where genuinely useful. No quick-check questions for now.
 - Every entry ends with related concepts (links) and sources.
 

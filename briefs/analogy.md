@@ -3,7 +3,7 @@ id: analogy
 type: term
 section: induction
 units: [1, 2]
-stage: briefed
+stage: approved
 approved_scope: yes
 ---
 
@@ -49,3 +49,6 @@ Approved, with one "In science" paragraph. Watchmaker named and linked, not eval
 
 ## Check (independent subagent, 26 Nov 2026)
 Independent check plus re-check: all MUST-FIX findings resolved; re-check SHOULD-FIX items applied. Quotations verified word for word by code; logic claims verified by truth table.
+
+## Approval
+Approved by John, 26 Nov 2026.

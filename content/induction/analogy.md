@@ -4,7 +4,7 @@ title: Analogy
 type: term
 units: [1, 2]
 section: induction
-status: checked
+status: approved
 related: [induction, strong-weak, generalisation, faulty-analogy, purposes-of-argument, teleological-argument]
 sources: [bland-reason-5-2, sep-bartha]
 ---

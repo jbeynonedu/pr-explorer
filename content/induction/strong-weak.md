@@ -4,7 +4,7 @@ title: Inductively strong and weak
 type: term
 units: [1]
 section: induction
-status: checked
+status: approved
 related: [induction, deductive-vs-inductive, valid, sound, true-false, generalisation, analogy, informal-fallacy, hasty-generalisation, faulty-analogy, gamblers-fallacy]
 sources: [bland-reason-induction, bland-reason-ch6, iep-shanahan]
 ---

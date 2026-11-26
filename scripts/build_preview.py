@@ -9,6 +9,7 @@ import html, json, os, re, sys, glob, csv
 import markdown, yaml
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from tt_forms import TT_FORMS, WIDGET
+import tabs
 
 ROOT = __file__.rsplit('/scripts/', 1)[0]
 out, ids = sys.argv[1], sys.argv[2:]
@@ -37,8 +38,10 @@ def render(eid):
     tt = re.search(r'<!-- interactive: truth-table; premises: (.*?); conclusion: (.*?) -->', body)
     if tt:
         body = body.replace(tt.group(0), '\n\nTTMARK\n\n', 1)
+    body, tablabels = tabs.mark(body)
     body = re.sub(r'<!--.*?-->\n?', '', body)
     h = markdown.markdown(body, extensions=['tables'])
+    h = tabs.build(h, tablabels, eid)
     h = h.replace('<p>COINSIM</p>', '<div class="coinsim"></div>')
     for i, code in enumerate(mermaid):
         h = h.replace(f'<p>MERMAID{i}</p>', f'<div class="map"><button type="button" class="map-expand" aria-label="Open the argument map full screen">⤢ Full screen</button><pre class="mermaid">{html.escape(code)}</pre></div>')
@@ -75,6 +78,6 @@ def render(eid):
 
 nav = ''.join(f'<a href="#{i}">{html.escape(files[i][0]["title"])}</a>' for i in ids)
 arts = '\n'.join(render(i) for i in ids)
-page = open(f'{ROOT}/scripts/preview_template.html').read().replace('{{NAV}}', nav).replace('{{ENTRIES}}', arts).replace('{{TT_WIDGET}}', WIDGET)
+page = open(f'{ROOT}/scripts/preview_template.html').read().replace('{{NAV}}', nav).replace('{{ENTRIES}}', arts).replace('{{TT_WIDGET}}', WIDGET).replace('{{TABS_CSS}}', tabs.CSS).replace('{{TABS_JS}}', tabs.JS)
 open(out, 'w').write(page)
 print('wrote', out, len(page))

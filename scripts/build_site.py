@@ -14,6 +14,7 @@ import csv, glob, html, json, os, re, sys
 import markdown, yaml
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from tt_forms import TT_FORMS, WIDGET
+import tabs
 
 ROOT = __file__.rsplit('/scripts/', 1)[0]
 out = sys.argv[1]
@@ -72,8 +73,10 @@ def render(eid):
     tt = re.search(r'<!-- interactive: truth-table; premises: (.*?); conclusion: (.*?) -->', body)
     if tt:
         body = body.replace(tt.group(0), '\n\nTTMARK\n\n', 1)
+    body, tablabels = tabs.mark(body)
     body = re.sub(r'<!--.*?-->\n?', '', body, flags=re.S)
     h = markdown.markdown(body, extensions=['tables'])
+    h = tabs.build(h, tablabels, eid)
     h = re.sub(r'<(/?)h([2-5])', lambda m: f'<{m.group(1)}h{int(m.group(2))+1}', h)  # title is the only h2
     h = h.replace('<p>COINSIM</p>', '<div class="coinsim"></div>')
     for i, code in enumerate(mermaid):
@@ -142,6 +145,6 @@ if missing:
     print('warning: content files not in tracker:', sorted(missing))
 
 data = json.dumps({'tree': tree, 'preview': not public}, ensure_ascii=False).replace('</', '<\\/')
-page = open(f'{ROOT}/scripts/site_template.html', encoding='utf-8').read().replace('{{DATA}}', data).replace('{{TT_WIDGET}}', WIDGET)
+page = open(f'{ROOT}/scripts/site_template.html', encoding='utf-8').read().replace('{{DATA}}', data).replace('{{TT_WIDGET}}', WIDGET).replace('{{TABS_CSS}}', tabs.CSS).replace('{{TABS_JS}}', tabs.JS)
 open(out, 'w', encoding='utf-8').write(page)
 print('wrote', out, len(page), 'bytes;', len(published), 'of', len(rows), 'entries published', '(public)' if public else '(preview)')

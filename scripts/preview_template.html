@@ -83,7 +83,7 @@ th{font-weight:700;border-bottom:2px solid var(--ink)}
 .map-full .bar button{font:inherit;padding:6px 12px;border-radius:8px;border:1px solid currentColor;background:none;color:inherit;cursor:pointer}
 .map-full .canvas{flex:1;overflow:auto;padding:16px;touch-action:pan-x pan-y pinch-zoom}
 .map-full .canvas svg{display:block;margin:0 auto;max-width:none!important;height:auto}
-</style>
+{{TABS_CSS}}</style>
 </head>
 <body>
 <header>
@@ -102,11 +102,14 @@ document.querySelectorAll('.tt').forEach(truthTable);
 document.querySelectorAll('.coinsim').forEach(coinSim);
 try{
  const dark=document.documentElement.dataset.theme==='dark'||(!document.documentElement.dataset.theme&&matchMedia('(prefers-color-scheme: dark)').matches);
- mermaid.initialize({startOnLoad:true,theme:dark?'dark':'base',themeVariables:{fontFamily:'Source Sans 3, sans-serif',primaryColor:'#fdebe7',primaryBorderColor:'#d4432b',lineColor:'#5b6072'}});
+ mermaid.initialize({startOnLoad:false,theme:dark?'dark':'base',themeVariables:{fontFamily:'Source Sans 3, sans-serif',primaryColor:'#fdebe7',primaryBorderColor:'#d4432b',lineColor:'#5b6072'}});
+ window.prRunMermaid=nodes=>mermaid.run({nodes:[...nodes]});
+ prRunMermaid([...document.querySelectorAll('pre.mermaid')].filter(m=>!m.closest('[hidden]')));
 }catch(e){}
 }
 </script>
 <script>
+{{TABS_JS}}
 // ---------- argument map: full-screen view ----------
 document.addEventListener('click',e=>{
  const b=e.target.closest('.map-expand');if(!b)return;

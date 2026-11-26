@@ -46,6 +46,8 @@ header h1 span{color:var(--mute);font-weight:600}
 nav.crumbs{display:flex;flex-wrap:wrap;gap:4px;align-items:center;padding:14px max(5vw,16px) 0;font-size:15px;color:var(--mute)}
 nav.crumbs button{border:0;background:none;padding:6px 4px;cursor:pointer;color:var(--mute);text-decoration:underline;text-underline-offset:3px}
 nav.crumbs b{color:var(--ink);padding:6px 4px}
+nav.crumbs button.back{text-decoration:none;color:var(--ink);font-weight:600;border:1px solid rgba(127,127,127,.45);border-radius:999px;padding:5px 12px;margin-right:8px}
+nav.crumbs button.back:hover{border-color:currentColor}
 main{padding:12px max(5vw,16px) 48px;max-width:1240px;margin:0 auto}
 .note{font-size:14px;color:var(--mute);text-align:center;margin:20px 0 0}
 /* bubbles */
@@ -130,7 +132,7 @@ footer p{max-width:90ch;margin:0 auto 6px;text-align:center}
 .map-full .bar button{font:inherit;padding:6px 12px;border-radius:8px;border:1px solid currentColor;background:none;color:inherit;cursor:pointer}
 .map-full .canvas{flex:1;overflow:auto;padding:16px;touch-action:pan-x pan-y pinch-zoom}
 .map-full .canvas svg{display:block;margin:0 auto;max-width:none!important;height:auto}
-</style>
+{{TABS_CSS}}</style>
 </head>
 <body>
 <div class="banner" id="banner" hidden></div>
@@ -170,15 +172,21 @@ const main=document.getElementById('main'),crumbs=document.getElementById('crumb
 // The current page is kept in `here`; updating the address bar is best-effort, because
 // sandboxed previews (e.g. a file opened inside an app) can block history.pushState.
 let here=null;
-const go=id=>{const h=id==='home'?'':id;
- const run=()=>{here=id;try{if(location.hash.slice(1)!==h)history.pushState(null,'',h?'#'+h:location.pathname+location.search)}catch(e){}render()};
+// Back button: `trail` holds the pages visited in this app session. When the address bar
+// can be updated, Back uses the browser history (so the browser's own back button agrees);
+// otherwise it steps back through `trail`. With no trail, Back goes up one level.
+const trail=[];let pushed=0;
+const go=(id,opts={})=>{const h=id==='home'?'':id;
+ const run=()=>{const from=cur();if(!opts.back&&from!==id)trail.push(from);here=id;
+  if(!opts.back){try{if(location.hash.slice(1)!==h){history.pushState(null,'',h?'#'+h:location.pathname+location.search);pushed++}}catch(e){}}
+  render()};
  if(document.startViewTransition&&!matchMedia('(prefers-reduced-motion: reduce)').matches)document.startViewTransition(run);else run()};
 const fromHash=()=>{try{const h=decodeURIComponent(location.hash.slice(1));return byId[h]?h:'home'}catch(e){return 'home'}};
 const cur=()=>here&&byId[here]?here:fromHash();
 // ---------- render ----------
 function render(){
  const id=cur(),n=byId[id],path=pathTo(id);
- crumbs.innerHTML=path.length>1?path.map((p,i)=>i<path.length-1?`<button data-go="${p.id}">${esc(p.t)}</button><span aria-hidden="true">›</span>`:`<b>${esc(p.t)}</b>`).join(''):'';
+ crumbs.innerHTML=path.length>1?`<button class="back" data-back aria-label="Back">← Back</button>`+path.map((p,i)=>i<path.length-1?`<button data-go="${p.id}">${esc(p.t)}</button><span aria-hidden="true">›</span>`:`<b>${esc(p.t)}</b>`).join(''):'';
  document.getElementById('vb').setAttribute('aria-pressed',view==='bubbles');document.getElementById('vc').setAttribute('aria-pressed',view==='cards');
  document.title=id==='home'?'Philosophy & Reason Explorer':`${n.t} · Philosophy & Reason Explorer`;
  if(isLeaf(n))return entry(n);
@@ -225,12 +233,13 @@ function entry(n){
  main.innerHTML=`<article class="entry" style="${col(n)}"><div class="tags">${tags}</div><h2 style="view-transition-name:v-${n.id}">${esc(n.t)}</h2><div class="body">${n.html}</div></article>`;
  main.querySelectorAll('.tt').forEach(truthTable);
  main.querySelectorAll('.coinsim').forEach(coinSim);
- const maps=main.querySelectorAll('pre.mermaid');if(maps.length)runMermaid(maps);
+ const maps=[...main.querySelectorAll('pre.mermaid')].filter(m=>!m.closest('[hidden]'));if(maps.length)runMermaid(maps);
  window.scrollTo({top:0});
 }
 {{TT_WIDGET}}
 // ---------- Mermaid (loaded on first use) ----------
 let mm;
+window.prRunMermaid=nodes=>runMermaid(nodes);
 function runMermaid(nodes){
  mm=mm||new Promise((ok,no)=>{const s=document.createElement('script');s.src='https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.9.1/mermaid.min.js';s.onload=()=>{
    const dark=document.documentElement.dataset.theme==='dark'||(!document.documentElement.dataset.theme&&matchMedia('(prefers-color-scheme: dark)').matches);
@@ -247,17 +256,22 @@ q.addEventListener('input',()=>{const s=q.value.trim().toLowerCase();if(!s){res.
  res.classList.add('on')});
 q.addEventListener('keydown',e=>{if(e.key==='Escape'){q.value='';res.classList.remove('on')}if(e.key==='Enter'){const b=res.querySelector('button');if(b)b.click()}});
 // ---------- events ----------
-document.addEventListener('click',e=>{const b=e.target.closest('[data-go]');if(b){e.preventDefault();go(b.dataset.go);q.value='';res.classList.remove('on');return}
+const back=()=>{if(pushed>0&&trail.length){pushed--;history.back();return}
+ const prev=trail.pop();if(prev!==undefined){go(prev,{back:true});return}
+ const up=parent[cur()];go(up||'home',{back:true})};
+document.addEventListener('click',e=>{if(e.target.closest('[data-back]')){e.preventDefault();back();return}
+ const b=e.target.closest('[data-go]');if(b){e.preventDefault();go(b.dataset.go);q.value='';res.classList.remove('on');return}
  if(!e.target.closest('.search'))res.classList.remove('on')});
 const setView=v=>{view=v;try{localStorage.setItem('pr-view',v)}catch(e){};render()};
 document.getElementById('vb').addEventListener('click',()=>setView('bubbles'));
 document.getElementById('vc').addEventListener('click',()=>setView('cards'));
-window.addEventListener('popstate',()=>{here=null;render()});window.addEventListener('hashchange',()=>{here=null;render()});
+window.addEventListener('popstate',()=>{trail.pop();here=null;render()});window.addEventListener('hashchange',()=>{here=null;render()});
 let rw=innerWidth,rt;addEventListener('resize',()=>{if(innerWidth===rw)return;rw=innerWidth;clearTimeout(rt);rt=setTimeout(()=>{const n=byId[cur()];if(view==='bubbles'&&!isLeaf(n)&&n.id!=='home')render()},120)});
 render();
 }
 </script>
 <script>
+{{TABS_JS}}
 // ---------- argument map: full-screen view ----------
 document.addEventListener('click',e=>{
  const b=e.target.closest('.map-expand');if(!b)return;
