@@ -76,3 +76,26 @@ Applies to all 7 entries. Entry briefs hold entry-specific scope and questions.
 - Agreed: "true for me" as a common mistake in `true-false`; red herring in one line in `misuse-of-argument`; the two-by-two grid in `justification-persuasion`.
 - Plausible wording confirmed: "A claim is plausible if it makes sense on face value: nothing about the claim itself makes it hard to believe. This is more than being merely possible, and less than being credible or true."
 - **Scope approved** (John, 26 Nov 2026). Next: Sourced.
+
+## Sourced (27 Nov 2026)
+Packs in `sources/claims-real-world/`, fetched with John's Chrome where the shell could not reach the site.
+
+| Entry | Packs |
+| --- | --- |
+| `true-false` | `bland-claims.md` (pp. 9, 14, 66–67), `sep-truth.md` |
+| `plausible` | `bland-claims.md` (p. 67, p. 89, p. 103) |
+| `credible` | `bland-claims.md` (pp. 71, 103), `hume-testimony.md` (E 10.1.4–10.1.7) |
+| `justification-persuasion` | `bland-claims.md` (p. 70), `plato-gorgias.md` (454e–455a), `aristotle-rhetoric.md`, `syllabus-essays.md` |
+| `cognitive-bias` | `psychology-bias.md` (Tversky & Kahneman; Pronin et al.), `bland-claims.md` (pp. 89–90) |
+| `confirmation-bias` | `psychology-bias.md` (Nickerson; Wason; Lord, Ross & Lepper), `bacon-novum-organum.md`, `bland-claims.md` (answer key pp. 146–147) |
+| `misuse-of-argument` | `misuse-sources.md` (ACL s 18; ACCC; 1969 tobacco document), `bland-claims.md` (pp. 70–71, 76–77, 89–90) |
+
+Flags for drafting and checking:
+1. **Bacon**: quote only the first sentence of I.46 (verified against the 1863 Spedding text and IntraText; Nickerson quotes the same wording). Part of the middle of the aphorism comes from IntraText only.
+2. **Aristotle**: paraphrase only (Roberts' death date not verified). Aristotle treats character and emotion as legitimate parts of rhetoric; the entry must not imply he dismissed them.
+3. **Tversky & Kahneman, Wason, Lord et al., Pronin et al.**: abstracts only (articles paywalled). Examples of availability and anchoring are constructed.
+4. **Nickerson**: lines were quoted by WebFetch from the PDF (TOOL-EXACT); re-verify any line used at Checked.
+5. **2-4-6 interactive**: label it "based on Wason's (1960) task"; the rule ("any three numbers in ascending order") is from Nickerson.
+6. **Tobacco document**: UCSF dates it 1969 and files it in the Brown & Williamson Records; no author. Wikipedia's R. J. Reynolds attribution is not used. Quote from the UCSF record description.
+7. **Advertising tab**: the ACCC's Samsung case (Federal Court, June 2022, $14 million) is a real, sourced, non-partisan example if a real case is wanted; puffery and misleading silence are sourced.
+8. **Gorgias** locator is 454e–455a (Perseus); the Jowett edition has no Stephanus numbers.
