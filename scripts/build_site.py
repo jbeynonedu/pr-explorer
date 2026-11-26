@@ -69,7 +69,7 @@ def render(eid):
     def keep_sf(m):
         sfs.append(m.group(1)); return f'\n\nSFBLOCK{len(sfs)-1}\n\n'
     body = re.sub(r'```sf\n(.*?)```', keep_sf, body, flags=re.S)
-    body = body.replace('<!-- interactive: coin-sim -->', '\n\nCOINSIM\n\n')
+    body = body.replace('<!-- interactive: coin-sim -->', '\n\nCOINSIM\n\n').replace('<!-- interactive: rule-246 -->', '\n\nRULETASK\n\n')
     tt = re.search(r'<!-- interactive: truth-table; premises: (.*?); conclusion: (.*?) -->', body)
     if tt:
         body = body.replace(tt.group(0), '\n\nTTMARK\n\n', 1)
@@ -78,7 +78,7 @@ def render(eid):
     h = markdown.markdown(body, extensions=['tables'])
     h = tabs.build(h, tablabels, eid)
     h = re.sub(r'<(/?)h([2-5])', lambda m: f'<{m.group(1)}h{int(m.group(2))+1}', h)  # title is the only h2
-    h = h.replace('<p>COINSIM</p>', '<div class="coinsim"></div>')
+    h = h.replace('<p>COINSIM</p>', '<div class="coinsim"></div>').replace('<p>RULETASK</p>', '<div class="ruletask"></div>')
     for i, code in enumerate(mermaid):
         h = h.replace(f'<p>MERMAID{i}</p>', f'<div class="map"><button type="button" class="map-expand" aria-label="Open the argument map full screen">⤢ Full screen</button><pre class="mermaid">{html.escape(code)}</pre></div>')
     for i, block in enumerate(sfs):

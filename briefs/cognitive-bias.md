@@ -3,7 +3,7 @@ id: cognitive-bias
 type: term
 section: claims-real-world
 units: [1]
-stage: sourced
+stage: drafted
 approved_scope: yes
 ---
 

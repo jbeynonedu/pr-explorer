@@ -14,6 +14,13 @@ Abstract, PubMed record 17835457 (https://pubmed.ncbi.nlm.nih.gov/17835457/) EXA
 
 - For `cognitive-bias`: heuristics are shortcuts that are "highly economical and usually effective" but lead to "systematic and predictable errors"; availability and anchoring as named heuristics.
 
+Full text, from a copy hosted at https://sites.stat.washington.edu/peter/498.Sp16/Tversky.pdf (fetched 27 Nov 2026 by WebFetch; TOOL-EXACT, page numbers of the *Science* article). Re-verify lines used at Checked.
+
+- p. 1125, misconceptions of chance: "Chance is commonly viewed as a self-correcting process" and "Another consequence of the belief in local representativeness is the well-known gambler's fallacy."
+- p. 1127, availability: people assess frequency or probability by "the ease with which instances or occurrences can be brought to mind"; example: "one may assess the risk of heart attack among middle-aged people" [by recalling such occurrences among acquaintances: SUMMARY].
+- p. 1128, anchoring: "In many situations, people make estimates by starting from an initial value that is adjusted to yield the final answer." Example: "a number between 0 and 100 was determined by spinning a wheel of fortune"; subjects estimated the percentage of African countries in the United Nations; "the median estimates of the percentage of African countries in the United Nations were 25 and 45" "for groups that received 10 and 65, respectively, as starting points."
+- p. 1130: "Experienced researchers are also prone to the same biases-when they think intuitively."
+
 ## Nickerson, R. S. (1998), "Confirmation Bias: A Ubiquitous Phenomenon in Many Guises", *Review of General Psychology* 2(2): 175–220. doi:10.1037/1089-2680.2.2.175
 
 Abstract: EXACT from library catalogue record (WebSearch, tuklas.up.edu.ph) and TOOL-EXACT from the PDF (https://pages.ucsd.edu/~cmckenzie/nickersonConfirmationBias.pdf), which agree except "as the term typically used" (catalogue) vs "as the term is typically used" (PDF, p. 175). Use the PDF wording:

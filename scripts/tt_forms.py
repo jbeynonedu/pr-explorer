@@ -9,4 +9,5 @@ TT_FORMS = {
     'cd': ('P ⊃ Q, R ⊃ S, P ∨ R', 'Q ∨ S'), 'dd': ('P ⊃ Q, R ⊃ S, ~Q ∨ ~S', '~P ∨ ~R'),
 }
 WIDGET = (open(__file__.replace('tt_forms.py', 'tt_widget.js'), encoding='utf-8').read()
-          + '\n' + open(__file__.replace('tt_forms.py', 'coin_sim.js'), encoding='utf-8').read())
+          + '\n' + open(__file__.replace('tt_forms.py', 'coin_sim.js'), encoding='utf-8').read()
+          + '\n' + open(__file__.replace('tt_forms.py', 'rule_task.js'), encoding='utf-8').read())
