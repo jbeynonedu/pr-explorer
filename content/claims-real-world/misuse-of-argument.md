@@ -4,7 +4,7 @@ title: Use and misuse of argument
 type: term
 units: [1]
 section: claims-real-world
-status: drafted
+status: checked
 related: [justification-persuasion, cognitive-bias, confirmation-bias, credible, straw-man, ad-hominem, slippery-slope, ad-populum, ad-verecundiam, appeal-to-nature, ad-misericordiam, strong-weak]
 sources: [bland-reason-ch4-relevance, bland-reason-ch5-charity, acl-s18, accc-false-misleading, ucsf-bw-1969]
 ---
@@ -48,7 +48,7 @@ The same moves turn up on every side. In each pair below, both speakers make the
 - Supporter: "The objectors are just shop owners protecting their profits."
 - Opponent: "The councillor behind this owns a café on the square."
 
-An interest in the outcome is a reason to check a person's claims more carefully. It does not show that their argument is wrong.
+An interest in the outcome is a reason to check a person's claims more carefully. It is not a reason to conclude that their claim is false.
 
 **[Slippery slope](slippery-slope):** claiming, without good reason, that one step will lead to a chain of extreme results.
 
@@ -71,7 +71,7 @@ Many advertisements contain an argument with an unstated conclusion: *you should
 ```sf
 1. The product was developed by a dermatologist.
 2. Over a million Australians like the product.
-3. A product that was developed by an expert and is popular is one you should buy. (HP)
+3. A product that was developed by a dermatologist and that over a million Australians like is one you should buy. (HP)
 C. Therefore, you should buy it. (HC)
 ```
 
@@ -89,7 +89,7 @@ In Australia, the Australian Consumer Law states:
 
 According to the Australian Competition and Consumer Commission (ACCC), it does not matter whether a business intended to mislead, and in some circumstances leaving out important information can be misleading. In 2022, for example, the Federal Court ordered Samsung to pay $14 million in penalties over advertisements showing phones being used in pools and sea water, when pool and sea water could damage them.
 
-The legal standard is not the logical standard. Wildly exaggerated and vague claims that no one would take seriously ("puffery", such as "the best steaks on earth") are generally not considered misleading in law. They are still not reasons to buy.
+The legal standard is not the logical standard. Wildly exaggerated and vague claims that no one would take seriously ("puffery", such as a restaurant claiming the "best steaks on earth") are generally not considered misleading in law. They are still not reasons to buy.
 
 <!-- tab: Scientific debate -->
 ## Legitimate disagreement
@@ -122,7 +122,7 @@ The aim described here is not to weigh the evidence but to create the appearance
 - When a scientific question is described as "controversial", how can a non-expert tell whether the controversy is real?
 
 ## Related concepts
-[Justification and persuasion](justification-persuasion) · [Cognitive bias](cognitive-bias) · [Confirmation bias](confirmation-bias) · [Credible](credible) · [Straw man](straw-man) · [Ad hominem](ad-hominem) · [Slippery slope](slippery-slope) · [Ad populum](ad-populum) · [Ad verecundiam](ad-verecundiam) · [Illicit appeal to nature](appeal-to-nature) · [Ad misericordiam](ad-misericordiam) · [Strong and weak](strong-weak)
+[Justification and persuasion](justification-persuasion) · [Cognitive bias](cognitive-bias) · [Confirmation bias](confirmation-bias) · [Credible](credible) · [Straw man](straw-man) · [Ad hominem](ad-hominem) · [Slippery slope](slippery-slope) · [Ad populum](ad-populum) · [Ad verecundiam](ad-verecundiam) · [Illicit appeal to nature](appeal-to-nature) · [Ad misericordiam](ad-misericordiam) · [Inductively strong and weak](strong-weak)
 
 ## Sources
 - Bland, *Reason* (Revised Edition), ch. 4, pp. 70, 74–75; ch. 5, pp. 89–90. CC BY-NC 4.0.

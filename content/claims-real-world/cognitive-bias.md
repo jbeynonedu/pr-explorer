@@ -4,7 +4,7 @@ title: Cognitive bias
 type: term
 units: [1]
 section: claims-real-world
-status: drafted
+status: checked
 related: [confirmation-bias, credible, informal-fallacy, gamblers-fallacy, ad-hominem, ad-misericordiam, hasty-generalisation, justification-persuasion, misuse-of-argument]
 sources: [tversky-kahneman-1974, pronin-lin-ross-2002, bland-reason-ch5-charity]
 ---
@@ -31,7 +31,7 @@ A bias is a tendency in the *reasoner*. A [fallacy](informal-fallacy) is a flaw 
 - **[Confirmation bias](confirmation-bias)**: seeking or interpreting evidence in ways that favour what you already believe.
 - **The availability heuristic**: judging how common or likely something is by how easily examples come to mind. As Tversky and Kahneman put it, "a class whose instances are easily retrieved will appear more numerous".
 - **Anchoring**: estimates are pulled towards a starting value, even an irrelevant one. In one study, a spinning wheel produced an arbitrary starting number. Groups given 10 as their starting point gave a median estimate of 25% for the proportion of African countries in the United Nations; groups given 65 gave 45%.
-- **The bias blind spot**: people tend to see bias much more in others than in themselves (Pronin, Lin and Ross, 2002).
+- **The bias blind spot**: people tend to see bias much more in others than in themselves (Emily Pronin, Daniel Y. Lin and Lee Ross, 2002).
 
 ## The impact on reasoning
 

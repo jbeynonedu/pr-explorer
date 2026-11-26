@@ -4,7 +4,7 @@ title: Plausible
 type: term
 units: [1]
 section: claims-real-world
-status: drafted
+status: checked
 related: [true-false, credible, claim, sound, valid, strong-weak, premise]
 sources: [bland-reason-ch3-soundness, bland-reason-ch5-popular-claims, bland-reason-ch6-acceptability]
 ---
@@ -53,7 +53,7 @@ Whether premises are plausible or well supported is a question about their accep
 - **Calling an argument plausible when you mean strong.** Plausibility belongs to claims. Arguments are [valid or invalid](valid), [sound or unsound](sound), or [strong or weak](strong-weak).
 
 ## Related concepts
-[True and false](true-false) · [Credible](credible) · [Claim](claim) · [Premise](premise) · [Sound](sound) · [Strong and weak](strong-weak)
+[True and false](true-false) · [Credible](credible) · [Claim](claim) · [Premise](premise) · [Sound and unsound](sound) · [Inductively strong and weak](strong-weak)
 
 ## Sources
 - Bland, *Reason* (Revised Edition), ch. 3, §3.6, pp. 66–67; ch. 5, p. 89; ch. 6, p. 103. CC BY-NC 4.0.

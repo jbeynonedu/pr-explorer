@@ -3,7 +3,7 @@ id: misuse-of-argument
 type: term
 section: claims-real-world
 units: [1]
-stage: drafted
+stage: checked
 approved_scope: yes
 ---
 

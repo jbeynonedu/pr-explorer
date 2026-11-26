@@ -4,7 +4,7 @@ title: Confirmation bias
 type: term
 units: [1]
 section: claims-real-world
-status: drafted
+status: checked
 related: [cognitive-bias, hasty-generalisation, generalisation, strong-weak, justification-persuasion, misuse-of-argument]
 sources: [nickerson-1998, wason-1960, lord-ross-lepper-1979, bacon-novum-organum, bland-reason-answers-ch5]
 ---
@@ -23,13 +23,13 @@ Try the task before reading on: the next section gives away the rule.
 
 ## Biased search
 
-In P. C. Wason's original version of this task (1960), people were told that 2, 4, 6 fitted a simple rule. They wrote down sets of numbers, were told whether each set fitted, and announced the rule when they felt highly confident. Many guessed a rule such as "successive even numbers" and then tested only sets that fitted their guess. Every answer came back "fits", so the guess seemed confirmed. The actual rule was "three numbers in increasing order of magnitude". Only 6 of Wason's 29 participants reached the correct rule without first reaching a wrong one.
+In P. C. Wason's original version of this task (1960), people were told that 2, 4, 6 fitted a simple rule. They wrote down sets of numbers, were told whether each set fitted, and announced the rule when they felt highly confident. As Nickerson describes the task, people typically guessed a rule such as "successive even numbers" and then tested only sets that fitted their guess. Every answer said the numbers conformed, so the guess seemed confirmed. The actual rule was "three numbers in increasing order of magnitude". Only 6 of Wason's 29 participants reached the correct rule without first reaching a wrong one.
 
-When your guess is narrower than the real rule, tests that fit your guess will always come back "fits", so they cannot show the guess is wrong. Only a test you expect to fail can do that.
+When your guess is narrower than the real rule, tests that fit your guess will always conform to the real rule too, so they cannot show the guess is wrong. Only a test you expect to fail can do that.
 
 ## Biased interpretation
 
-Confirmation bias also affects how evidence is judged once it is found. In a study by Charles G. Lord, Lee Ross and Mark R. Lepper (1979), 48 university students who supported or opposed capital punishment were shown two purported (presented, not real) studies. One seemed to support their view about whether the death penalty deters crime; the other seemed to count against it. Both groups rated the results and methods that agreed with them as more convincing, and reported that their views shifted accordingly. Overall, the same mixed evidence pushed the two sides further apart.
+Confirmation bias also affects how evidence is judged once it is found. In a study by Charles G. Lord, Lee Ross and Mark R. Lepper (1979), 48 university students who supported or opposed capital punishment were shown two purported studies (studies presented to them as genuine research). One seemed to support their view about whether the death penalty deters crime; the other seemed to count against it. Both groups rated the results and methods that agreed with them as more convincing, and reported that their views shifted accordingly. Overall, the same mixed evidence pushed the two sides further apart.
 
 The study says nothing about whether capital punishment deters crime. Its point is that supporters and opponents reacted in the same way.
 
@@ -49,7 +49,7 @@ In other words: once we accept an idea, whether because others hold it or becaus
 
 ## Confirmation bias and argument evaluation
 
-Confirmation bias is different from a biased sample. A [generalisation](generalisation) is weakened when its sample was selected one-sidedly. That is a fault in the evidence. Confirmation bias is a fault in the reasoner, though it is often how a biased sample arises. Someone who has two bad experiences and then notices only the incidents that fit their view is at high risk of a [hasty generalisation](hasty-generalisation).
+Confirmation bias is different from a biased sample. A [generalisation](generalisation) is weakened when its sample was selected one-sidedly. That is a fault in the evidence. Confirmation bias is a fault in the reasoner, though it can be how a biased sample arises. Someone who has two bad experiences and then notices only the incidents that fit their view is at high risk of a [hasty generalisation](hasty-generalisation).
 
 The main safeguard is to look deliberately for evidence that would count against your view, and to judge supporting and opposing evidence by the same standard.
 

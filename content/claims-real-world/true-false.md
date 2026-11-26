@@ -4,7 +4,7 @@ title: True and false
 type: term
 units: [1]
 section: claims-real-world
-status: drafted
+status: checked
 related: [proposition, claim, plausible, credible, valid, sound, strong-weak, descriptive-normative]
 sources: [bland-reason-ch1, bland-reason-ch3-soundness, sep-truth, sep-relativism]
 ---
@@ -53,7 +53,7 @@ The form is valid, but premise 1 is false, so the argument is unsound. An argume
 - **"It's true for me."** Ask what is meant. It may mean "I believe it", or that the claim is true *of* the speaker ("Spicy food upsets my stomach"). It may also express *relativism about truth*. This is the philosophical view that what is true for one person or group may not be true for another, with no neutral standpoint to decide between them. That view is debated in philosophy; the phrase alone does not establish it.
 
 ## Related concepts
-[Proposition](proposition) · [Claim](claim) · [Plausible](plausible) · [Credible](credible) · [Valid](valid) · [Sound](sound) · [Strong and weak](strong-weak) · [Descriptive and normative claims](descriptive-normative)
+[Proposition](proposition) · [Claim](claim) · [Plausible](plausible) · [Credible](credible) · [Deductively valid and invalid](valid) · [Sound and unsound](sound) · [Inductively strong and weak](strong-weak) · [Descriptive and normative claims](descriptive-normative)
 
 ## Sources
 - Bland, *Reason* (Revised Edition), ch. 1, §1.1, p. 9; ch. 3, §3.6, pp. 66–67. CC BY-NC 4.0.

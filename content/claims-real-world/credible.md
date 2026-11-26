@@ -4,7 +4,7 @@ title: Credible
 type: term
 units: [1]
 section: claims-real-world
-status: drafted
+status: checked
 related: [plausible, true-false, claim, ad-verecundiam, ad-hominem, tu-quoque, ad-populum, sound]
 sources: [bland-reason-ch4-ad-hominem, bland-reason-ch6-acceptability, hume-enquiry-x]
 ---
@@ -53,7 +53,7 @@ Two errors sit on either side:
 Two sources report that a new bus route will cut travel time to school by ten minutes. One is the bus company's media release. The other is a council study that timed trial runs. The council study is more credible because it reports measurements that others could check. The company's interest in the route is a reason to check its claim, not a reason to conclude that the claim is false. Taken together, the measured trial runs give good support for the claim, and the media release adds little to it.
 
 ## Related concepts
-[Plausible](plausible) · [True and false](true-false) · [Claim](claim) · [Ad verecundiam](ad-verecundiam) · [Ad hominem](ad-hominem) · [Tu quoque](tu-quoque) · [Ad populum](ad-populum) · [Sound](sound)
+[Plausible](plausible) · [True and false](true-false) · [Claim](claim) · [Ad verecundiam](ad-verecundiam) · [Ad hominem](ad-hominem) · [Tu quoque](tu-quoque) · [Ad populum](ad-populum) · [Sound and unsound](sound)
 
 ## Sources
 - Hume, D., *An Enquiry Concerning Human Understanding* (1748), §X Part 1 (paragraphs 4–7 in this edition). Standard Ebooks edition, based on the Selby-Bigge text of the posthumous 1777 edition. Public domain. https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding
