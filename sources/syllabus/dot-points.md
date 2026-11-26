@@ -35,6 +35,49 @@ Topic description (p. 11): "In this topic, students examine the characteristics 
 
 **Evaluate** claims and arguments from a range of sources using appropriate criteria such as truth, validity, soundness and/or strength.
 
+## Unit 2, Topic 1: Philosophy of religion (p. 14)
+
+Topic description: "In this topic, students explore and demonstrate how the fundamentals of reason are used to engage with religious conceptions of god and morality. Arguments about the existence and nature of a god or gods will involve the generation of questions and theses and use of reasoning techniques."
+
+**Define and use terminology relating to**
+- religion, including religion, god, omnipotence, omniscience, benevolence, good, evil
+- the composition, structure, quality and purpose of argument, as listed in Unit 1.
+
+**Explain the nature, composition and purpose of philosophical arguments about the existence and nature of a god or gods, including**
+- ontological argument/s
+- cosmological argument/s
+- teleological argument/s
+- the problem of evil/suffering.
+
+**Interpret and analyse philosophical arguments, ideas and information about the existence and nature of a god or gods in order to**
+- identify the components of arguments, including premises and conclusions
+- identify hidden premises or assumptions
+- translate and symbolise propositions using logical operators
+- identify and distinguish between any necessary and sufficient conditions
+- classify arguments, e.g. inductive/deductive, argument type
+- identify any formal or informal fallacies
+- determine relationships within and between ideas and arguments.
+
+**Generate questions and theses regarding issues such as the**
+- nature of a god or gods
+- relationship between religion and science
+- nature of morality.
+
+**Synthesise** information, ideas and arguments related to philosophy of religion, including criticisms and counterarguments.
+
+**Evaluate** claims and arguments inherent in philosophical theories and views about the existence and nature of a god or gods, using appropriate criteria such as truth, validity, soundness and/or strength.
+
+**Evaluate** the role of reason in discourse about the existence and nature of a god or gods.
+
+## Unit 3, Topic 1: Moral philosophy (p. 18), for `good` and `evil`
+
+**Define and use terminology relating to**
+- moral philosophy, including morality, ethics, good, evil, happiness, suffering, flourishing, duty, right, virtue, value, absolutism, relativism
+
+**Generate questions and theses regarding issues such as** (extract)
+- the nature of morality
+- the relationship between morality and religion
+
 ## Unit 2, Topic 2: Philosophy of science (p. 15)
 
 Topic description: "In this topic, students will explore and demonstrate how the fundamentals of reason are used within science to create new knowledge. This includes the use of deduction through the hypothetico–deductive method (falsification) and the use of induction through the use of analogy and generalisation. Students will use this knowledge to assess the status of knowledge claims within science."
