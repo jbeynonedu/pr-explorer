@@ -74,3 +74,30 @@ Abstract, APA PsycNet (https://psycnet.apa.org/doi/10.1037/0022-3514.37.11.2098)
 Abstract, SAGE page EXACT (browser output was cut off at the end):
 
 > Three studies suggest that individuals see the existence and operation of cognitive and motivational biases much more in others than in themselves. Study 1 provides evidence from three surveys that people rate themselves as less subject to various biases than the "average American," classmates in a seminar, and fellow airport travelers. Data from the third survey further suggest that such claims arise from the interplay among availability biases and self-enhancement motives. Participants in one follow-up study who showed the better-than-average bias insisted that their self-assessments were accurate and objective even after reading a description of how they could have been affected by the relevant bias. Participants in a final study reported their peer's self-serving attributions regarding test performance to be biased but their own similarly self-serving attributions to be free of bias. […]
+
+## Additions after the Checked stage (27 Nov 2026)
+
+TOOL-EXACT = quoted by WebFetch; EXACT = from fetched page or search-result text.
+
+### Authors' full names (from fetched title pages and records)
+- Raymond S. Nickerson, Tufts University (PDF title page, p. 175; WebSearch snippet of the UCSD PDF).
+- Amos Tversky and Daniel Kahneman (PDF title page, sites.stat.washington.edu copy; WebSearch snippet).
+- Charles G. Lord, Lee Ross, and Mark R. Lepper (PDF title page, ResearchGate copy; WebSearch snippet).
+- Emily Pronin, Daniel Y. Lin, Lee Ross (SAGE page title, read in John's Chrome).
+- Peter Wason: "P. C. Wason" on the article; "Peter Wason" in secondary sources (WebSearch snippets: Cambridge *Good Thinking*; Gale & Ball). Entries use "P. C. Wason".
+- Life dates are not recorded for these researchers (see the note to John on dates for researchers).
+
+### Wason (1960), full text. Copy hosted at https://bear.warrington.ufl.edu/brenner/mar7588/Papers/wason-qjep1960.pdf (fetched by WebFetch). TOOL-EXACT:
+- p. 131: In the experiment the concept to be attained is "three numbers in increasing order of magnitude."
+- p. 131: "Subjects were told that the three numbers 2,4, 6, conformed to a simple relational rule"
+- p. 131 (instructions): "Your aim is to discover this rule by writing down sets of three numbers, together with reasons for your choice of them." "When you feel highly confident that you have discovered it" [announce it]. "There is no time limit but you should try to discover this rule by citing the minimum sets of numbers."
+- pp. 131–132 (feedback): "those numbers do conform to rule," or "those numbers do not conform to the rule," "according to whether they were in increasing order of magnitude."
+- The paper does not say how equal numbers were treated (WebFetch report). The interactive treats equal numbers as not increasing; this is an interpretation of "increasing order of magnitude".
+- p. 139: "the use of confirming evidence alone will compel the announcement of a rule"
+
+### Nickerson (1998), biased memory. TOOL-EXACT, p. 178, describing D. Kuhn (1989):
+- "When they were asked to recall their theories and the related evidence that had been presented, participants were likely to recall the evidence as being more consistent with the theories than it actually was."
+
+### Tversky & Kahneman (1974), additional TOOL-EXACT lines:
+- p. 1127: "a class whose instances are easily retrieved will appear more numerous"
+- p. 1128, anchoring: the starting numbers came from a spinning wheel; the source calls them "arbitrary" (checker's WebFetch report); participants first judged whether the true value was higher or lower than the number (SUMMARY, checker's WebFetch report). Note: the header line above ("Examples in entries are therefore constructed") no longer holds for the anchoring example, which is a short paraphrase of p. 1128.

@@ -21,13 +21,13 @@ Much of what you know you accept on someone's word: a textbook, a news report, a
 
 - **Relevant expertise.** Is the source an expert in the field the claim belongs to? (See [ad verecundiam](ad-verecundiam) for how appeals to authority go wrong.)
 - **Track record.** Has the source been reliable before?
-- **Interest in the outcome.** A strong interest in the outcome bears on how credible a source is, and is a reason to check their claims more carefully. It is not a reason to conclude that the claim is false.
+- **Interest in the outcome.** A strong interest in the outcome bears on how credible a source is, and is a reason to check its claims more carefully. It is not a reason to conclude that the claim is false.
 - **Corroboration.** Do independent sources agree?
-- **Fit with what is well established.** A claim that contradicts credible evidence or a well-established claim should not be accepted as a premise without strong support.
+- **Fit with the evidence.** Does the claim fit, or conflict with, well-established evidence? A premise that contradicts well-established evidence or a legitimate authority is not acceptable as it stands.
 
 ## Hume on testimony
 
-David Hume (1711–1776) argued that our trust in what others tell us rests on experience: we have found that people's reports usually match the facts. So testimony deserves more or less belief depending on the circumstances.
+In *An Enquiry Concerning Human Understanding* (1748), David Hume (1711–1776) argued that our trust in what others tell us rests on experience: we have found that people's reports usually match the facts. So testimony deserves more or less belief depending on the circumstances. He starts from a general principle about evidence, then applies it to testimony:
 
 > A wise man, therefore, proportions his belief to the evidence.
 >
@@ -37,7 +37,7 @@ David Hume (1711–1776) argued that our trust in what others tell us rests on e
 >
 > — Hume, *Enquiry*, §X, Part 1
 
-In other words: doubt a report more when witnesses disagree, when there are few of them or they are unreliable, when they gain from being believed, or when they speak too hesitantly or too forcefully ("asseverations" are emphatic declarations).
+In other words: doubt a report more when witnesses disagree, when there are few of them or they are unreliable, when they have a stake in what they report, or when they speak too hesitantly or with too much insistence.
 
 ## Credibility and argument quality
 
@@ -46,16 +46,16 @@ The credibility of the person giving an argument never changes whether it is [va
 Two errors sit on either side:
 
 - Rejecting a claim only because of who made it: [ad hominem](ad-hominem) or [tu quoque](tu-quoque).
-- Accepting a claim only because many people believe it: [ad populum](ad-populum).
+- Accepting a claim only because of who made it, without relevant expertise behind it: [ad verecundiam](ad-verecundiam); or only because many people believe it: [ad populum](ad-populum).
 
 ## Example
 
-Two sources report that a new bus route will cut travel time to school by ten minutes. One is the bus company's media release. The other is a council study that timed trial runs. The council study is more credible: it reports measurements, and its authors have less to gain. The company's interest is a reason to check its claim, not proof that it is wrong.
+Two sources report that a new bus route will cut travel time to school by ten minutes. One is the bus company's media release. The other is a council study that timed trial runs. The council study is more credible because it reports measurements that others could check. The company's interest in the route is a reason to check its claim, not a reason to conclude that the claim is false. Taken together, the measured trial runs give good support for the claim, and the media release adds little to it.
 
 ## Related concepts
 [Plausible](plausible) · [True and false](true-false) · [Claim](claim) · [Ad verecundiam](ad-verecundiam) · [Ad hominem](ad-hominem) · [Tu quoque](tu-quoque) · [Ad populum](ad-populum) · [Sound](sound)
 
 ## Sources
-- Hume, D., *An Enquiry Concerning Human Understanding* (1748), §X Part 1 (paragraphs 4, 5 and 7 in this edition). Standard Ebooks edition, based on the Selby-Bigge text of the posthumous 1777 edition. Public domain. https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding
+- Hume, D., *An Enquiry Concerning Human Understanding* (1748), §X Part 1 (paragraphs 4–7 in this edition). Standard Ebooks edition, based on the Selby-Bigge text of the posthumous 1777 edition. Public domain. https://standardebooks.org/ebooks/david-hume/an-enquiry-concerning-human-understanding
 - Bland, *Reason* (Revised Edition), ch. 4, p. 71; ch. 6, p. 103. CC BY-NC 4.0.
 - Dates: *Stanford Encyclopedia of Philosophy*, "David Hume".

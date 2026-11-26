@@ -27,6 +27,10 @@ Fetched 27 Nov 2026 from John's Chrome (Claude in Chrome, page text). EXACT = wh
 
 > A belief is true if and only if it is part of a coherent system of beliefs.
 
+## §1.2: coherence stronger than consistency EXACT
+
+> To further the contrast with the neo-classical correspondence theory, we may add that a proposition is true if it is the content of a belief in the system, or entailed by a belief in the system. We may assume, with Joachim, that the condition of coherence will be stronger than consistency. With the idealists generally, we might suppose that features of the believing subject will come into play.
+
 ## §1.2: analysis, not a test EXACT
 
 > This theory is offered as an analysis of the nature of truth, and not simply a test or criterion for truth. Put as such, it is clearly not Joachim’s theory (it lacks his monism, and he rejects propositions), but it is a standard take on coherence in the contemporary literature. (It is the way the coherence theory is given in Walker 1989, for instance. See also Young 2001 for a recent defense of a coherence theory.) Let us take this as our neo-classical version of the coherence theory. The contrast with the correspondence theory of truth is clear. Far from being a matter of whether the world provides a suitable object to mirror a proposition, truth is a matter of how beliefs are related to each-other.

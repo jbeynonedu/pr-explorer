@@ -5,7 +5,7 @@ type: term
 units: [1]
 section: claims-real-world
 status: drafted
-related: [confirmation-bias, informal-fallacy, gamblers-fallacy, ad-hominem, ad-misericordiam, hasty-generalisation, justification-persuasion, misuse-of-argument]
+related: [confirmation-bias, credible, informal-fallacy, gamblers-fallacy, ad-hominem, ad-misericordiam, hasty-generalisation, justification-persuasion, misuse-of-argument]
 sources: [tversky-kahneman-1974, pronin-lin-ross-2002, bland-reason-ch5-charity]
 ---
 
@@ -15,27 +15,27 @@ sources: [tversky-kahneman-1974, pronin-lin-ross-2002, bland-reason-ch5-charity]
 
 ## Where biases come from
 
-Many biases come from *heuristics*: mental shortcuts for making judgements quickly. The psychologists Amos Tversky and Daniel Kahneman described heuristics as "highly economical and usually effective" ways of judging under uncertainty, which nevertheless lead to systematic and predictable errors (1974).
+Many biases come from *heuristics*: mental shortcuts for making judgements quickly. (Others have motivational sources, such as wanting to see yourself favourably.) The psychologists Amos Tversky and Daniel Kahneman (1974) described heuristics as "highly economical and usually effective" ways of judging under uncertainty, which nevertheless lead to systematic and predictable errors.
 
-So a bias is not a sign of stupidity. The shortcut usually works, which is why people rely on it. It fails in particular kinds of case, and it fails in the same direction each time. Tversky and Kahneman reported that experienced researchers are prone to the same biases when they think intuitively.
+So a bias is not a sign of stupidity. The shortcut usually works, which is why people rely on it. It fails in particular kinds of case, and when it fails, it tends to fail in the same direction. Tversky and Kahneman reported that experienced researchers are prone to the same biases when they think intuitively.
 
 ## Bias and fallacy
 
 A bias is a tendency in the *reasoner*. A [fallacy](informal-fallacy) is a flaw in an *argument*. The two are connected, but they are not the same:
 
-- A bias can lead someone to commit a fallacy. Tversky and Kahneman linked the [gambler's fallacy](gamblers-fallacy) to the belief that chance is "a self-correcting process".
-- A biased person can still give a good argument. The argument stands or falls on its premises and how well they support the conclusion, not on the psychology of the person giving it (see [ad hominem](ad-hominem)).
+- A bias can lead someone to commit a fallacy. Tversky and Kahneman traced the [gambler's fallacy](gamblers-fallacy) to mistaken beliefs about chance, which is often viewed as "a self-correcting process".
+- A biased person can still give a good argument. The argument stands or falls on its premises and how well they support the conclusion, not on the psychology of the person giving it (see [ad hominem](ad-hominem)). Bias does matter when you accept a claim on someone's word; see [credible](credible).
 
-## Some well-documented biases
+## Some well-documented heuristics and biases
 
 - **[Confirmation bias](confirmation-bias)**: seeking or interpreting evidence in ways that favour what you already believe.
-- **Availability**: judging how common or likely something is by how easily examples come to mind. So things that are easy to recall can seem more common or more likely than they really are.
-- **Anchoring**: estimates are pulled towards a starting value, even an irrelevant one. In one study, a wheel of fortune produced a random starting number. Groups given 10 as their starting point gave a median estimate of 25% for the proportion of African countries in the United Nations; groups given 65 gave 45%.
+- **The availability heuristic**: judging how common or likely something is by how easily examples come to mind. As Tversky and Kahneman put it, "a class whose instances are easily retrieved will appear more numerous".
+- **Anchoring**: estimates are pulled towards a starting value, even an irrelevant one. In one study, a spinning wheel produced an arbitrary starting number. Groups given 10 as their starting point gave a median estimate of 25% for the proportion of African countries in the United Nations; groups given 65 gave 45%.
 - **The bias blind spot**: people tend to see bias much more in others than in themselves (Pronin, Lin and Ross, 2002).
 
 ## The impact on reasoning
 
-Biases can affect every stage of an argument: which evidence you look for, which [premises](premise) seem acceptable, and how much weight you give to each side. No technique removes them entirely. Some habits reduce their effect:
+Biases can affect many stages of an argument: which evidence you look for, which [premises](premise) seem acceptable, and how much weight you give to each side. No technique removes them entirely. Some habits can help guard against them:
 
 - set the argument out in [standard form](standard-form), so each premise can be checked on its own;
 - look deliberately for counterexamples and for evidence that would count against your view;

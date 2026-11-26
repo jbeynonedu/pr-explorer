@@ -39,6 +39,8 @@ Case study EXACT (a real, sourced, non-partisan example; usable under style guid
 
 > In June 2022, Samsung Electronics Australia Pty Ltd was ordered by the Federal Court to pay $14 million in penalties for misleading water resistance claims about its mobile phones. Samsung admitted to the court that its ads misrepresented the water resistance of its phones.
 
+> Samsung published 9 ads online and in-store. The ads showed the use of various Samsung Galaxy phones in pools and sea water.
+
 > Pool and sea water could, in fact, damage the phones by corroding the charging ports.
 
 - SUMMARY for the entry: legal standard ≠ logical standard. The law asks whether conduct creates a false *overall impression*; puffery is generally not misleading in law, but it still gives no reason to believe the claim. An advertisement can be lawful and still a weak argument.
@@ -55,3 +57,10 @@ Quotation, from the UCSF catalogue description EXACT (the record's OCR excerpt h
 
 - Note: the scan itself was not opened (PDF viewer); the wording above is the library's transcription in its record. Before approval, open the PDF page at Checked if possible.
 - SUMMARY for the entry: the document treats doubt itself as the goal, not the outcome of weighing evidence. This is a misuse of the fallibility of science: no inductive conclusion is certain, so it is always possible to say "not proven" (link `strong-weak`, `problem-of-induction`).
+
+### Scan checked (27 Nov 2026, Checked stage)
+Opened in John's Chrome: the document viewer for psdw0147, page 4 of 9 (typed page "- 4 -"; Bates 690010954; record Bates range 690010951–690010959). Read from the scan image (EXACT as typed, checked by eye; the viewer's OCR is unreliable):
+
+> Doubt is our product since it is the best means of competing with the "body of fact" that exists in the mind of the general public. It is also the means of establishing a controversy.
+
+The typed original uses double quotation marks around "body of fact"; the catalogue description uses single. Entries follow the scan. The sentences that follow on the scan read, in part: "Within the business we recognize that a controversy exists. However, with the general public the consensus is that cigarettes are in some way harmful to the health." (recorded for context; not quoted in entries).

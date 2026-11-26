@@ -11,25 +11,31 @@ sources: [nickerson-1998, wason-1960, lord-ross-lepper-1979, bacon-novum-organum
 
 # Confirmation bias
 
-**Confirmation bias is the tendency to look for and interpret evidence in ways that favour what you already believe or expect.** It is the best-known [cognitive bias](cognitive-bias). In the psychologist Raymond Nickerson's definition, it is "the seeking or interpreting of evidence in ways that are partial to existing beliefs" (1998).
+**Confirmation bias is the tendency to look for and interpret evidence in ways that favour what you already believe or expect.** It is a [cognitive bias](cognitive-bias). As the psychologist Raymond S. Nickerson (1998) puts it, the term is typically used for "the seeking or interpreting of evidence in ways that are partial to existing beliefs".
 
-Confirmation bias is usually not deliberate. Building a one-sided case on purpose, as a debater or advocate does, is something different. Confirmation bias is the less conscious version: you believe you are weighing the evidence fairly, but your search and your judgements lean one way.
+Confirmation bias is usually not deliberate. Building a one-sided case on purpose is something different. Confirmation bias is the less conscious version: you may think you are weighing the evidence fairly, while your search and your judgements lean one way.
 
 ## Try it
+
+Try the task before reading on: the next section gives away the rule.
 
 <!-- interactive: rule-246 -->
 
 ## Biased search
 
-In P. C. Wason's original version of this task (1960), people were told that 2, 4, 6 fitted a rule and tested sets of numbers to discover it. Many guessed a rule such as "successive even numbers" and then tested only sets that fitted their guess. Every answer came back "fits", so the guess seemed confirmed. The actual rule was any three numbers in ascending order. Only 6 of Wason's 29 participants reached the correct rule without first reaching a wrong one.
+In P. C. Wason's original version of this task (1960), people were told that 2, 4, 6 fitted a simple rule. They wrote down sets of numbers, were told whether each set fitted, and announced the rule when they felt highly confident. Many guessed a rule such as "successive even numbers" and then tested only sets that fitted their guess. Every answer came back "fits", so the guess seemed confirmed. The actual rule was "three numbers in increasing order of magnitude". Only 6 of Wason's 29 participants reached the correct rule without first reaching a wrong one.
 
-Tests that can only confirm your guess cannot show it is wrong. The informative tests are the ones you expect to fail.
+When your guess is narrower than the real rule, tests that fit your guess will always come back "fits", so they cannot show the guess is wrong. Only a test you expect to fail can do that.
 
 ## Biased interpretation
 
-Confirmation bias also affects how evidence is judged once it is found. In a study by Charles Lord, Lee Ross and Mark Lepper (1979), 48 university students who either supported or opposed capital punishment were shown two purported studies: one seemed to support their view about whether the death penalty deters crime, the other seemed to count against it. Both groups rated the results and methods that agreed with them as more convincing, and their views shifted accordingly. Overall, the same mixed evidence pushed the two sides further apart.
+Confirmation bias also affects how evidence is judged once it is found. In a study by Charles G. Lord, Lee Ross and Mark R. Lepper (1979), 48 university students who supported or opposed capital punishment were shown two purported (presented, not real) studies. One seemed to support their view about whether the death penalty deters crime; the other seemed to count against it. Both groups rated the results and methods that agreed with them as more convincing, and reported that their views shifted accordingly. Overall, the same mixed evidence pushed the two sides further apart.
 
 The study says nothing about whether capital punishment deters crime. Its point is that supporters and opponents reacted in the same way.
+
+## Biased memory
+
+The bias can also shape what people remember. Nickerson reports a study in which participants, asked to recall evidence they had been shown, "were likely to recall the evidence as being more consistent with the theories than it actually was".
 
 ## Bacon's description
 
@@ -54,11 +60,11 @@ The main safeguard is to look deliberately for evidence that would count against
 - Is a debater who builds a one-sided case doing anything wrong?
 
 ## Related concepts
-[Cognitive bias](cognitive-bias) · [Hasty generalisation](hasty-generalisation) · [Generalisation](generalisation) · [Strong and weak](strong-weak) · [Justification and persuasion](justification-persuasion) · [Use and misuse of argument](misuse-of-argument)
+[Cognitive bias](cognitive-bias) · [Hasty generalisation](hasty-generalisation) · [Generalisation](generalisation) · [Inductively strong and weak](strong-weak) · [Justification and persuasion](justification-persuasion) · [Use and misuse of argument](misuse-of-argument)
 
 ## Sources
 - Nickerson, R. S. (1998), "Confirmation Bias: A Ubiquitous Phenomenon in Many Guises", *Review of General Psychology* 2(2): 175–220 (pp. 175, 178–179).
-- Wason, P. C. (1960), "On the Failure to Eliminate Hypotheses in a Conceptual Task", *Quarterly Journal of Experimental Psychology* 12(3): 129–140 (abstract).
+- Wason, P. C. (1960), "On the Failure to Eliminate Hypotheses in a Conceptual Task", *Quarterly Journal of Experimental Psychology* 12(3): 129–140 (abstract; pp. 131–132).
 - Lord, C. G., Ross, L. & Lepper, M. R. (1979), "Biased assimilation and attitude polarization", *Journal of Personality and Social Psychology* 37(11): 2098–2109 (abstract).
 - Bacon, F., *Novum Organum* (1620), Book I, Aphorism XLVI, trans. J. Spedding, R. L. Ellis and D. D. Heath, in *The Works of Francis Bacon*, vol. VIII (Boston, 1863), pp. 79–80. Public domain.
 - Bland, *Reason* (Revised Edition), answers to ch. 5 exercises, pp. 146–147. CC BY-NC 4.0.

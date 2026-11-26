@@ -5,7 +5,7 @@ type: term
 units: [1]
 section: claims-real-world
 status: drafted
-related: [purposes-of-argument, argument, valid, sound, strong-weak, ad-misericordiam, ad-populum, ad-verecundiam, straw-man, misuse-of-argument]
+related: [purposes-of-argument, argument, valid, sound, strong-weak, credible, ad-misericordiam, ad-populum, ad-verecundiam, straw-man, misuse-of-argument]
 sources: [bland-reason-ch4-rhetoric, plato-gorgias-jowett, aristotle-rhetoric-roberts, syllabus-p7]
 ---
 
@@ -22,19 +22,19 @@ An argument can persuade without justifying, and justify without persuading:
 | **Justifies** | A well-evidenced case for a new school timetable that the staff accept | The same case, rejected because the staff dislike the person presenting it |
 | **Does not justify** | A catchy slogan, a frightening image, or "everyone is switching to it" | A muddled speech that convinces no one |
 
-A slogan or an appeal to fear can work on an audience while giving no reason at all; see [ad misericordiam](ad-misericordiam) and [ad populum](ad-populum). A sound argument can fail to convince because the audience is distracted, hostile or unwilling to accept the conclusion.
+A slogan or an appeal to fear can work on an audience while giving no relevant reason; see [ad misericordiam](ad-misericordiam) and [ad populum](ad-populum). A sound argument can fail to convince because the audience is distracted, hostile or unwilling to accept the conclusion.
 
 ## The difference in quality of argument
 
-A justification is judged by the standards of argument: whether a deductive argument is [valid](valid) and [sound](sound), or an inductive one [strong](strong-weak), and whether its premises are true. Persuasiveness is judged only by whether it worked. So "it convinced people" is never, on its own, evidence that an argument is good.
+A justification is judged by the standards of argument: whether a deductive argument is [valid](valid) and [sound](sound), or an inductive one [strong](strong-weak), and whether its premises are true. Persuasiveness is judged only by whether it worked. So "it convinced people" is not, on its own, good evidence that an argument is good.
 
-Persuasion is not bad in itself. A good argument *should* persuade a reasonable audience. The problem arises when persuasion takes the place of justification.
+Persuasion is not bad in itself. A good argument should persuade an audience that has good reason to accept its premises. The problem arises when persuasion takes the place of justification.
 
 ## Rhetoric: three ways to persuade
 
 Aristotle (384–322 BCE) described three ways a speech persuades: through the speaker's character, which makes the speaker seem credible; through the emotions it stirs in the audience; and through the argument itself, which shows that something is true or appears to be. These are often labelled *ethos*, *pathos* and *logos*.
 
-Only the third, the reasons, bears on justification. Aristotle himself treated all three as legitimate parts of rhetoric, and an appeal to emotion is not always fallacious (see [ad misericordiam](ad-misericordiam), "When it is not fallacious"). But character and emotion can move an audience without giving any reason to accept the claim.
+Only reasons justify a claim. The third mode supplies arguments, but they may be real or only apparent: a fallacy can persuade as well as a good argument. Character and emotion can also bear on justification where they supply a relevant reason. The word of a [credible](credible) expert is one example (see [ad verecundiam](ad-verecundiam)), and an emotion that tracks a relevant fact is another (see [ad misericordiam](ad-misericordiam)). Aristotle himself treated all three as legitimate parts of rhetoric. The problem comes when character or emotion moves an audience without giving any relevant reason.
 
 ## Plato: belief without knowledge
 
@@ -44,17 +44,17 @@ In the *Gorgias*, by Plato (429?–347 BCE), Socrates questions the rhetorician 
 >
 > — Plato, *Gorgias* 454e (trans. Jowett)
 
-Gorgias agrees, and accepts that rhetoric in the law courts produces only belief:
+Gorgias agrees, and accepts that rhetoric in the law courts and other assemblies produces only belief:
 
 > Then rhetoric, as would appear, is the artificer of a persuasion which creates belief about the just and unjust, but gives no instruction about them?
 >
 > — Plato, *Gorgias* 455a (trans. Jowett)
 
-In other words: persuasion can leave people believing something without understanding why it is true. The dialogue goes on to ask what such rhetoric is worth.
+In other words: persuasion can produce belief, true or false, without knowledge. Plato's persuasion that gives knowledge is close to what this entry calls justification.
 
 ## In your own writing
 
-An analytical essay aims at justification. Its language should persuade through logic rather than rhetoric: the reader should be convinced by the reasons, not by the writer's tone.
+An analytical essay aims at justification. Its language should persuade through logic rather than rhetorical technique: the reader should be convinced by the reasons, not by the writer's tone.
 
 ## Questions to explore
 
@@ -63,7 +63,7 @@ An analytical essay aims at justification. Its language should persuade through 
 - Should a speaker's character ever count as a reason to accept what they say?
 
 ## Related concepts
-[Purposes of argument](purposes-of-argument) · [Argument](argument) · [Valid](valid) · [Sound](sound) · [Strong and weak](strong-weak) · [Ad misericordiam](ad-misericordiam) · [Ad populum](ad-populum) · [Ad verecundiam](ad-verecundiam) · [Straw man](straw-man) · [Use and misuse of argument](misuse-of-argument)
+[Purposes of argument](purposes-of-argument) · [Argument](argument) · [Deductively valid and invalid](valid) · [Sound and unsound](sound) · [Inductively strong and weak](strong-weak) · [Credible](credible) · [Ad misericordiam](ad-misericordiam) · [Ad populum](ad-populum) · [Ad verecundiam](ad-verecundiam) · [Straw man](straw-man) · [Use and misuse of argument](misuse-of-argument)
 
 ## Sources
 - Plato, *Gorgias* 454e–455a, trans. Benjamin Jowett (1892). Standard Ebooks edition of *Dialogues*. Public domain. https://standardebooks.org/ebooks/plato/dialogues/benjamin-jowett . Stephanus numbers from the Perseus Digital Library (Lamb trans.).
