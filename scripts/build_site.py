@@ -28,7 +28,7 @@ BLURB = {
     'Building blocks': 'What an argument is made of, and how to set it out.',
     'Deduction': 'Arguments that aim to guarantee their conclusion.',
     'Symbolic logic': 'Operators, valid forms and formal fallacies.',
-    'Informal fallacies': 'The informal fallacies named in the syllabus.',
+    'Informal fallacies': 'Flaws in the content of reasoning, not its form.',
     'Induction': 'Arguments that aim to make their conclusion probable.',
     'Claims and reason in the real world': 'Judging claims, bias, and argument in the wild.',
     'Philosophy of religion': 'Arguments about the existence and nature of God.',
