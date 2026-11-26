@@ -1,45 +1,110 @@
 # Henderson, "The Problem of Induction", *Stanford Encyclopedia of Philosophy*
 
-Fetched 26 Nov 2026 by WebFetch (no browser). WebFetch returns a model's answer, not the page: EXACT lines are short quotations (≤125 characters) that the tool reported as exact; SUMMARY lines are its paraphrase. **Upgrade to full text if John supplies a copy of the page.** Do not quote SEP in entries beyond EXACT lines; paraphrase and credit.
+Full page text supplied by John (select-all copy, 26 Nov 2026). The full copy is kept outside the repo (public repo; SEP is in copyright); only the passages needed for drafting and checking are stored here. EXACT = copied by script from the supplied text. Line numbers refer to John's copy. Quote SEP in entries only briefly; paraphrase and credit.
 
-- Author: Leah Henderson. First published 21 Mar 2018; substantive revision 22 Nov 2022 (SUMMARY: as reported by WebFetch).
+- Author: Leah Henderson. "First published Wed Mar 21, 2018; substantive revision Tue Nov 22, 2022" (line 16). Copyright © 2022 Leah Henderson.
 - URL: https://plato.stanford.edu/entries/induction-problem/
-- Sections: 1 Hume's Problem; 2 Reconstruction; 3 Tackling the First Horn (3.1 Synthetic a priori; 3.2 Nomological-Explanatory; 3.3 Bayesian; 3.4 Partial; 3.5 Combinatorial); 4 Tackling the Second Horn (4.1 Inductive Justifications of Induction; 4.2 No Rules); 5 Alternative Conceptions of Justification (5.1 Postulates and Hinges; 5.2 Ordinary Language Dissolution; 5.3 Pragmatic vindication; 5.4 Formal Learning Theory; 5.5 Meta-induction); 6 Living with Inductive Skepticism.
+- Citation conventions (bibliography): [T] Treatise "Cited by book.part.section.paragraph"; [E] Enquiry "Cited by section.part.paragraph".
+- Note: SEP numbers Enquiry paragraphs across the whole section (e.g. "E. 4.2.16" for the bread passage); the Hume pack numbers paragraphs within each part (E 4.2.3). Use SEP's numbering in entries, or the section and part only; see `hume-enquiry.md`.
 
-## Intro and §1
-- EXACT: "Book 1, part iii, section 6 of *A Treatise of Human Nature*"
-- EXACT: "In 1748, Hume gave a shorter version of the argument in Section iv of *An enquiry concerning human understanding*"
-- EXACT: the argument "has become known as “the problem of induction”" (SUMMARY: presented as a later label, not Hume's phrase).
-- SUMMARY: cites the argument as T 1.3.6 and E 4.2. Bibliography: [T] cited by book.part.section.paragraph; [E] cited by section.part.paragraph.
-- SUMMARY: names the principle the "Uniformity Principle (UP)": unobserved instances resemble observed ones; the course of nature continues uniformly the same.
-- EXACT: "Sometimes it is also called the “Resemblance Principle”, or the “Principle of Uniformity of Nature”."
-- EXACT (Russell, quoted in intro): "there is no intellectual difference between sanity and insanity"
+## Introduction
+> We generally think that the observations we make are able to justify some expectations or predictions about observations we have not yet made, as well as general claims that go beyond the observed. For example, the observation that bread of a certain appearance has thus far been nourishing seems to justify the expectation that the next similar piece of bread I eat will also be nourishing, as well as the claim that bread of this sort is generally nourishing. Such inferences from the observed to the unobserved, or to general laws, are known as “inductive inferences”. (intro, line 17 of supplied text) EXACT
 
-## §2 Reconstruction (SUMMARY, numbered as reported)
-Example inference: observed bread of a certain appearance has nourished, so the next such bread will nourish.
-- P1. There are only two kinds of arguments: demonstrative and probable (Hume's fork).
-- P2. Inductive inferences presuppose the UP.
-- First horn: P3. A demonstrative argument establishes a conclusion whose negation is a contradiction. P4. The negation of the UP is not a contradiction. C1. There is no demonstrative argument for the UP.
-- Second horn: P5. Any probable argument for the UP presupposes the UP. P6. An argument for a principle may not presuppose the same principle. C2. There is no probable argument for the UP.
-- Consequences: C3. There is no argument for the UP (P1, C1, C2). P7. If there is no argument for the UP, there is no chain of reasoning from the premises to the conclusion of any inference that presupposes the UP. C4. There is no chain of reasoning from the premises to the conclusion of the example inference. P8. If there is no chain of reasoning from the premises to the conclusion, the inference is not justified. C5. The inference is not justified.
-- SUMMARY: scholars disagree about how to read several premises, especially P3 and P8.
+> The original source of what has become known as the “problem of induction” is in Book 1, part iii, section 6 of A Treatise of Human Nature by David Hume, published in 1739 (Hume 1739). In 1748, Hume gave a shorter version of the argument in Section iv of An enquiry concerning human understanding (Hume 1748). Throughout this article we will give references to the Treatise as “T”, and the Enquiry as “E”. (intro, line 19 of supplied text) EXACT
 
-## §4.1 Inductive justifications of induction (SUMMARY)
-- Rejects the demand for a non-circular justification; focus on *rule-circularity* (an inductive argument that the inductive rule is reliable). Cleve 1984 (externalism: the rule need only be reliable); Papineau 1992 and Lange 2011: no fundamental form of reasoning can be justified non-circularly, even deduction (Carroll 1895, Achilles and the Tortoise).
-- Objection: a counterinductive rule can support itself the same way (Salmon 1963); such an argument cannot persuade a sceptic. Papineau: it is not supposed to do very much.
-- EXACT: "all that we can reasonably demand of a fundamental form of reasoning is that it endorse itself." (Lange 2011: 56)
+> Hume asks on what grounds we come to our beliefs about the unobserved on the basis of inductive inferences. He presents an argument in the form of a dilemma which appears to rule out the possibility of any reasoning from the premises to the conclusion of an inductive inference. There are, he says, two possible types of arguments, “demonstrative” and “probable”, but neither will serve. A demonstrative argument produces the wrong kind of conclusion, and a probable argument would be circular. Therefore, for Hume, the problem remains of how to explain why we form any conclusions that go beyond the past instances of which we have had experience (T. 1.3.6.10). Hume stresses that he is not disputing that we do draw such inferences. The challenge, as he sees it, is to understand the “foundation” of the inference—the “logic” or “process of argument” that it is based upon (E. 4.2.21). The problem of meeting this challenge, while evading Hume’s argument against the possibility of doing so, has become known as “the problem of induction”. (intro, line 21 of supplied text) EXACT
 
-## §5.2 Ordinary language dissolution (SUMMARY)
-- Strawson 1952 (*Introduction to Logical Theory*, London: Methuen), pp. 230, 256–57, 262: asking whether induction in general is justified is confused; particular inductive inferences are judged by inductive standards; asking whether it is reasonable to rely on induction is like asking whether it is reasonable to proportion belief to evidence, and that is what being reasonable means.
-- EXACT: "Doing this is what “being reasonable” means in such a context." (Strawson 1952: 256–57)
-- Objection (BonJour 1998: 198): conforming to our standards is not enough; we need reason to think the conclusion is likely true. Strawson himself allows that whether induction will continue to succeed is a contingent question.
 
-## §5.3 Pragmatic vindication (SUMMARY)
-- Reichenbach 1938 [2006] (*Experience and Prediction*, Chicago: University of Chicago Press) and 1949: accepted Hume's argument but offered a "vindication": if the frequencies in a series converge to a limit, following the straight rule will find it; so it is a rational policy. Outputs are "posits", like wagers.
-- EXACT: "I do not know whether an operation will save the man, but if there is any remedy, it is an operation." (Reichenbach 1938 [2006: 349])
-- Objections: many other methods also converge, so the straight rule is not shown to be uniquely necessary; the vindication is long-run and says little about short-run predictions (BonJour 1998: 194; Salmon 1966: 53).
+## §1 Hume's Problem
+> For convenience, we will refer to this claim of similarity or resemblance between observed and unobserved regularities as the “Uniformity Principle (UP)”. Sometimes it is also called the “Resemblance Principle”, or the “Principle of Uniformity of Nature”. (§1, line 64 of supplied text) EXACT
 
-## §6 Popper (SUMMARY)
-- Popper (1935 [1959], *Logik der Forschung*; trans. *The Logic of Scientific Discovery*, London: Hutchinson, 1959): the problem is insurmountable, but science does not rely on inductive inference; bold conjectures, attempted falsification by modus tollens.
-- EXACT: "science is not in fact based on inductive inferences at all"
-- Objection: incomplete: several unrefuted hypotheses may conflict, and scientists still say one is better supported; Popper's "corroboration" moves away from strict deductivism (Salmon 1981).
+> Second, Hume argues that the reasoning also cannot be “such as regard matter of fact and real existence”. He also calls this “probable” reasoning. All such reasoning, he claims, “proceed upon the supposition, that the future will be conformable to the past”, in other words on the Uniformity Principle (E. 4.2.19). (§1, line 78 of supplied text) EXACT
+
+> Therefore, if the chain of reasoning is based on an argument of this kind it will again be relying on this supposition, “and taking that for granted, which is the very point in question”. (E. 4.2.19, see also T. 1.3.6.7/90). The second type of reasoning then fails to provide a chain of reasoning which is not circular. (§1, line 80 of supplied text) EXACT
+
+> That principle is “custom” or “habit”. The idea is that if one has seen similar objects or events constantly conjoined, then the mind is inclined to expect a similar regularity to hold in the future. The tendency or “propensity” to draw such inferences, is the effect of custom: (§1, line 102 of supplied text) EXACT
+
+
+## §2 Reconstruction
+> Hume’s argument concerns specific inductive inferences such as: All observed instances of A have been B. The next instance of A will be B. Let us call this “inference I”. Inferences which fall under this type of schema are now often referred to as cases of “simple enumerative induction”. Hume’s own example is: All observed instances of bread (of a particular appearance) have been nourishing. The next instance of bread (of that appearance) will be nourishing. (§2, lines 111–123) EXACT
+
+> Hume’s argument then proceeds as follows (premises are labeled as P, and subconclusions and conclusions as C): P1. There are only two kinds of arguments: demonstrative and probable (Hume’s fork). P2. Inference I presupposes the Uniformity Principle (UP). 1st horn: P3. A demonstrative argument establishes a conclusion whose negation is a contradiction. P4. The negation of the UP is not a contradiction. C1. There is no demonstrative argument for the UP (by P3 and P4). 2nd horn: P5. Any probable argument for UP presupposes UP. P6. An argument for a principle may not presuppose the same principle (Non-circularity). C2. There is no probable argument for the UP (by P5 and P6). Consequences: C3. There is no argument for the UP (by P1, C1 and C2). P7. If there is no argument for the UP, there is no chain of reasoning from the premises to the conclusion of any inference that presupposes the UP. C4. There is no chain of reasoning from the premises to the conclusion of inference I (by P2, C3 and P7). P8. If there is no chain of reasoning from the premises to the conclusion of inference I, the inference is not justified. C5. Inference I is not justified (by C4 and P8). (§2, lines 125–158) EXACT
+
+> There have been different interpretations of what Hume means by “demonstrative” and “probable” arguments. Sometimes “demonstrative” is equated with “deductive”, and probable with “inductive” (e.g., Salmon 1966). Then the first horn of Hume’s dilemma would eliminate the possibility of a deductive argument, and the second would eliminate the possibility of an inductive argument. However, under this interpretation, premise P3 would not hold, because it is possible for the conclusion of a deductive argument to be a non-necessary proposition. Premise P3 could be modified to say that a demonstrative (deductive) argument establishes a conclusion that cannot be false if the premises are true. But then it becomes possible that the supposition that the future resembles the past, which is not a necessary proposition, could be established by a deductive argument from some premises, though not from a priori premises (in contradiction to conclusion C1). (§2, line 159 of supplied text) EXACT
+
+> However, recent commentators have argued that in the historical context that Hume was situated in, the distinction he draws between demonstrative and probable arguments has little to do with whether or not the argument has a deductive form (Owen 1999; Garrett 2002). In addition, the class of inferences that establish conclusions whose negation is a contradiction may include not just deductively valid inferences from a priori premises, but any inferences that can be drawn using a priori reasoning (that is, reasoning where the transition from premises to the conclusion makes no appeal to what we learn from observations). It looks as though Hume does intend the argument of the first horn to rule out any a priori reasoning, since he says that a change in the course of nature cannot be ruled out “by any demonstrative argument or abstract reasoning a priori” (E. 5.2.18). On this understanding, a priori arguments would be ruled out by the first horn of Hume’s dilemma, and empirical arguments by the second horn. This is the interpretation that I will adopt for the purposes of this article. (§2, line 163 of supplied text) EXACT
+
+
+## §4.1 Inductive justifications of induction
+> One way to tackle the second horn of Hume’s dilemma is to reject premise P6, which rules out circular arguments. Some have argued that certain kinds of circular arguments would provide an acceptable justification for the inductive inference. Since the justification would then itself be an inductive one, this approach is often referred to as an “inductive justification of induction”. (§4.1, line 557 of supplied text) EXACT
+
+> Hume claims that such arguments presuppose the Uniformity Principle (UP). According to premises P7 and P8, this supposition also needs to be supported by an argument in order that the inductive inference be justified. A natural idea is that we can argue for the Uniformity Principle on the grounds that “it works”. We know that it works, because past instances of arguments which relied upon it were found to be successful. This alone however is not sufficient unless we have reason to think that such arguments will also be successful in the future. That claim must itself be supported by an inductive argument (S): (§4.1, line 565 of supplied text) EXACT
+
+> Most arguments of form X that rely on UP have succeeded in the past. (§4.1, line 567 of supplied text) EXACT
+
+> Therefore, most arguments of form X that rely on UP succeed. (§4.1, line 569 of supplied text) EXACT
+
+> But this argument itself depends on the UP, which is the very supposition which we were trying to justify. (§4.1, line 571 of supplied text) EXACT
+
+> It might be suggested that although a circular argument is ordinarily unable to justify its conclusion, a circular argument is acceptable in the case of justifying a fundamental form of reasoning. After all, there is nowhere more basic to turn, so all that we can reasonably demand of a fundamental form of reasoning is that it endorse itself. (Lange 2011: 56) (§4.1, line 587 of supplied text) EXACT
+
+> Argument S can be used to support inference X, but only for someone who is already prepared to infer inductively by using S. It cannot convince a skeptic who is not prepared to rely upon that rule in the first place. One might think then that the argument is simply not achieving very much. (§4.1, line 607 of supplied text) EXACT
+
+> The response to these concerns is that, as Papineau puts it, the argument is “not supposed to do very much” (Papineau 1992: 18). The fact that a counterinductivist counterpart of the argument exists is true, but irrelevant. It is conceded that the argument cannot persuade either a counterinductivist, or a skeptic. Nonetheless, proponents of the inductive justification maintain that there is still some added value in showing that inductive inferences are reliable, even when we already accept that there is nothing problematic about them. The inductive justification of induction provides a kind of important consistency check on our existing beliefs. (§4.1, line 609 of supplied text) EXACT
+
+
+## §4.2 No rules (vagueness of the UP)
+> Proponents of such views have attacked Hume’s claim that there is a UP on which all inductive inferences are based. There have long been complaints about the vagueness of the Uniformity Principle (Salmon 1953). The future only resembles the past in some respects, but not others. Suppose that on all my birthdays so far, I have been under 40 years old. This does not give me a reason to expect that I will be under 40 years old on my next birthday. There seems then to be a major lacuna in Hume’s account. He might have explained or described how we draw an inductive inference, on the assumption that it is one we can draw. But he leaves untouched the question of how we distinguish between cases where we extrapolate a regularity legitimately, regarding it as a law, and cases where we do not. (§4.2, line 614 of supplied text) EXACT
+
+
+## §5.2 Ordinary language dissolution (Strawson)
+> Rather than allowing undefended empirical postulates to give normative support to an inductive inference, one could instead argue for a completely different conception of what is involved in justification. Like Wittgenstein, later ordinary language philosophers, notably P.F. Strawson, also questioned what exactly it means to ask for a justification of inductive inferences (Strawson 1952). This has become known as the “Ordinary language dissolution” of the problem of induction. (§5.2, line 643 of supplied text) EXACT
+
+> Strawson points out that it could be meaningful to ask for a deductive justification of inductive inferences. But it is not clear that this is helpful since this is effectively “a demand that induction shall be shown to be really a kind of deduction” (Strawson 1952: 230). Rather, Strawson says, when we ask about whether a particular inductive inference is justified, we are typically judging whether it conforms to our usual inductive standards. Suppose, he says, someone has formed the belief by inductive inference that All f’s are g. Strawson says that if that person is asked for their grounds or reasons for holding that belief, (§5.2, line 645 of supplied text) EXACT
+
+> In effect, this approach denies that producing a chain of reasoning is a necessary condition for justification. Rather, an inductive inference is justified if it conforms to the usual standards of inductive justification. But, is there more to it? Might we not ask what reason we have to rely on those inductive standards? (§5.2, line 651 of supplied text) EXACT
+
+> It is an analytic proposition that it is reasonable to have a degree of belief in a statement which is proportional to the strength of the evidence in its favour; and it is an analytic proposition, though not a proposition of mathematics, that, other things being equal, the evidence for a generalisation is strong in proportion as the number of favourable instances, and the variety of circumstances in which they have been found, is great. So to ask whether it is reasonable to place reliance on inductive procedures is like asking whether it is reasonable to proportion the degree of one’s convictions to the strength of the evidence. Doing this is what “being reasonable” means in such a context. (Strawson 1952: 256–57) (§5.2, line 659 of supplied text) EXACT
+
+> The main objection to this view is that conformity to the usual standards is insufficient to provide the needed justification. What we need to know is whether belief in the conclusion of an inductive inference is “epistemically reasonable or justified in the sense that …there is reason to think that it is likely to be true” (BonJour 1998: 198). The problem Hume has raised is whether, despite the fact that inductive inferences have tended to produce true conclusions in the past, we have reason to think the conclusion of an inductive inference we now make is likely to be true. Arguably, establishing that an inductive inference is rational in the sense that it follows inductive standards is not sufficient to establish that its conclusion is likely to be true. In fact Strawson allows that there is a question about whether “induction will continue to be successful”, which is distinct from the question of whether induction is rational. This question he does take to hinge on a “contingent, factual matter” (Strawson 1952: 262). But if it is this question that concerned Hume, it is no answer to establish that induction is rational, unless that claim is understood to involve or imply that an inductive inference carried out according to rational standards is likely to have a true conclusion. (§5.2, line 665 of supplied text) EXACT
+
+
+## §5.3 Pragmatic vindication (Reichenbach)
+> Another solution based on an alternative criterion for justification is the “pragmatic” approach initiated by Reichenbach (1938 [2006]). Reichenbach did think Hume’s argument unassailable, but nonetheless he attempted to provide a weaker kind of justification for induction. In order to emphasize the difference from the kind of justification Hume sought, some have given it a different term and refer to Reichenbach’s solution as a “vindication”, rather than a justification of induction (Feigl 1950; Salmon 1963). (§5.3, line 668 of supplied text) EXACT
+
+> Reichenbach argued that it was not necessary for the justification of inductive inference to show that its conclusion is true. Rather “the proof of the truth of the conclusion is only a sufficient condition for the justification of induction, not a necessary condition” (Reichenbach 2006: 348). If it could be shown, he says, that inductive inference is a necessary condition of success, then even if we do not know that it will succeed, we still have some reason to follow it. Reichenbach makes a comparison to the situation where a man is suffering from a disease, and the physician says “I do not know whether an operation will save the man, but if there is any remedy, it is an operation” (Reichenbach 1938 [2006: 349]). This provides some kind of justification for operating on the man, even if one does not know that the operation will succeed. (§5.3, line 670 of supplied text) EXACT
+
+> Another question is whether Reichenbach has specified the aim of induction too narrowly. Finding series of events whose frequency of occurrence converges to a limit ties the vindication to the long-run, while allowing essentially no constraint on what can be posited in the short-run. Yet it is in the short run that inductive practice actually occurs and where it really needs justification (BonJour 1998: 194; Salmon 1966: 53). (§5.3, line 711 of supplied text) EXACT
+
+
+## §6 Living with inductive skepticism (Hume's own stance; Popper)
+> Hume’s purpose is clearly not to argue that we should not make inductive inferences in everyday life, and indeed his whole method and system of describing the mind in naturalistic terms depends on inductive inferences through and through. The problem of induction then must be seen as a problem that arises only at the level of philosophical reflection. (§6, line 744 of supplied text) EXACT
+
+> Another way to mitigate the force of inductive skepticism is to restrict its scope. Karl Popper, for instance, regarded the problem of induction as insurmountable, but he argued that science is not in fact based on inductive inferences at all (Popper 1935 [1959]). Rather he presented a deductivist view of science, according to which it proceeds by making bold conjectures, and then attempting to falsify those conjectures. In the simplest version of this account, when a hypothesis makes a prediction which is found to be false in an experiment, the hypothesis is rejected as falsified. The logic of this procedure is fully deductive. The hypothesis entails the prediction, and the falsity of the prediction refutes the hypothesis by modus tollens. Thus, Popper claimed that science was not based on the extrapolative inferences considered by Hume. The consequence then is that it is not so important, at least for science, if those inferences would lack a rational foundation. (§6, line 746 of supplied text) EXACT
+
+> Popper’s account appears to be incomplete in an important way. There are always many hypotheses which have not yet been refuted by the evidence, and these may contradict one another. According to the strictly deductive framework, since none are yet falsified, they are all on an equal footing. Yet, scientists will typically want to say that one is better supported by the evidence than the others. We seem to need more than just deductive reasoning to support practical decision-making (Salmon 1981). Popper did indeed appeal to a notion of one hypothesis being better or worse “corroborated” by the evidence. But arguably, this took him away from a strictly deductive view of science. It appears doubtful then that pure deductivism can give an adequate account of scientific method. (§6, line 748 of supplied text) EXACT
+
+
+## Bibliography entries used
+> Carroll, Lewis, 1895, “What the Tortoise said to Achilles”, Mind, 4(14): 278–280. (bibliography, line 767 of supplied text) EXACT
+
+> Cleve, James van, 1984, “Reliability, Justification, and the Problem of Induction”, Midwest Studies In Philosophy: 555–567. (bibliography, line 770 of supplied text) EXACT
+
+> Lange, Marc, 2011, “Hume and the Problem of induction”, in Dov Gabbay, Stephan Hartmann and John Woods (eds.), Inductive Logic, (Handbook of the History of Logic, Volume 10), Amsterdam: Elsevier, pp. 43–92. (bibliography, line 803 of supplied text) EXACT
+
+> Papineau, David, 1992, “Reliabilism, Induction and Scepticism”, The Philosophical Quarterly, 42(166): 1–20. (bibliography, line 816 of supplied text) EXACT
+
+> Popper, Karl, 1935 [1959], Logik der Forschung, Wien: J. Springer. Translated by Popper as The Logic of Scientific Discovery, London: Hutchinson, 1959. (bibliography, line 817 of supplied text) EXACT
+
+> –––, 1938 [2006], Experience and Prediction: An Analysis of the Foundations and the Structure of Knowledge, Chicago: University of Chicago Press. Page numbers from the 2006 edition, Indiana: University of Notre Dame Press. (bibliography, line 820 of supplied text) EXACT
+
+> Russell, Bertrand, 1946, A History of Western Philosophy, London: George Allen and Unwin Ltd. (bibliography, line 822 of supplied text) EXACT
+
+> –––, 1948, Human Knowledge: Its Scope and Limits, New York: Simon and Schuster. (bibliography, line 823 of supplied text) EXACT
+
+> Salmon, Wesley C., 1963, “On Vindicating Induction”, Philosophy of Science, 30(3): 252–261. (bibliography, line 824 of supplied text) EXACT
+
+> –––, 1966, The Foundations of Scientific Inference, Pittsburgh: University of Pittsburgh Press. (bibliography, line 825 of supplied text) EXACT
+
+> Strawson, Peter Frederick, 1952, Introduction to Logical Theory, London: Methuen. (bibliography, line 847 of supplied text) EXACT
+
