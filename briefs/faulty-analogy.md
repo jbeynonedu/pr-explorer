@@ -3,7 +3,7 @@ id: faulty-analogy
 type: fallacy
 section: informal-fallacies
 units: [1]
-stage: checked
+stage: approved
 approved_scope: yes
 ---
 

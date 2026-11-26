@@ -4,7 +4,7 @@ title: Tu quoque (illicit appeal to hypocrisy)
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: checked
+status: approved
 related: [ad-hominem, straw-man, credible, sound, justification-persuasion, informal-fallacy]
 sources: [bland-reason-ch4, sep-fallacies, iep-fallacies]
 ---

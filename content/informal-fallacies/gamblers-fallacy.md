@@ -4,7 +4,7 @@ title: Gambler's fallacy
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: checked
+status: approved
 related: [induction, hasty-generalisation, post-hoc, faulty-analogy, cognitive-bias, strong-weak, informal-fallacy]
 sources: [bland-reason-ch4, iep-fallacies]
 ---

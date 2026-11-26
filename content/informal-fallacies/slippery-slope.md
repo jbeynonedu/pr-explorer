@@ -4,7 +4,7 @@ title: Slippery slope
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: checked
+status: approved
 related: [post-hoc, hypothetical-syllogism, modus-tollens, strong-weak, straw-man, informal-fallacy]
 sources: [bland-reason-ch4, sep-fallacies, iep-fallacies]
 ---

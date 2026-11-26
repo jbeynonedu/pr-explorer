@@ -3,7 +3,7 @@ id: informal-fallacy
 type: term
 section: informal-fallacies
 units: [1;2;3;4]
-stage: checked
+stage: approved
 approved_scope: yes
 ---
 

@@ -4,7 +4,7 @@ title: Illicit appeal to nature
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: checked
+status: approved
 related: [is-ought, descriptive-normative, hidden-premise, ad-populum, value, good, informal-fallacy]
 sources: [bland-reason-ch4, bland-reason-p85-ambiguity, sep-moore, sep-moore-moral, iep-fallacies]
 ---

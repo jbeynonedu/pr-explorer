@@ -4,7 +4,7 @@ title: Informal fallacies
 type: term
 units: [1, 2, 3, 4]
 section: informal-fallacies
-status: checked
+status: approved
 related: [argument, valid, strong-weak, affirming-the-consequent, denying-the-antecedent, descriptive-normative, cognitive-bias]
 sources: [bland-reason-ch4, bland-reason-4-2-intro, bland-reason-is-ought-refs, sep-fallacies, iep-fallacies]
 ---

@@ -4,7 +4,7 @@ title: Composition/division
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: checked
+status: approved
 related: [hasty-generalisation, generalisation, induction, strong-weak, informal-fallacy]
 sources: [bland-reason-ch4, bland-reason-hasty-pattern, sep-fallacies, iep-fallacies]
 ---

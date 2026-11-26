@@ -3,7 +3,7 @@ id: tu-quoque
 type: fallacy
 section: informal-fallacies
 units: [1]
-stage: checked
+stage: approved
 approved_scope: yes
 ---
 

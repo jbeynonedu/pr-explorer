@@ -4,7 +4,7 @@ title: Straw man
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: checked
+status: approved
 related: [ad-hominem, slippery-slope, tu-quoque, justification-persuasion, informal-fallacy]
 sources: [bland-reason-ch4, bland-reason-4-5, sep-fallacies, iep-fallacies]
 ---

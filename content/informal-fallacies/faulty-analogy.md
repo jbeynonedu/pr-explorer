@@ -4,7 +4,7 @@ title: Faulty analogy
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: checked
+status: approved
 related: [analogy, induction, strong-weak, hasty-generalisation, post-hoc, purposes-of-argument, teleological-argument, informal-fallacy]
 sources: [bland-reason-ch4, bland-reason-4-2-intro, bland-reason-5-2-analogy, sep-fallacies, iep-fallacies]
 ---

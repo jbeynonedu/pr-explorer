@@ -4,7 +4,7 @@ title: Hasty generalisation
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: checked
+status: approved
 related: [generalisation, induction, strong-weak, composition-division, gamblers-fallacy, confirmation-bias, informal-fallacy]
 sources: [bland-reason-ch4, bland-reason-4-5, iep-fallacies]
 ---

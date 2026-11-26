@@ -4,7 +4,7 @@ title: Ad misericordiam (illicit appeal to emotion)
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: checked
+status: approved
 related: [justification-persuasion, ad-populum, misuse-of-argument, cognitive-bias, informal-fallacy]
 sources: [bland-reason-ch4, bland-reason-p72-baculum, sep-fallacies, iep-fallacies]
 ---

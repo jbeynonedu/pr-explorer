@@ -4,7 +4,7 @@ title: Post hoc ergo propter hoc (false cause)
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: checked
+status: approved
 related: [cause, induction, hasty-generalisation, slippery-slope, hypothetico-deductive, strong-weak, informal-fallacy]
 sources: [bland-reason-ch4, sep-fallacies, iep-fallacies]
 ---

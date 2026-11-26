@@ -4,7 +4,7 @@ title: Ad populum (illicit appeal to popular opinion/bandwagon fallacy)
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: checked
+status: approved
 related: [ad-verecundiam, ad-misericordiam, hasty-generalisation, credible, strong-weak, justification-persuasion, informal-fallacy]
 sources: [bland-reason-ch4, sep-fallacies, iep-fallacies]
 ---

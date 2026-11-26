@@ -3,7 +3,7 @@ id: begging-the-question
 type: fallacy
 section: informal-fallacies
 units: [1]
-stage: checked
+stage: approved
 approved_scope: yes
 ---
 

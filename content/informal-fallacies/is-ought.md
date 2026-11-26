@@ -4,7 +4,7 @@ title: Is-ought fallacy
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: checked
+status: approved
 related: [descriptive-normative, hidden-premise, appeal-to-nature, valid, morality, value, informal-fallacy]
 sources: [bland-reason-ch1, hume-treatise-3-1-1, sep-hume, sep-hume-moral, searle-1964, dates-searle-flew, sep-moore, sep-moore-moral, iep-fallacies]
 ---

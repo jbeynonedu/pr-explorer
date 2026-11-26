@@ -4,7 +4,7 @@ title: Begging the question
 type: fallacy
 units: [1]
 section: informal-fallacies
-status: checked
+status: approved
 related: [valid, sound, limits-of-deduction, hidden-premise, slippery-slope, informal-fallacy]
 sources: [bland-reason-ch4, bland-reason-p104, sep-fallacies, iep-fallacies, mw-beg-the-question]
 ---
