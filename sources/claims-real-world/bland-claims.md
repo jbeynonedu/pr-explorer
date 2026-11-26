@@ -215,7 +215,7 @@ Extracted 27 Nov 2026. EXACT = copied by script (`extract_bland.py`, not committ
 > ARGUMENTUM AD HOMINEM - ABUSIVE (p. 71)
 > Mr KEATING: The leader of the opposition has asked these questions, knowing nothing. He knew (p. 71)
 
-## ch. 4: straw man and red herring (pp. 76–77) EXACT
+## ch. 4: straw man and red herring (pp. 74–75) EXACT
 
 > Straw Man (p. 74)
 > The straw man fallacy can be subtle but devastating. It occurs when somebody replaces an opponent’s real (p. 74)

@@ -88,7 +88,7 @@ Packs in `sources/claims-real-world/`, fetched with John's Chrome where the shel
 | `justification-persuasion` | `bland-claims.md` (p. 70), `plato-gorgias.md` (454e–455a), `aristotle-rhetoric.md`, `syllabus-essays.md` |
 | `cognitive-bias` | `psychology-bias.md` (Tversky & Kahneman; Pronin et al.), `bland-claims.md` (pp. 89–90) |
 | `confirmation-bias` | `psychology-bias.md` (Nickerson; Wason; Lord, Ross & Lepper), `bacon-novum-organum.md`, `bland-claims.md` (answer key pp. 146–147) |
-| `misuse-of-argument` | `misuse-sources.md` (ACL s 18; ACCC; 1969 tobacco document), `bland-claims.md` (pp. 70–71, 76–77, 89–90) |
+| `misuse-of-argument` | `misuse-sources.md` (ACL s 18; ACCC; 1969 tobacco document), `bland-claims.md` (pp. 70–71, 74–75, 89–90) |
 
 Flags for drafting and checking:
 1. **Bacon**: quote only the first sentence of I.46 (verified against the 1863 Spedding text and IntraText; Nickerson quotes the same wording). Part of the middle of the aphorism comes from IntraText only.
