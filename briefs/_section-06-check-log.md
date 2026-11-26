@@ -36,3 +36,9 @@ One independent checker per entry (shared prompt `briefs/_checker-prompt.md`), r
 - New MUST, fixed: advertising argument's hidden premise now uses the premises' own terms ("developed by a dermatologist", "over a million Australians like"), so it is valid as worded (checked by code).
 - New SHOULD, fixed: related-concept labels aligned with approved entries ("Deductively valid and invalid", "Sound and unsound", "Inductively strong and weak"); Pronin, Lin and Ross given full names; misuse political line now matches the interest-in-the-outcome wording; "best steaks on earth" quoted as the ACCC has it; Wason paragraph attributes the typical behaviour to Nickerson's account and uses "conformed"; "can be how a biased sample arises"; "purported studies (studies presented to them as genuine research)".
 - Open for John: life dates for researchers cited for a study (entries currently give full names and the study year).
+
+## John's review (27 Nov 2026)
+- cognitive-bias: availability and anchoring rewritten for Year 11–12 readers (plain-English availability example in place of the abstract quotation; the anchoring study set out step by step).
+- misuse-of-argument: Questions to explore split, one question at the end of each context tab.
+- Researchers' life dates: not needed (style guide §4 rule added); death dates are still checked wherever they decide copyright status.
+- **Section 6 approved by John, 27 Nov 2026.**

@@ -33,6 +33,7 @@
 ## 4. Naming
 - Fallacies: Latin name first, as in the syllabus, with the English as a subtitle (e.g. **Ad hominem**, *attacking the person*).
 - Thinkers: full name at first mention with dates (e.g. David Hume (1711–1776)), surname after that.
+- Researchers cited for a study (e.g. psychologists): full name and the study's year at first mention (e.g. Amos Tversky and Daniel Kahneman (1974)); no life dates. A translator's or author's death date is still checked wherever it decides copyright status (Australian rule: died before 1955). (John, 27 Nov 2026)
 - Works: italic title, then year of first publication at first mention.
 
 ## 5. Examples
@@ -64,7 +65,7 @@
 | Theory / thinker | Core principles; primary extracts; how it works; applied to a dilemma; criticisms and replies; links | 1,200–2,500 words, split into sub-entries |
 
 - Long entries (argument and theory entries over the typical length, and the term entry `misuse-of-argument`: John, 26 Nov 2026) are split into tabs: mark each tab with `<!-- tab: Label -->` and close with `<!-- tabs-end -->` before Related concepts. Detail is kept, not cut, when it serves later complex-argument work. (John, 26 Nov 2026)
-- "Common mistakes" and "exam tips" only where genuinely useful. No quick-check questions for now. Exception: entries drawn from the syllabus's "Generate questions and theses" dot points (justification and persuasion, cognitive bias, confirmation bias, use and misuse of argument) end with a short "Questions to explore" section of 2–3 open questions for discussion or essays, not quiz questions. (John, 26 Nov 2026)
+- "Common mistakes" and "exam tips" only where genuinely useful. No quick-check questions for now. Exception: entries drawn from the syllabus's "Generate questions and theses" dot points (justification and persuasion, cognitive bias, confirmation bias, use and misuse of argument) end with a short "Questions to explore" section of 2–3 open questions for discussion or essays, not quiz questions. (John, 26 Nov 2026) In `misuse-of-argument` the three questions are split, one at the end of each context tab (John, 27 Nov 2026).
 - Every entry ends with related concepts (links) and sources.
 
 ## 9. Visuals

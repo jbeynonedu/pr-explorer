@@ -4,7 +4,7 @@ title: True and false
 type: term
 units: [1]
 section: claims-real-world
-status: checked
+status: approved
 related: [proposition, claim, plausible, credible, valid, sound, strong-weak, descriptive-normative]
 sources: [bland-reason-ch1, bland-reason-ch3-soundness, sep-truth, sep-relativism]
 ---

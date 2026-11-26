@@ -3,7 +3,7 @@ id: misuse-of-argument
 type: term
 section: claims-real-world
 units: [1]
-stage: checked
+stage: approved
 approved_scope: yes
 ---
 
@@ -41,3 +41,6 @@ Scope approved: all section questions and this entry's questions decided; see th
 ## Questions for John
 1. Section Q5 (tabs and length) and Q6 (examples).
 2. Red herring is not a syllabus fallacy and has no entry. Mention it in one line in the political tab, or leave it out?
+
+## Approval
+Approved by John, 27 Nov 2026.

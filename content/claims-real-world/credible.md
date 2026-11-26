@@ -4,7 +4,7 @@ title: Credible
 type: term
 units: [1]
 section: claims-real-world
-status: checked
+status: approved
 related: [plausible, true-false, claim, ad-verecundiam, ad-hominem, tu-quoque, ad-populum, sound]
 sources: [bland-reason-ch4-ad-hominem, bland-reason-ch6-acceptability, hume-enquiry-x]
 ---

@@ -3,7 +3,7 @@ id: confirmation-bias
 type: term
 section: claims-real-world
 units: [1]
-stage: checked
+stage: approved
 approved_scope: yes
 ---
 
@@ -38,3 +38,6 @@ Section Q9: optional interactive 2-4-6 task. Proposed: yes, if the procedure is 
 
 ## Questions for John
 1. Section Q6 (Lord, Ross and Lepper) and Q9 (interactive).
+
+## Approval
+Approved by John, 27 Nov 2026.

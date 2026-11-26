@@ -4,7 +4,7 @@ title: Use and misuse of argument
 type: term
 units: [1]
 section: claims-real-world
-status: checked
+status: approved
 related: [justification-persuasion, cognitive-bias, confirmation-bias, credible, straw-man, ad-hominem, slippery-slope, ad-populum, ad-verecundiam, appeal-to-nature, ad-misericordiam, strong-weak]
 sources: [bland-reason-ch4-relevance, bland-reason-ch5-charity, acl-s18, accc-false-misleading, ucsf-bw-1969]
 ---
@@ -61,6 +61,10 @@ An interest in the outcome is a reason to check a person's claims more carefully
 
 The principle of charity asks you to interpret an opponent's argument in its strongest, most reasonable form before evaluating it. Straw men, personal attacks and red herrings all avoid the strongest version of the other side's case.
 
+## Question to explore
+
+Is it ever acceptable for a political campaign to use persuasion that does not justify its conclusion?
+
 <!-- tab: Advertising -->
 ## The implied argument
 
@@ -91,6 +95,10 @@ According to the Australian Competition and Consumer Commission (ACCC), it does 
 
 The legal standard is not the logical standard. Wildly exaggerated and vague claims that no one would take seriously ("puffery", such as a restaurant claiming the "best steaks on earth") are generally not considered misleading in law. They are still not reasons to buy.
 
+## Question to explore
+
+Should advertising be held to the standard of a good argument, or only to the standard of not misleading?
+
 <!-- tab: Scientific debate -->
 ## Legitimate disagreement
 
@@ -113,13 +121,11 @@ Doubt can also be pursued as a goal in itself. A 1969 document titled "Smoking a
 
 The aim described here is not to weigh the evidence but to create the appearance of a controversy. It turns a genuine feature of science, that its conclusions are open to revision, into a tool for avoiding them.
 
+## Question to explore
+
+When a scientific question is described as "controversial", how can a non-expert tell whether the controversy is real?
+
 <!-- tabs-end -->
-
-## Questions to explore
-
-- Is it ever acceptable for a political campaign to use persuasion that does not justify its conclusion?
-- Should advertising be held to the standard of a good argument, or only to the standard of not misleading?
-- When a scientific question is described as "controversial", how can a non-expert tell whether the controversy is real?
 
 ## Related concepts
 [Justification and persuasion](justification-persuasion) · [Cognitive bias](cognitive-bias) · [Confirmation bias](confirmation-bias) · [Credible](credible) · [Straw man](straw-man) · [Ad hominem](ad-hominem) · [Slippery slope](slippery-slope) · [Ad populum](ad-populum) · [Ad verecundiam](ad-verecundiam) · [Illicit appeal to nature](appeal-to-nature) · [Ad misericordiam](ad-misericordiam) · [Inductively strong and weak](strong-weak)

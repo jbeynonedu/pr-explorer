@@ -4,7 +4,7 @@ title: Justification and persuasion
 type: term
 units: [1]
 section: claims-real-world
-status: checked
+status: approved
 related: [purposes-of-argument, argument, valid, sound, strong-weak, credible, ad-misericordiam, ad-populum, ad-verecundiam, straw-man, misuse-of-argument]
 sources: [bland-reason-ch4-rhetoric, plato-gorgias-jowett, aristotle-rhetoric-roberts, syllabus-p7]
 ---

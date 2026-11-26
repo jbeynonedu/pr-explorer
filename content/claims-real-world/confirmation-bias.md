@@ -4,7 +4,7 @@ title: Confirmation bias
 type: term
 units: [1]
 section: claims-real-world
-status: checked
+status: approved
 related: [cognitive-bias, hasty-generalisation, generalisation, strong-weak, justification-persuasion, misuse-of-argument]
 sources: [nickerson-1998, wason-1960, lord-ross-lepper-1979, bacon-novum-organum, bland-reason-answers-ch5]
 ---

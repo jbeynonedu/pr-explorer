@@ -4,7 +4,7 @@ title: Plausible
 type: term
 units: [1]
 section: claims-real-world
-status: checked
+status: approved
 related: [true-false, credible, claim, sound, valid, strong-weak, premise]
 sources: [bland-reason-ch3-soundness, bland-reason-ch5-popular-claims, bland-reason-ch6-acceptability]
 ---

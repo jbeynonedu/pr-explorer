@@ -3,7 +3,7 @@ id: cognitive-bias
 type: term
 section: claims-real-world
 units: [1]
-stage: checked
+stage: approved
 approved_scope: yes
 ---
 
@@ -42,3 +42,6 @@ Scope approved: all section questions and this entry's questions decided; see th
 ## Questions for John
 1. Section Q7 (which biases).
 2. Is "systematic departure from good reasoning" the right level, or do you teach a specific definition?
+
+## Approval
+Approved by John, 27 Nov 2026.

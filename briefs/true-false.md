@@ -3,7 +3,7 @@ id: true-false
 type: term
 section: claims-real-world
 units: [1]
-stage: checked
+stage: approved
 approved_scope: yes
 ---
 
@@ -41,3 +41,6 @@ Scope approved: all section questions and this entry's questions decided; see th
 ## Questions for John
 1. ~~Section Q3~~ decided: correspondence as the working account, others in a sentence or two; not too detailed.
 2. "True for me": include as a common mistake, or leave out as a relativism question for later units?
+
+## Approval
+Approved by John, 27 Nov 2026.

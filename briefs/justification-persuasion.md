@@ -3,7 +3,7 @@ id: justification-persuasion
 type: term
 section: claims-real-world
 units: [1]
-stage: checked
+stage: approved
 approved_scope: yes
 ---
 
@@ -43,3 +43,6 @@ Scope approved: all section questions and this entry's questions decided; see th
 ## Questions for John
 1. Section Q4 (question sections) and Q8 (Plato and Aristotle).
 2. Two-by-two grid: worth it?
+
+## Approval
+Approved by John, 27 Nov 2026.

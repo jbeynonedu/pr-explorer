@@ -4,7 +4,7 @@ title: Cognitive bias
 type: term
 units: [1]
 section: claims-real-world
-status: checked
+status: approved
 related: [confirmation-bias, credible, informal-fallacy, gamblers-fallacy, ad-hominem, ad-misericordiam, hasty-generalisation, justification-persuasion, misuse-of-argument]
 sources: [tversky-kahneman-1974, pronin-lin-ross-2002, bland-reason-ch5-charity]
 ---
@@ -29,8 +29,11 @@ A bias is a tendency in the *reasoner*. A [fallacy](informal-fallacy) is a flaw 
 ## Some well-documented heuristics and biases
 
 - **[Confirmation bias](confirmation-bias)**: seeking or interpreting evidence in ways that favour what you already believe.
-- **The availability heuristic**: judging how common or likely something is by how easily examples come to mind. As Tversky and Kahneman put it, "a class whose instances are easily retrieved will appear more numerous".
-- **Anchoring**: estimates are pulled towards a starting value, even an irrelevant one. In one study, a spinning wheel produced an arbitrary starting number. Groups given 10 as their starting point gave a median estimate of 25% for the proportion of African countries in the United Nations; groups given 65 gave 45%.
+- **The availability heuristic**: judging how common or likely something is by how easily examples come to mind. This often works, because things that happen often are usually easy to remember. But it can mislead. If you can quickly think of three friends who were injured playing one particular sport, that sport may seem more dangerous than others, even if injury figures say it is not. Tversky and Kahneman found that things that are easy to recall tend to seem more frequent.
+- **Anchoring**: when people estimate a number, they tend to start from a number already in front of them, the "anchor", and adjust from it. Their final answer stays closer to the anchor than it otherwise would, even when the anchor is clearly irrelevant. In one study:
+  1. A spinning wheel gave each group a number. One group got 10; another got 65.
+  2. Everyone was then asked to estimate the percentage of countries in the United Nations that are African.
+  3. The wheel had nothing to do with the question. Yet the typical (median) answer was 25% in the group that started from 10, and 45% in the group that started from 65.
 - **The bias blind spot**: people tend to see bias much more in others than in themselves (Emily Pronin, Daniel Y. Lin and Lee Ross, 2002).
 
 ## The impact on reasoning

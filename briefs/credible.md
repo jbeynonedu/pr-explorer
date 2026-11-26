@@ -3,7 +3,7 @@ id: credible
 type: term
 section: claims-real-world
 units: [1]
-stage: checked
+stage: approved
 approved_scope: yes
 ---
 
@@ -40,3 +40,6 @@ Scope approved: all section questions and this entry's questions decided; see th
 ## Questions for John
 1. ~~Section Q1 and Q2~~ decided (plausible is face value, not source; source credibility matters for testimony, never for validity or strength).
 2. Hume on testimony in a Unit 1 term entry: worth it, or keep Hume to the problem of induction for now?
+
+## Approval
+Approved by John, 27 Nov 2026.
