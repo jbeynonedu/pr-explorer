@@ -21,7 +21,7 @@ for p in glob.glob(f'{ROOT}/content/*/*.md'):
     files[meta['id']] = (meta, body)
 
 BRANCH = {'building-blocks': 'r', 'symbolic-logic': 'r', 'deduction': 'r', 'informal-fallacies': 'r',
-          'induction': 'r'}
+          'induction': 'r', 'claims-real-world': 'r'}
 
 def render(eid):
     meta, body = files[eid]
