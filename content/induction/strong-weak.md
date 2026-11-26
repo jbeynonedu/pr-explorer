@@ -4,7 +4,7 @@ title: Inductively strong and weak
 type: term
 units: [1]
 section: induction
-status: drafted
+status: checked
 related: [induction, deductive-vs-inductive, valid, sound, true-false, generalisation, analogy, informal-fallacy, hasty-generalisation, faulty-analogy, gamblers-fallacy]
 sources: [bland-reason-induction, bland-reason-ch6, iep-shanahan]
 ---
@@ -37,7 +37,7 @@ The first is weak: three friends are few, and they are unlikely to be typical of
 
 Strength concerns the link between premises and conclusion: *if* the premises are true, how probable do they make the conclusion? Whether the premises *are* true is a separate question. A strong argument with a false premise does not show that its conclusion is probable. A strong argument whose premises are true is called *cogent* in some texts (the inductive counterpart of [sound](sound)).
 
-Even a strong argument with true premises can have a false conclusion; see the limitations of induction in [induction](induction).
+Even a strong argument with true premises can have a false conclusion. A young child might reason that Santa Claus exists because friends, parents and Christmas films all say so, and the snacks left out for him are always eaten. Every premise is true, and together they give very strong support, yet the conclusion is false. See also the limitations of induction in [induction](induction).
 
 ## What affects strength
 
@@ -54,7 +54,7 @@ Strength is one part of evaluating an inductive argument. One framework sets out
 
 1. **Structure**: the premises do not contradict each other or the conclusion, and none simply assumes the conclusion.
 2. **Relevance**: each premise, if true, gives some reason to accept the conclusion.
-3. **Acceptability**: each premise is one a mature, rational person would accept.
+3. **Acceptability**: each premise is one that a thoughtful, reasonable person could accept.
 4. **Sufficiency**: together, the premises are enough to justify the conclusion.
 5. **Rebuttal**: the argument answers the strongest objections to it.
 

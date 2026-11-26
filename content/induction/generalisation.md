@@ -4,7 +4,7 @@ title: Generalisation
 type: term
 units: [1, 2]
 section: induction
-status: drafted
+status: checked
 related: [induction, strong-weak, analogy, hasty-generalisation, composition-division, problem-of-induction, hypothetico-deductive]
 sources: [bland-reason-5-3, bland-reason-5-1, sep-henderson]
 ---

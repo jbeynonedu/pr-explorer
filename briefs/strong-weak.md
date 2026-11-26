@@ -40,3 +40,6 @@ Optional: a simple labelled weak-to-strong scale placing the worked comparison's
 
 ## Scope decision (John, 26 Nov 2026)
 Approved. Damer paragraph: try it, paraphrased, strength kept separate from acceptability.
+
+## Check (independent subagent, 26 Nov 2026)
+Independent check plus re-check: all MUST-FIX findings resolved; re-check SHOULD-FIX items applied. Quotations verified word for word by code; logic claims verified by truth table.

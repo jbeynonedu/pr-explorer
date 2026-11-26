@@ -69,3 +69,6 @@ Argument map (required for argument type).
 
 ## Scope decision (John, 26 Nov 2026)
 Approved as proposed, with uniformity of nature merged in (item 4a). Responses: the four listed; Russell's chicken paraphrased; no Goodman. Popper one paragraph, linking Section 8.
+
+## Check (independent subagent, 26 Nov 2026)
+Independent check plus re-check: all MUST-FIX findings resolved; re-check SHOULD-FIX items applied. Quotations verified word for word by code; logic claims verified by truth table.

@@ -4,7 +4,7 @@ title: Hume's problem of induction
 type: argument
 units: [1, 2]
 section: induction
-status: drafted
+status: checked
 related: [induction, strong-weak, generalisation, deductive-vs-inductive, limits-of-deduction, hidden-premise, begging-the-question, modus-tollens, modus-ponens, hypothetico-deductive, induction-in-science]
 sources: [hume-enquiry, hume-treatise, sep-henderson, russell-problems, bland-induction, thinker-dates]
 ---
@@ -70,7 +70,7 @@ The principle is also hard to state well. The future resembles the past only in 
 
 Hume considers the two kinds of reasoning in turn.
 
-**Not demonstrative.** Demonstrative reasoning concerns relations of ideas: on a widely held reading, it is *a priori* reasoning, as in mathematics. But "it implies no contradiction that the course of nature may change, and that an object, seemingly like those which we have experienced, may be attended with different or contrary effects" (§IV, Part 2). You can coherently imagine bread that poisons, or snow that tastes of salt. So no demonstrative argument can establish the principle.
+**Not demonstrative.** Demonstrative reasoning concerns relations of ideas: on one influential reading, it is *a priori* reasoning, as in mathematics. But "it implies no contradiction that the course of nature may change, and that an object, seemingly like those which we have experienced, may be attended with different or contrary effects" (§IV, Part 2). You can coherently imagine bread that poisons, or snow that tastes of salt. So no demonstrative argument can establish the principle.
 
 **Not probable.** Probable reasoning concerns matters of fact and rests on experience. But all reasoning from experience already assumes the principle. So to support the principle this way
 
@@ -160,12 +160,13 @@ Hume does not conclude that we should stop reasoning from experience. Instead he
 
 In other words: inductive inference is a habit of the mind, a kind of natural instinct, not the result of reasoning. Hume titles this section a "sceptical solution". It explains the inference without justifying it by argument.
 
-Bertrand Russell (1872–1970) gave a well-known illustration in *The Problems of Philosophy* (1912). A chicken is fed by the same man every morning of its life and so expects breakfast whenever he appears, until the morning he comes to kill it. Russell distinguished two things: that past regularities *cause* us to expect them to continue, and whether that expectation has any reasonable ground.
+Bertrand Russell (1872–1970) gave a well-known illustration in *The Problems of Philosophy* (1912). A chicken fed by the same man every day of its life comes to expect food whenever he appears, until the day he kills it instead. Russell distinguished two things: that past regularities *cause* us to expect them to continue, and whether that expectation has any reasonable ground.
 
 ## Objections and replies
 
-**1. Induction has worked so far.** Inductive reasoning has a strong track record, so it will probably go on working. Hume's reply is that this argument is itself inductive, so it assumes what it is meant to show. Defenders reject premise 5: not every circle is vicious. An argument that relies on a *rule* to show that the rule is reliable differs from one that assumes its conclusion as a *premise*, and even deduction cannot be justified to someone who refuses to use modus ponens. Such an argument at least checks that our inductive beliefs are consistent.
+**1. Induction has worked so far.** Inductive reasoning has a strong track record, so it will probably go on working. Hume's reply is that this argument is itself inductive, so it assumes what it is meant to show. Defenders reject premise 5: not every circle is vicious. An argument that relies on a *rule* to show that the rule is reliable differs from one that assumes its conclusion as a *premise*, and even deduction cannot be justified to someone who refuses to use modus ponens.
 *Reply:* the same method lets "counterinduction" (expecting the future to be *unlike* the past) support itself. So the argument cannot persuade a sceptic, or show that induction rather than its rivals is reliable.
+*Response:* defenders concede this, but say the argument was never meant to do so much. It still adds something: a check that our inductive beliefs are consistent with each other.
 
 **2. Induction is what being reasonable means.** P. F. Strawson (1919–2006) argued that asking whether induction *in general* is justified is confused. We judge a particular inductive inference by inductive standards, such as many favourable cases in varied circumstances. Questioning those standards, he held, is like questioning whether we should match our confidence to the strength of the evidence. In Strawson's words, "Doing this is what 'being reasonable' means in such a context."
 *Reply:* meeting our standards is not enough. What Hume questions is whether we have reason to think an inductive conclusion is *likely to be true*. Strawson himself accepts that whether induction will go on succeeding is a separate, factual question.

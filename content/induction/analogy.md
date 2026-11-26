@@ -4,7 +4,7 @@ title: Analogy
 type: term
 units: [1, 2]
 section: induction
-status: drafted
+status: checked
 related: [induction, strong-weak, generalisation, faulty-analogy, purposes-of-argument, teleological-argument]
 sources: [bland-reason-5-2, sep-bartha]
 ---
@@ -39,7 +39,7 @@ Five criteria help to judge an argument from analogy:
 4. **Diversity**: the more diverse the kinds of similarity, the stronger the argument.
 5. **Disanalogy**: are there differences between A and B that bear on Q? A single relevant difference can outweigh many similarities.
 
-Relevance matters most, for similarities and differences alike. The criteria can also pull in different directions, so applying them takes judgement. When the similarities are not relevant enough to support the conclusion, or relevant differences are ignored, the argument commits the fallacy of [faulty analogy](faulty-analogy).
+Relevance matters most, for similarities and differences alike. The criteria can also point different ways in the same case, so applying them takes judgement. When the similarities are not relevant enough to support the conclusion, or relevant differences are ignored, the argument commits the fallacy of [faulty analogy](faulty-analogy).
 
 ## Worked example
 

@@ -46,3 +46,6 @@ See section note Q1.
 
 ## Scope decision (John, 26 Nov 2026)
 Approved. Limitations of induction as a section here (section Q1). Do not use "specific to general" as the definition (section note, reconciling FA3).
+
+## Check (independent subagent, 26 Nov 2026)
+Independent check plus re-check: all MUST-FIX findings resolved; re-check SHOULD-FIX items applied. Quotations verified word for word by code; logic claims verified by truth table.

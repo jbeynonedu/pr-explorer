@@ -44,3 +44,6 @@ See section note Q3.
 
 ## Scope decision (John, 26 Nov 2026)
 Approved, with one "In science" paragraph. Bring in the FA3 criteria where they match Bland (sample size; diversity ≈ representativeness); "absence of counterexamples" to be handled as the effect of a counterexample on a universal generalisation.
+
+## Check (independent subagent, 26 Nov 2026)
+Independent check plus re-check: all MUST-FIX findings resolved; re-check SHOULD-FIX items applied. Quotations verified word for word by code; logic claims verified by truth table.

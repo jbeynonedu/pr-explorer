@@ -4,7 +4,7 @@ title: Induction
 type: term
 units: [1]
 section: induction
-status: drafted
+status: checked
 related: [deduction, deductive-vs-inductive, strong-weak, generalisation, analogy, cause, post-hoc, problem-of-induction, hasty-generalisation, classifying-arguments]
 sources: [bland-reason-induction, bland-reason-5-1, sep-henderson, black-swans]
 ---
@@ -51,7 +51,7 @@ An inductive argument is [strong or weak](strong-weak), not valid or invalid. St
 C. Therefore, all swans are white.
 ```
 
-The swans native to Europe are all white, so the premise could well have been true. But the black swan is native to Australia. In January 1697, the expedition of the Dutch explorer Willem de Vlamingh recorded black swans on the river now called the Swan River. The river was named after them. The conclusion was false all along. Its weakness was that every swan observed came from one part of the world, and nothing visible in Europe showed this.
+The swans native to Europe are all white, so the premise could well have been true. But the black swan is native to Australia. In January 1697, the expedition of the Dutch explorer Willem de Vlamingh recorded black swans on the river now called the Swan River. The river was named after them. The conclusion was false all along. Its weakness was that every swan observed came from one part of the world, and nothing observed in Europe could have revealed this. Even an argument that really is strong, with true premises, can have a false conclusion; see [inductively strong and weak](strong-weak).
 
 This is why inductive conclusions are held open to revision in the light of new evidence. A further limitation is more general. Inductive reasoning from past to future seems to assume that nature will go on behaving as it has. David Hume (1711–1776) is usually read as arguing that this assumption cannot be supported by reasoning without arguing in a circle. See [Hume's problem of induction](problem-of-induction).
 
