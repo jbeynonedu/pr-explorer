@@ -11,7 +11,7 @@ Fetched 26 Nov 2026. EXACT = copied by script from the fetched file; SUMMARY = p
 - Public domain: Hume died 1776 (before 1955). Standard Ebooks contributions CC0.
 - Locators: E section.part.paragraph, as SEP cites the *Enquiry* (SEP bibliography: "Cited by section.part.paragraph"). Paragraphs counted in this edition; agreement with the Clarendon numbering not verified.
 - Spelling: as in this edition (e.g. "eat" for past tense, "judgement").
-- Title note: the 1748 first edition's title is not confirmed here; do not state it without a source.
+- Title note: SEP "David Hume" (WebFetch, SUMMARY) reports the 1748 title as *Philosophical Essays concerning Human Understanding*, renamed in 1758; see `thinker-dates.md`. Not stated in entries.
 
 ## §IV Part 1: relations of ideas and matters of fact (Hume's fork)
 
@@ -62,6 +62,8 @@ Fetched 26 Nov 2026. EXACT = copied by script from the fetched file; SUMMARY = p
 > It is certain that the most ignorant and stupid peasants—nay infants, nay even brute beasts—improve by experience, and learn the qualities of natural objects, by observing the effects which result from them. When a child has felt the sensation of pain from touching the flame of a candle, he will be careful not to put his hand near any candle; but will expect a similar effect from a cause which is similar in its sensible qualities and appearance. If you assert, therefore, that the understanding of the child is led into this conclusion by any process of argument or ratiocination, I may justly require you to produce that argument; nor have you any pretence to refuse so equitable a demand. You cannot say that the argument is abstruse, and may possibly escape your enquiry; since you confess that it is obvious to the capacity of a mere infant. If you hesitate, therefore, a moment, or if, after reflection, you produce any intricate or profound argument, you, in a manner, give up the question, and confess that it is not reasoning which engages us to suppose the past resembling the future, and to expect similar effects from causes which are, to appearance, similar. This is the proposition which I intended to enforce in the present section. If I be right, I pretend not to have made any mighty discovery. And if I be wrong, I must acknowledge myself to be indeed a very backward scholar; since I cannot now discover an argument which, it seems, was perfectly familiar to me long before I was out of my cradle.
 
 ## §V Part 1: custom or habit (Hume's response)
+
+Section title, EXACT (from chapter-5.xhtml): "V: Sceptical Solution of These Doubts"
 
 **E 5.1.5** EXACT
 
