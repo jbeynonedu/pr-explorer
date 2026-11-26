@@ -4,7 +4,7 @@ type: term
 section: induction
 units: [1, 2]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Analogy (term)
@@ -41,4 +41,8 @@ Bland's text stands in for Unit 1 (John, 25 Nov 2026). Unit 2: see section note 
 Optional similarity/difference table in the worked evaluation (Markdown). Proposed: yes, if it reads better than prose.
 
 ## Questions for John
-1. Watchmaker: name and link only (proposed), or a short worked evaluation using the criteria, as Bland does (pp. 96–97)?
+1. Watchmaker: resolved (name and link only).
+2. **"No better alternative explanation" (FA3 notes).** Not in Bland's five. Proposed: include it as a sixth consideration only if a fetched source (e.g. SEP Bartha) supports it; otherwise leave it out of the criteria list.
+
+## Scope decision (John, 26 Nov 2026)
+Approved, with one "In science" paragraph. Watchmaker named and linked, not evaluated.

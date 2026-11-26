@@ -4,7 +4,7 @@ type: term
 section: induction
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Inductively strong and weak (term)
@@ -37,3 +37,6 @@ Optional: a simple labelled weak-to-strong scale placing the worked comparison's
 
 ## Questions for John
 1. **Bland ch. 6 (Damer's five criteria: structure, relevance, acceptability, sufficiency, rebuttal).** These evaluate the whole argument, including whether premises are acceptable, so they cross the strength/truth line. Proposed: one short paragraph, paraphrased (Damer is in copyright), presenting them as a checklist for *evaluating* an inductive argument overall, with strength (relevance + sufficiency) kept distinct from acceptability of premises.
+
+## Scope decision (John, 26 Nov 2026)
+Approved. Damer paragraph: try it, paraphrased, strength kept separate from acceptability.

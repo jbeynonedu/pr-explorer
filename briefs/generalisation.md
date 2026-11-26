@@ -4,7 +4,7 @@ type: term
 section: induction
 units: [1, 2]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Generalisation (term)
@@ -41,3 +41,6 @@ Optional sample-to-population diagram. Proposed: no.
 
 ## Questions for John
 See section note Q3.
+
+## Scope decision (John, 26 Nov 2026)
+Approved, with one "In science" paragraph. Bring in the FA3 criteria where they match Bland (sample size; diversity ≈ representativeness); "absence of counterexamples" to be handled as the effect of a counterexample on a universal generalisation.

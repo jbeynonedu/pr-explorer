@@ -4,7 +4,7 @@ type: term
 section: induction
 units: [1]
 stage: briefed
-approved_scope: no
+approved_scope: yes
 ---
 
 # Brief: Induction (term)
@@ -43,3 +43,6 @@ None.
 
 ## Questions for John
 See section note Q1.
+
+## Scope decision (John, 26 Nov 2026)
+Approved. Limitations of induction as a section here (section Q1). Do not use "specific to general" as the definition (section note, reconciling FA3).

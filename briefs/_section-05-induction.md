@@ -1,6 +1,6 @@
 # Section 5: Induction — section-wide brief notes
 
-Applies to all 6 entries. Entry briefs hold entry-specific scope and questions.
+Applies to all 5 entries (uniformity of nature merged into the problem of induction, John 26 Nov 2026). Entry briefs hold entry-specific scope and questions.
 
 ## Entries and types
 | Entry | Type | Units | Words |
@@ -9,11 +9,13 @@ Applies to all 6 entries. Entry briefs hold entry-specific scope and questions.
 | `strong-weak` Inductively strong and weak | term | 1 | 350–500 |
 | `generalisation` Generalisation | term | 1; 2 | 350–500 |
 | `analogy` Analogy | term | 1; 2 | 400–550 |
-| `uniformity-of-nature` Uniformity of nature | term | 1; 2 | 200–350 |
 | `problem-of-induction` Hume's problem of induction | argument | 1; 2 | 1,000–1,500 |
 
 - **Content dir**: `content/induction/`; `section: induction`.
-- **Unit material**: Bland's text stands in for Unit 1 (John, 25 Nov 2026). Unit 2 philosophy-of-science material is not in the repo or Project (see Q5).
+- **Unit material**: Bland's text stands in for Unit 1 (John, 25 Nov 2026). Unit 2: John's FA3 OneNote notes, philosophy of science, Week 2 Lessons 4–6 (supplied 26 Nov 2026; not committed, as the repo is public). Summary of what bears on this section:
+  - Lesson 4 (induction, generalisation): the 1,000 white swans example and the 1697 black swans note; generalisation strength = sample size, sample diversity, absence of counterexamples; a deduction/induction table using "general to specific".
+  - Lesson 5 (analogy): pattern `A has X, Y, Z / B has X, Y, Z / A has W / ∴ B probably has W`; four criteria: relevant similarities, few relevant disanalogies, breadth of comparison, no better alternative explanation; the watchmaker worked example (Paley, 1802).
+  - Lesson 6 (Hume, 1748): the hidden assumption that the future resembles the past; justifying induction by induction is circular; copper conducts electricity as the worked law; science as tentative.
 - **Shared sources**: Bland, *Reason*, ch. 1 §1.4 pp. 19–21 (incl. footnote 3); ch. 5 pp. 89–100; ch. 6 §6.1 pp. 102–103. Hume, *Enquiry* (1748) §IV and §V, and *Treatise* 1.3.6, from Standard Ebooks (raw.githubusercontent.com: both repos confirmed reachable). SEP "The Problem of Induction" (Henderson) and IEP "Deductive and Inductive Arguments" (Shanahan), for checking; WebFetch gives short exact snippets only, so packs mark lines EXACT or SUMMARY.
 
 ## Consistency with approved entries (do not repeat)
@@ -32,3 +34,19 @@ Applies to all 6 entries. Entry briefs hold entry-specific scope and questions.
 4. **Problem of induction vs Section 8.** Proposed split: `problem-of-induction` covers Hume's argument, his own response (custom/habit) and the general replies; Popper's response is one paragraph linking to Section 8, which covers induction and scientific knowledge in full.
 5. **Unit 2 material.** Do you have philosophy-of-science unit material for the problem of induction (which reconstruction you teach, which responses)? If not, Bland plus the primary text stands in.
 6. **Drafting order.** Proposed: induction → strong-weak → generalisation → analogy → uniformity-of-nature → problem-of-induction. No new exemplar needed for the five terms. For the argument entry, the only argument draft so far (Searle) is at Checked, not approved: follow its shape, and treat problem-of-induction as provisional until one argument entry is approved.
+
+## Scope decision (John, 26 Nov 2026)
+1. Agreed: a "Limitations of induction" section inside `induction`.
+2. Combine: uniformity of nature becomes a section of `problem-of-induction`, not its own entry. Tracker row removed; `uniformity-of-nature` brief folded into `problem-of-induction.md`.
+3. Agreed: one short "In science" paragraph with one sourced example in `analogy` and `generalisation`.
+4. Agreed: Popper one paragraph, linking Section 8.
+5. FA3 notes supplied (above).
+6. Agreed: problem-of-induction follows Searle's shape provisionally. Responses: inductive justification, Strawson, Reichenbach, Popper; Russell's chicken paraphrased; no Goodman.
+7. Agreed: watchmaker named and linked, not evaluated.
+8. Try it: one paraphrased paragraph on Damer's criteria in `strong-weak`, keeping strength separate.
+9. Agreed.
+
+## Reconciling the FA3 notes with approved entries (raised with John, 26 Nov 2026)
+- The notes' table uses "general to specific / specific to general". The approved `deductive-vs-inductive` entry treats this as an unreliable rule of thumb. The Explorer keeps the approved wording; the induction entry will not use "specific to general" as a definition.
+- Analogy criteria: Bland gives truth, relevance, number, diversity, disanalogy; the notes add "no better alternative explanation". See `analogy.md` Q2.
+- Black swans: a strong Australian example for induction and generalisation, if the 1697 date and explorer can be sourced.
