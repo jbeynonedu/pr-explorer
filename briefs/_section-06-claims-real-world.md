@@ -60,3 +60,17 @@ Applies to all 7 entries. Entry briefs hold entry-specific scope and questions.
 9. **Interactive.** Optional for `confirmation-bias`: a small 2-4-6 task (the reader proposes triples, gets yes/no, then guesses the rule). It shows the bias rather than describing it. Proposed: yes, if Wason's procedure can be sourced exactly.
 10. **Unit material.** Do you have your own Unit 1 material on bias, persuasion or real-world argument (lessons, an assessment task)? If not, Bland plus the sources above stand in.
 11. **Drafting order.** Proposed: true-false → plausible → credible → justification-persuasion → cognitive-bias → confirmation-bias → misuse-of-argument (it links to all the others).
+
+## Scope decision (John, 26 Nov 2026)
+1. **Plausible**: almost synonymous with possible; it makes sense on face value, and does *not* lean towards credibility. Plausibility is judged from the claim itself, not its source or support. Raised with John: "plausible" is usually stronger than "logically possible" (a possible claim can be implausible); wording to confirm (see `plausible.md`).
+2. Agreed: source credibility never changes validity or strength; it matters when accepting a claim on someone's word.
+3. Agreed: correspondence as the working account; coherence and pragmatic in a sentence or two each. Not too detailed.
+4. Agreed: "Questions to explore" (2–3 open questions) in `justification-persuasion`, `cognitive-bias`, `confirmation-bias`, `misuse-of-argument`. Style guide §8 updated.
+5. Approved: `misuse-of-argument` at 900–1,300 words in four tabs. Style guide §8 updated.
+6. No answer yet (paired political examples; tobacco memo; Lord, Ross and Lepper).
+7. Agreed: three or four well-sourced biases, with heuristics explained.
+8. No answer yet (Hume, Plato, Bacon quotations).
+9. No answer yet (2-4-6 interactive).
+10. No Unit 1 material of John's own (only a copyrighted text, not used). Bland plus the sources above stand in.
+11. No answer yet (drafting order).
+- Entry-level smaller questions ("true for me"; red herring; two-by-two grid): no answer yet.

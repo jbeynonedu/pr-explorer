@@ -35,6 +35,9 @@ Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026). 
 ## Visuals
 None proposed.
 
+## Scope decision (John, 26 Nov 2026)
+See the section note: Q1 (plausible), Q2, Q3, Q4, Q5 and Q7 decided; Q6, Q8, Q9, Q11 and this entry's own questions pending.
+
 ## Questions for John
-1. Section Q3 (how much on theories of truth).
+1. ~~Section Q3~~ decided: correspondence as the working account, others in a sentence or two; not too detailed.
 2. "True for me": include as a common mistake, or leave out as a relativism question for later units?

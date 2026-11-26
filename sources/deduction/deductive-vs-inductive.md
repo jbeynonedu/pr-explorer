@@ -35,6 +35,7 @@ Refuting a general claim with a single counterexample is a deductive step (modus
 
 ## iep-shanahan-general-specific
 Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*, https://iep.utm.edu/deductive-inductive-arguments/ . In copyright: short quotations only. Fetched 25 Nov 2026 via WebFetch, which returned excerpts of at most 125 characters; the page shows no date (2022 per Loyola Marymount Digital Commons record, digitalcommons.lmu.edu/phil_fac/290). **Re-verify each excerpt against the live page at Checked.**
+- Verified word for word against the full page text pasted by John, 26 Nov 2026 (by code). Italics in these extracts could not be checked (plain-text paste).
 
 §9 "Other Even Less Promising Proposals":
 - The view (attributed to Kreeft, 2005): deductive arguments are those that begin with "a “general” or “universal” premise"; inductive arguments begin with particular premises and reach a more general conclusion.
@@ -61,6 +62,7 @@ Example (ch. 2 §2.5, p. 16): "Every winter so far, it has snowed in Calgary. �
 
 ## iep-shanahan-containment
 Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*, https://iep.utm.edu/deductive-inductive-arguments/ . In copyright: short quotations only. Fetched 25 Nov 2026 via WebFetch (excerpts of at most 125 characters). **Re-verify at Checked.**
+- Verified word for word against the full page text pasted by John, 26 Nov 2026 (by code). Italics in these extracts could not be checked (plain-text paste).
 - §6 "Logical Necessity vs. Probability": Hausman, Boardman and Howard (2021) quoted: "the conclusion of a deductively valid argument is already 'contained' in the premises"; inductive conclusions said to go beyond the premises.
 - §7: McIntyre (2019) quoted: "the truth of the conclusion cannot contain any information that is not already contained in the premises."
 - §7 "The Question of Validity": six logically valid arguments, including "P. Therefore, P or Q." Then: "This calls into question the aptness of the 'contained in' metaphor for explaining the relationship".

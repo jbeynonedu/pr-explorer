@@ -35,6 +35,7 @@ True conclusion does not make an argument sound (or valid): London/Beijing/Paris
 
 ## iep-shanahan-cogent (mention, not focus; John 25 Nov 2026)
 Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*, §1. https://iep.utm.edu/deductive-inductive-arguments/ . In copyright: short quotations only. Fetched 25 Nov 2026 via WebFetch (excerpts of at most 125 characters). **Re-verify at Checked.**
+- Verified word for word against the full page text pasted by John, 26 Nov 2026 (by code). Italics in these extracts could not be checked (plain-text paste).
 - Inductive arguments are said to be strong or weak and, terminology varying, may also be called cogent or not cogent (tool's paraphrase of the longer sentence).
 - "A strong inductive argument is said to be one whose premises render the conclusion likely."
 - "A cogent argument is a strong argument with true premises."

@@ -37,6 +37,9 @@ Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026). 
 ## Visuals
 Optional: a two-by-two grid (justifies / does not justify × persuades / does not persuade) with one example in each cell. Proposed: yes; it shows that the two come apart.
 
+## Scope decision (John, 26 Nov 2026)
+See the section note: Q1 (plausible), Q2, Q3, Q4, Q5 and Q7 decided; Q6, Q8, Q9, Q11 and this entry's own questions pending.
+
 ## Questions for John
 1. Section Q4 (question sections) and Q8 (Plato and Aristotle).
 2. Two-by-two grid: worth it?

@@ -35,6 +35,9 @@ Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026). 
 ## Visuals
 None proposed beyond the tabs.
 
+## Scope decision (John, 26 Nov 2026)
+See the section note: Q1 (plausible), Q2, Q3, Q4, Q5 and Q7 decided; Q6, Q8, Q9, Q11 and this entry's own questions pending.
+
 ## Questions for John
 1. Section Q5 (tabs and length) and Q6 (examples).
 2. Red herring is not a syllabus fallacy and has no entry. Mention it in one line in the political tab, or leave it out?

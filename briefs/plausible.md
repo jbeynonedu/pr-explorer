@@ -20,7 +20,7 @@ Unit 1 Topic 1, p. 12: "Evaluate claims and arguments from a range of sources us
 Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026). See the section note for what bears on this entry; section Q10 asks whether John has his own material.
 
 ## Proposed scope (300–450 words)
-1. **Definition** (Bland p. 67): a claim is plausible if it has the appearance of being true: on first examination (*prima facie*), given what we already know, it seems likely. Working distinction from credible (section Q1), one sentence.
+1. **Definition** (John, 26 Nov 2026; Bland p. 67): a claim is plausible if it makes sense on face value (*prima facie*): it could well be true, judged from the claim itself. Plausibility does not depend on the source or on supporting evidence; that is credibility. One sentence on the difference from `credible`.
 2. **Plausible is not true**: plausibility comes in degrees; it depends on background knowledge, so it can change as knowledge changes; plausible claims can be false and implausible claims can be true. One sourced historical case of an implausible-seeming claim later accepted, or a constructed pair if no clean case is sourced.
 3. **Using plausibility in evaluation**: one line and a link to `sound` for the working standard (plausible + weight of evidence); for inductive arguments, plausibility of premises is a question about acceptability, separate from strength (same wording as `strong-weak`).
 4. **Example**: two premises from one argument, one plausible and one implausible, with why.
@@ -36,3 +36,8 @@ None proposed.
 ## Questions for John
 1. Section Q1 (plausible vs credible).
 2. Historical example of an implausible claim later accepted: is one worth sourcing (e.g. a case from the history of science), or keep to constructed examples?
+
+## Scope decision (John, 26 Nov 2026)
+Plausible is almost synonymous with possible: it makes sense on face value, and does not lean towards credibility.
+
+Raised with John (to confirm wording): "plausible" is usually stronger than "logically possible". "I will win the lottery every week this year" is possible but not plausible. Proposed definition sentence: "A claim is plausible if it makes sense on face value: nothing about the claim itself makes it hard to believe. This is more than being merely possible, and less than being credible or true." The approved `sound` gloss "(it appears to be true)" is consistent with this.

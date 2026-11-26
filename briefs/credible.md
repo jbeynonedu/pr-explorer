@@ -34,6 +34,9 @@ Bland's text stands in for unit material for all of Unit 1 (John, 25 Nov 2026). 
 ## Visuals
 Optional: a short checklist box for judging a source. Proposed: yes, as a formatted list, not a diagram.
 
+## Scope decision (John, 26 Nov 2026)
+See the section note: Q1 (plausible), Q2, Q3, Q4, Q5 and Q7 decided; Q6, Q8, Q9, Q11 and this entry's own questions pending.
+
 ## Questions for John
-1. Section Q1 and Q2.
+1. ~~Section Q1 and Q2~~ decided (plausible is face value, not source; source credibility matters for testimony, never for validity or strength).
 2. Hume on testimony in a Unit 1 term entry: worth it, or keep Hume to the problem of induction for now?

@@ -21,6 +21,7 @@ Note: Bland defines a deductive argument by its **aim** ("aims to prove", p. 17;
 
 ## iep-shanahan-definitions
 Timothy Shanahan, "Deductive and Inductive Arguments", *Internet Encyclopedia of Philosophy*, https://iep.utm.edu/deductive-inductive-arguments/ . In copyright: short quotations only. Fetched 25 Nov 2026 via WebFetch, which returned excerpts of at most 125 characters; the page shows no date (2022 per Loyola Marymount Digital Commons record, digitalcommons.lmu.edu/phil_fac/290). **Re-verify each excerpt against the live page at Checked.**
+- Verified word for word against the full page text pasted by John, 26 Nov 2026 (by code). Italics in these extracts could not be checked (plain-text paste).
 
 Excerpts (§2, §4):
 - Intention-based view (§2): "whereas a deductive argument is *intended* to provide logically conclusive support for its conclusion," (source continues)

@@ -14,6 +14,7 @@
 - Never use "prove" or "proof" for inductive conclusions. Inductive premises *support* or *make probable*.
 - Validity and soundness are all-or-nothing. Never write "partly valid" or "more sound".
 - Claims are **true/false**; they may also be **plausible** or **credible** (syllabus terms). Arguments are not true or false.
+- **Plausible** = makes sense on face value, judged from the claim itself; **credible** = worth believing given its support, especially its source. Do not use them interchangeably. (John, 26 Nov 2026)
 - Use "argument" in its technical sense only; for a disagreement say "debate" or "dispute".
 - Use the syllabus's own name for each item (e.g. "illicit appeal to popular opinion").
 - Sources (Bland, the syllabus, SEP) are credited in the entry's Sources list only. Entry text does not refer to Bland or *Reason* ("Bland's example", "Bland calls..."). Do not comment on what the syllabus does or does not cover ("not in the syllabus", "beyond the syllabus", "not covered here"). The syllabus is a guide, not a hard line: the Explorer covers what it mentions, but may go beyond it or leave parts out. Describe what is covered instead. (John, 26 Nov 2026)
@@ -62,8 +63,8 @@
 | Argument | Primary-text extract; context; standard form; argument map; objections and replies; how to evaluate it | 800–1,500 words |
 | Theory / thinker | Core principles; primary extracts; how it works; applied to a dilemma; criticisms and replies; links | 1,200–2,500 words, split into sub-entries |
 
-- Long entries (argument and theory entries over the typical length) are split into tabs: mark each tab with `<!-- tab: Label -->` and close with `<!-- tabs-end -->` before Related concepts. Detail is kept, not cut, when it serves later complex-argument work. (John, 26 Nov 2026)
-- "Common mistakes" and "exam tips" only where genuinely useful. No quick-check questions for now.
+- Long entries (argument and theory entries over the typical length, and the term entry `misuse-of-argument`: John, 26 Nov 2026) are split into tabs: mark each tab with `<!-- tab: Label -->` and close with `<!-- tabs-end -->` before Related concepts. Detail is kept, not cut, when it serves later complex-argument work. (John, 26 Nov 2026)
+- "Common mistakes" and "exam tips" only where genuinely useful. No quick-check questions for now. Exception: entries drawn from the syllabus's "Generate questions and theses" dot points (justification and persuasion, cognitive bias, confirmation bias, use and misuse of argument) end with a short "Questions to explore" section of 2–3 open questions for discussion or essays, not quiz questions. (John, 26 Nov 2026)
 - Every entry ends with related concepts (links) and sources.
 
 ## 9. Visuals
